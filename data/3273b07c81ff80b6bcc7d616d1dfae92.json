@@ -1,0 +1,2218 @@
+{
+  "block": {
+    "3273b07c-81ff-80b6-bcc7-d616d1dfae92": {
+      "value": {
+        "id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "type": "page",
+        "properties": {
+          "Wx<~": [
+            [
+              "kyoumeiya-probability"
+            ]
+          ],
+          "title": [
+            [
+              "共鳴屋の確率推定"
+            ]
+          ]
+        },
+        "format": {
+          "social_media_image_preview_url": "attachment:6ce501e9-bf70-49f6-ae52-e5dd40cda691:SocialMediaPreviewImage.png"
+        },
+        "content": [
+          "3273b07c-81ff-8089-baa6-e3239d6002eb",
+          "3273b07c-81ff-800a-b787-d65a9ee81bcc",
+          "3273b07c-81ff-8088-9b53-f33268d99216",
+          "3273b07c-81ff-8074-acee-e92e08b8f670",
+          "3273b07c-81ff-80e0-b008-f1d32e4bb180",
+          "3273b07c-81ff-8017-9924-ed58feac2aee",
+          "3273b07c-81ff-80fe-96c2-cc86a798234e",
+          "3273b07c-81ff-80d1-bf3d-cde31d2038ad",
+          "3273b07c-81ff-8098-898d-ffe983567818",
+          "3273b07c-81ff-80ed-9e77-d34c85328c00",
+          "3273b07c-81ff-8077-b917-f3de33c22da5",
+          "3273b07c-81ff-805e-aad1-f29b45be936a",
+          "3273b07c-81ff-80bd-9f1a-c4c90fc88995",
+          "3273b07c-81ff-807b-82af-e5f8ab034abd",
+          "3273b07c-81ff-8008-a27c-c05831c0a962",
+          "3273b07c-81ff-80c8-92c6-c0b10e084f90",
+          "3273b07c-81ff-80f6-af4b-e5947ad6186e",
+          "3273b07c-81ff-806d-ae9f-f449673d321d",
+          "3273b07c-81ff-809f-8f45-e67bfd19b152",
+          "3273b07c-81ff-80cd-bdbe-ed779ff9fb6d",
+          "3273b07c-81ff-8043-8a56-ebbb0e950629",
+          "3273b07c-81ff-80db-b2c4-dd3b963f21f8",
+          "3273b07c-81ff-80b9-b060-f0476d990acc",
+          "3273b07c-81ff-80a1-9ebe-dc3f07e172b8"
+        ],
+        "parent_id": "31e3b07c-81ff-80d0-bbe3-000b7ba93c94",
+        "parent_table": "collection",
+        "created_time": 1773824691544,
+        "last_edited_time": 1773830915666
+      }
+    },
+    "31e3b07c-81ff-8042-8c5e-e6b18885e655": {
+      "value": {
+        "id": "31e3b07c-81ff-8042-8c5e-e6b18885e655",
+        "type": "collection_view",
+        "format": {
+          "collection_pointer": {
+            "id": "31e3b07c-81ff-80d0-bbe3-000b7ba93c94",
+            "table": "collection",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "collection_pointers": [
+            {
+              "id": "31e3b07c-81ff-80d0-bbe3-000b7ba93c94",
+              "table": "collection",
+              "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+            }
+          ]
+        },
+        "parent_id": "2573b07c-81ff-8076-8c97-c512393c2dc8",
+        "parent_table": "block",
+        "collection_id": "31e3b07c-81ff-80d0-bbe3-000b7ba93c94",
+        "view_ids": [
+          "31e3b07c-81ff-8057-9770-000cb352e705"
+        ],
+        "created_time": 1773075852091,
+        "last_edited_time": 1773830895104
+      }
+    },
+    "2573b07c-81ff-8076-8c97-c512393c2dc8": {
+      "value": {
+        "id": "2573b07c-81ff-8076-8c97-c512393c2dc8",
+        "type": "page",
+        "properties": {
+          "t~Sf": [
+            [
+              "others"
+            ]
+          ],
+          "title": [
+            [
+              "その他"
+            ]
+          ]
+        },
+        "format": {
+          "page_cover": "/images/page-cover/solid_beige.png",
+          "page_cover_position": 0.6,
+          "social_media_image_preview_url": "attachment:0eab7c0e-ed9f-40fb-a5ad-56992f43fc6c:SocialMediaPreviewImage.png"
+        },
+        "content": [
+          "2863b07c-81ff-80a4-a367-d6036257a150",
+          "2a03b07c-81ff-8057-82a6-e4746d6f1b63",
+          "31e3b07c-81ff-80eb-bdee-c11af2ab0e47",
+          "31e3b07c-81ff-80c6-9436-e4bfce549efd",
+          "31e3b07c-81ff-8012-bc0f-fa65ed6e2d4f",
+          "31e3b07c-81ff-805d-91fb-e4e8f09ec3d8",
+          "31e3b07c-81ff-807b-96b7-d237ccc621b8",
+          "2a03b07c-81ff-8094-bd88-e09b0ccede98",
+          "2a03b07c-81ff-80fa-b46f-e87f5ec14a65",
+          "31e3b07c-81ff-80cd-9a3b-de8c0a8289ff",
+          "31e3b07c-81ff-80c2-9a4a-daf12ddd5144",
+          "31e3b07c-81ff-80a2-b83a-c2668ee2fec4",
+          "31e3b07c-81ff-8016-944b-c3ba914c432a",
+          "31f3b07c-81ff-80de-ad0e-d15df5b88618",
+          "2893b07c-81ff-80bd-baba-f4c563d1e680",
+          "2913b07c-81ff-803c-92cf-dbd1cc33ae4b",
+          "2a03b07c-81ff-8053-bb5f-f9fbc420dda3",
+          "31e3b07c-81ff-80f0-9f3a-f3d9e5bf34ef",
+          "31e3b07c-81ff-801f-a2dd-fceb1d213f13",
+          "31e3b07c-81ff-80fe-957b-ec347275ff18",
+          "31e3b07c-81ff-8076-b07a-e55fe6a13cb0",
+          "31e3b07c-81ff-80ff-8482-cb5226fff70e",
+          "31e3b07c-81ff-807f-865a-d0d392bbd959",
+          "31e3b07c-81ff-8026-b0ff-d43bb7b4ff54",
+          "31e3b07c-81ff-8042-8c5e-e6b18885e655"
+        ],
+        "parent_id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
+        "parent_table": "collection",
+        "created_time": 1755881175615,
+        "last_edited_time": 1773909674612
+      }
+    },
+    "1ac3b07c-81ff-8068-828b-fec9cdc96765": {
+      "value": {
+        "id": "1ac3b07c-81ff-8068-828b-fec9cdc96765",
+        "type": "collection_view",
+        "format": {
+          "collection_pointer": {
+            "id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
+            "table": "collection",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "page_cover_position": 0.5,
+          "social_media_image_preview_url": "attachment:fb48497c-047a-4a51-8d55-ff2f2a45c136:SocialMediaPreviewImage.png"
+        },
+        "parent_id": "1ac3b07c-81ff-80d1-84a1-f564abe7fef3",
+        "parent_table": "block",
+        "collection_id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
+        "view_ids": [
+          "1ac3b07c-81ff-80ee-821a-000cec78a24c"
+        ],
+        "created_time": 1741119010204,
+        "last_edited_time": 1773502634644
+      }
+    },
+    "1ac3b07c-81ff-80d1-84a1-f564abe7fef3": {
+      "value": {
+        "id": "1ac3b07c-81ff-80d1-84a1-f564abe7fef3",
+        "type": "page",
+        "properties": {
+          "mgJK": [
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1b9a2d41-3d52-470d-b4eb-79f20192b22b",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ]
+          ],
+          "title": [
+            [
+              "崩壊学園編 Wiki"
+            ]
+          ]
+        },
+        "format": {
+          "site_id": "2573b07c-81ff-80ed-96cb-007912ddb61b",
+          "seo_title": "崩壊学園編　ストーリー　Wiki | Notion",
+          "page_cover": "attachment:d4c78f4a-1872-4d8a-836f-48abb3027e69:760ca1e5gy1hi33odeetvj21z4140u03.jpg",
+          "block_locked": false,
+          "block_locked_by": "4e3acacc-a0e3-4eec-9056-a8f06db6234a",
+          "page_full_width": true,
+          "seo_description": "このサイトについて",
+          "copied_from_pointer": {
+            "id": "f1552fed-37eb-4430-a72c-2b7e492693fe",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "page_cover_position": 0.8137,
+          "social_media_image_preview_url": "attachment:48a41782-79c9-4c05-ba30-d07b9906cec8:SocialMediaPreviewImage.png"
+        },
+        "content": [
+          "1ac3b07c-81ff-8068-828b-fec9cdc96765",
+          "1bc3b07c-81ff-8027-b36b-fe45e7913081",
+          "25e3b07c-81ff-80ea-a0bb-dafec40f099c",
+          "1bc3b07c-81ff-8035-a07b-fd6768f2ea47",
+          "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+          "1ac3b07c-81ff-806b-954d-e374dd80aaa6",
+          "25e3b07c-81ff-8029-8c34-f5c8da01f230",
+          "1b83b07c-81ff-80c4-b3ef-e093616890e5",
+          "1dc3b07c-81ff-8073-b8f4-ee5a0a18b2e1",
+          "25e3b07c-81ff-807e-9816-e841c1e019fe",
+          "1cd3b07c-81ff-80c4-956d-c5234f085fe0",
+          "3173b07c-81ff-80b7-858b-d65c8bfee9d4",
+          "31a3b07c-81ff-8060-a854-e628d7af9d30",
+          "3173b07c-81ff-8069-9314-d86189c4435d"
+        ],
+        "parent_id": "a0dd7c4e-7ec8-4586-95da-f282fd0f7cba",
+        "parent_table": "collection",
+        "created_time": 1741118997345,
+        "last_edited_time": 1773507816721
+      }
+    },
+    "43c1134f-28b4-42d1-a716-f9fa638c9e50": {
+      "role": "none"
+    },
+    "1ad3b07c-81ff-80e6-b0a3-c1e8c0daf575": {
+      "role": "none"
+    },
+    "3273b07c-81ff-8089-baa6-e3239d6002eb": {
+      "value": {
+        "id": "3273b07c-81ff-8089-baa6-e3239d6002eb",
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "はじめに"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-8077-b79c-d717d0ac6d5e",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697440,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-800a-b787-d65a9ee81bcc": {
+      "value": {
+        "id": "3273b07c-81ff-800a-b787-d65a9ee81bcc",
+        "type": "divider",
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-8058-9ca9-ce296a3e2d10",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697450,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-8088-9b53-f33268d99216": {
+      "value": {
+        "id": "3273b07c-81ff-8088-9b53-f33268d99216",
+        "type": "tweet",
+        "properties": {
+          "source": [
+            [
+              "https://x.com/sky_gakuen/status/2033841301867925705"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3273b07c-81ff-80ed-8578-fcf4ff8f2abd",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697451,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-8074-acee-e92e08b8f670": {
+      "value": {
+        "id": "3273b07c-81ff-8074-acee-e92e08b8f670",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "xでアンケートを取ったところ、共鳴屋の装備の出現回数は装備によって異なると感じている方が多いようです。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-801a-8130-f1a15aab6332",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697452,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-80e0-b008-f1d32e4bb180": {
+      "value": {
+        "id": "3273b07c-81ff-80e0-b008-f1d32e4bb180",
+        "type": "image",
+        "properties": {
+          "size": [
+            [
+              "57 KiB"
+            ]
+          ],
+          "title": [
+            [
+              "image.png"
+            ]
+          ],
+          "source": [
+            [
+              "attachment:d9fab263-26ee-44b5-90ea-fa94aa350358:image.png"
+            ]
+          ]
+        },
+        "format": {
+          "block_width": 336,
+          "block_height": 423,
+          "display_source": "attachment:d9fab263-26ee-44b5-90ea-fa94aa350358:image.png",
+          "block_full_width": false,
+          "block_page_width": false,
+          "block_aspect_ratio": 0.6911764705882353,
+          "copied_from_pointer": {
+            "id": "3273b07c-81ff-802d-b602-e42b2ca5f98c",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "block_preserve_scale": true
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697453,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-8017-9924-ed58feac2aee": {
+      "value": {
+        "id": "3273b07c-81ff-8017-9924-ed58feac2aee",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "この方",
+              [
+                [
+                  "a",
+                  "https://x.com/aokiui_gakuenn/status/2033929537088852342"
+                ]
+              ]
+            ],
+            [
+              "に教えていただいたのですが、実際に装備によって確率が異なることは明言されていたようです。\nしかし具体的な確率がどのように設定されているのかまでは書かれていませんでした。\nそこで、ver12.4での共鳴屋のデータを合計300回分集計し、簡単に分析を行ってみました。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3273b07c-81ff-80a5-b132-c146fd7b5a7d",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697455,
+        "last_edited_time": 1773824728815
+      }
+    },
+    "3273b07c-81ff-80fe-96c2-cc86a798234e": {
+      "value": {
+        "id": "3273b07c-81ff-80fe-96c2-cc86a798234e",
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "分析"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-809b-a7e9-c8be959d4fab",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697459,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-80d1-bf3d-cde31d2038ad": {
+      "value": {
+        "id": "3273b07c-81ff-80d1-bf3d-cde31d2038ad",
+        "type": "divider",
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-8064-b6b3-f4a588edff5a",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697461,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-8098-898d-ffe983567818": {
+      "value": {
+        "id": "3273b07c-81ff-8098-898d-ffe983567818",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "まず、全ての装備の出現確率は同じであると仮定して分析します。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-80af-b10d-d9e6f1e51b4a",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697461,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-80ed-9e77-d34c85328c00": {
+      "value": {
+        "id": "3273b07c-81ff-80ed-9e77-d34c85328c00",
+        "type": "image",
+        "properties": {
+          "size": [
+            [
+              "219.1 KiB"
+            ]
+          ],
+          "title": [
+            [
+              "image.png"
+            ]
+          ],
+          "source": [
+            [
+              "attachment:387c15f5-f277-48d1-85fc-bcf11015bd95:image.png"
+            ]
+          ]
+        },
+        "format": {
+          "block_width": 3600,
+          "display_source": "attachment:387c15f5-f277-48d1-85fc-bcf11015bd95:image.png",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_aspect_ratio": 0.5,
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-8053-9643-d86ae8e7149b",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "block_preserve_scale": true
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697462,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-8077-b917-f3de33c22da5": {
+      "value": {
+        "id": "3273b07c-81ff-8077-b917-f3de33c22da5",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "観測値と期待値の差をグラフにしてみると、かなり差があることが分かります。\n特に、出現回数が0回の装備が期待値よりかなり多く、3回の装備が期待値より少なくなっています。\np値は4.6e-26と非常に小さく、「全ての装備の出現確率は同じ」という仮説はちゃんと棄却されました。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-80c8-9f18-eeee6b247ead",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697463,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-805e-aad1-f29b45be936a": {
+      "value": {
+        "id": "3273b07c-81ff-805e-aad1-f29b45be936a",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "次は確率のグループが何種類あり、それぞれのグループの設定確率はどれくらいなのかを分析してみます。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-804c-b48f-d965b446d5b0",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697464,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-80bd-9f1a-c4c90fc88995": {
+      "value": {
+        "id": "3273b07c-81ff-80bd-9f1a-c4c90fc88995",
+        "type": "image",
+        "properties": {
+          "size": [
+            [
+              "360.1 KiB"
+            ]
+          ],
+          "title": [
+            [
+              "image.png"
+            ]
+          ],
+          "source": [
+            [
+              "attachment:335ec9e5-24f3-44e0-8b85-c8ee970e6684:image.png"
+            ]
+          ]
+        },
+        "format": {
+          "block_width": 528,
+          "display_source": "attachment:335ec9e5-24f3-44e0-8b85-c8ee970e6684:image.png",
+          "block_full_width": false,
+          "block_page_width": false,
+          "block_aspect_ratio": 0.6,
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-80fb-8737-c982b6470b87",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "block_preserve_scale": true
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697466,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-807b-82af-e5f8ab034abd": {
+      "value": {
+        "id": "3273b07c-81ff-807b-82af-e5f8ab034abd",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "分析の結果"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-8005-8844-f69bdcb74443",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697467,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-8008-a27c-c05831c0a962": {
+      "value": {
+        "id": "3273b07c-81ff-8008-a27c-c05831c0a962",
+        "type": "bulleted_list",
+        "properties": {
+          "title": [
+            [
+              "全体の18.5%が確率0.045%のグループA"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-80f7-ad27-cc23bc5f71ce",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697468,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-80c8-92c6-c0b10e084f90": {
+      "value": {
+        "id": "3273b07c-81ff-80c8-92c6-c0b10e084f90",
+        "type": "bulleted_list",
+        "properties": {
+          "title": [
+            [
+              "全体の81.5%が確率0.252%のグループB"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-805d-8147-c65bc42090aa",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697468,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-80f6-af4b-e5947ad6186e": {
+      "value": {
+        "id": "3273b07c-81ff-80f6-af4b-e5947ad6186e",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "に分類することが、最もデータを説明できることが分かりました。\nグループBはAの5.6倍の出現確率となっています。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-8026-bb12-e916684a441b",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697469,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-806d-ae9f-f449673d321d": {
+      "value": {
+        "id": "3273b07c-81ff-806d-ae9f-f449673d321d",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "このモデルでカイ二乗検定を行うとp値は0.24であり、棄却されませんでした。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3273b07c-81ff-8016-b04b-e4088108653f",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697470,
+        "last_edited_time": 1773824766224
+      }
+    },
+    "3273b07c-81ff-809f-8f45-e67bfd19b152": {
+      "value": {
+        "id": "3273b07c-81ff-809f-8f45-e67bfd19b152",
+        "type": "toggle",
+        "properties": {
+          "title": [
+            [
+              "グループAの装備一覧"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-8007-a273-e6cf2a637b70",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "content": [
+          "3273b07c-81ff-80b7-bd23-fceaccffcd1a"
+        ],
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697471,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-80cd-bdbe-ed779ff9fb6d": {
+      "value": {
+        "id": "3273b07c-81ff-80cd-bdbe-ed779ff9fb6d",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "強い装備は大抵グループAに入れられていると思いきや、意外とそうでもありませんでした（グループ分類はサンプル数が不足しているので、参考程度に考えてください）。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-8033-9ed5-f0e3be763579",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697477,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-8043-8a56-ebbb0e950629": {
+      "value": {
+        "id": "3273b07c-81ff-8043-8a56-ebbb0e950629",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "※例えば日によって異なる確率が設定されているなどの可能性もありますが、私の分析では設定された確率はそのver中は変動しないと仮定しています。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-8061-bee6-c2f46776b796",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697478,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-80db-b2c4-dd3b963f21f8": {
+      "value": {
+        "id": "3273b07c-81ff-80db-b2c4-dd3b963f21f8",
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "結論"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-80f5-bf61-f21e436b2b46",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697479,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-80b9-b060-f0476d990acc": {
+      "value": {
+        "id": "3273b07c-81ff-80b9-b060-f0476d990acc",
+        "type": "divider",
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-80b9-b3c7-f91c62569d94",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697480,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-80a1-9ebe-dc3f07e172b8": {
+      "value": {
+        "id": "3273b07c-81ff-80a1-9ebe-dc3f07e172b8",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "共鳴屋の装備は高確率グループと低確率グループの2グループがあり、出現確率は5.6倍程度の開きがある。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-804b-ab21-f654ecbde55f",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+        "parent_table": "block",
+        "created_time": 1773824697480,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-80b7-bd23-fceaccffcd1a": {
+      "value": {
+        "id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "type": "table",
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-80ac-bfe6-d6d0025fc0e6",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "table_block_column_order": [
+            "s=m^",
+            "CNTo",
+            "Fj[}",
+            "?jQ:"
+          ]
+        },
+        "content": [
+          "3273b07c-81ff-8099-b150-da6b6c22f962",
+          "3273b07c-81ff-8095-9a34-d297283702a6",
+          "3273b07c-81ff-805e-94b9-c3140a858efb",
+          "3273b07c-81ff-80aa-b23f-f66adb402da7",
+          "3273b07c-81ff-8074-98c6-e810915d8d4e",
+          "3273b07c-81ff-80ad-a742-cfd1442f4fe5",
+          "3273b07c-81ff-80d9-a947-ee82efdb207b",
+          "3273b07c-81ff-8013-936c-d58daf460130",
+          "3273b07c-81ff-809b-b264-f28c2c7c0d3d",
+          "3273b07c-81ff-8075-92f1-e83a9964cb35",
+          "3273b07c-81ff-80fd-b8e8-e51172fc77f1",
+          "3273b07c-81ff-800b-98f2-f6141796921e",
+          "3273b07c-81ff-8031-a93e-db56a2bb4e74",
+          "3273b07c-81ff-8049-ba28-fd9aa9f7a7b2",
+          "3273b07c-81ff-800a-8ccc-c159c7ca261e",
+          "3273b07c-81ff-8063-a1a6-c49513e5d40c",
+          "3273b07c-81ff-805f-8ece-c7b45ed828eb",
+          "3273b07c-81ff-8020-984e-e5f8a9a7380c",
+          "3273b07c-81ff-802a-b16f-f2ce766e6455",
+          "3273b07c-81ff-80b2-a54d-c0dda6029f69",
+          "3273b07c-81ff-803e-8d7c-c5ebe8db726e",
+          "3273b07c-81ff-80e4-992f-fda0d43a299f",
+          "3273b07c-81ff-8068-923e-f4f85cb942dc",
+          "3273b07c-81ff-8056-9595-da45a038d02d"
+        ],
+        "parent_id": "3273b07c-81ff-809f-8f45-e67bfd19b152",
+        "parent_table": "block",
+        "created_time": 1773824697471,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-8099-b150-da6b6c22f962": {
+      "value": {
+        "id": "3273b07c-81ff-8099-b150-da6b6c22f962",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "フェンリルの牙"
+            ]
+          ],
+          "CNTo": [
+            [
+              "ルシアンの秘宝"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "アテーナーの号令"
+            ]
+          ],
+          "s=m^": [
+            [
+              "死の魔眼"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-80cf-a76e-cbe90ec7cc56",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697471,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-8095-9a34-d297283702a6": {
+      "value": {
+        "id": "3273b07c-81ff-8095-9a34-d297283702a6",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "バーサーカー"
+            ]
+          ],
+          "CNTo": [
+            [
+              "ヘルの呪い"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "ブリュンヒルデの渦"
+            ]
+          ],
+          "s=m^": [
+            [
+              "戦神無双"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-80b5-a0cd-d48bca184fa9",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697472,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-805e-94b9-c3140a858efb": {
+      "value": {
+        "id": "3273b07c-81ff-805e-94b9-c3140a858efb",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "運命のタロット"
+            ]
+          ],
+          "CNTo": [
+            [
+              "マッドキラー"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "月輪の甲冑"
+            ]
+          ],
+          "s=m^": [
+            [
+              "イシスの庇護"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-8036-a5b9-f61d9024a5c9",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697472,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-80aa-b23f-f66adb402da7": {
+      "value": {
+        "id": "3273b07c-81ff-80aa-b23f-f66adb402da7",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "領域崩壊"
+            ]
+          ],
+          "CNTo": [
+            [
+              "ヴェイダーの復讐"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "暁光の重剣"
+            ]
+          ],
+          "s=m^": [
+            [
+              "黒の聖杯"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-80af-a9d6-cc329c448c68",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697472,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-8074-98c6-e810915d8d4e": {
+      "value": {
+        "id": "3273b07c-81ff-8074-98c6-e810915d8d4e",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "アストライアー"
+            ]
+          ],
+          "CNTo": [
+            [
+              "ゼーレの調律"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "ヒドラの吐息"
+            ]
+          ],
+          "s=m^": [
+            [
+              "クロノスの影"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-8089-be59-e3d7d35d75d2",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697472,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-80ad-a742-cfd1442f4fe5": {
+      "value": {
+        "id": "3273b07c-81ff-80ad-a742-cfd1442f4fe5",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "冥界の曲"
+            ]
+          ],
+          "CNTo": [
+            [
+              "円環の理"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "毒の歌"
+            ]
+          ],
+          "s=m^": [
+            [
+              "モロトフ・カクテル"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-8013-bfc6-d45da0a51d89",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697472,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-80d9-a947-ee82efdb207b": {
+      "value": {
+        "id": "3273b07c-81ff-80d9-a947-ee82efdb207b",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "カロリー少女"
+            ]
+          ],
+          "CNTo": [
+            [
+              "誓約の十字架"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "ニーズホッグの心臓"
+            ]
+          ],
+          "s=m^": [
+            [
+              "ケルベロスの涎"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-8025-b989-fe95cdc5c7fe",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697472,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-8013-936c-d58daf460130": {
+      "value": {
+        "id": "3273b07c-81ff-8013-936c-d58daf460130",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "花鳥紋銀の香袋"
+            ]
+          ],
+          "CNTo": [
+            [
+              "そして誰もいなくなる"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "ライヘンバッハの滝"
+            ]
+          ],
+          "s=m^": [
+            [
+              "バスクビールの猟犬"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-809a-8290-cb2992c49de5",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697472,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-809b-b264-f28c2c7c0d3d": {
+      "value": {
+        "id": "3273b07c-81ff-809b-b264-f28c2c7c0d3d",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "逆水錦鯉の佩玉"
+            ]
+          ],
+          "CNTo": [
+            [
+              "未知の紋章"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "飛鳥集"
+            ]
+          ],
+          "s=m^": [
+            [
+              "The Moon"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-8083-9320-ff72883f14a4",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697472,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-8075-92f1-e83a9964cb35": {
+      "value": {
+        "id": "3273b07c-81ff-8075-92f1-e83a9964cb35",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "熾天使の翼"
+            ]
+          ],
+          "CNTo": [
+            [
+              "ドリュアスの神語"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "伊邪那美"
+            ]
+          ],
+          "s=m^": [
+            [
+              "シィルの水晶"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-80f1-bba0-f0909ecf5203",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697472,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-80fd-b8e8-e51172fc77f1": {
+      "value": {
+        "id": "3273b07c-81ff-80fd-b8e8-e51172fc77f1",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "ドロシーの黒猫"
+            ]
+          ],
+          "CNTo": [
+            [
+              "街の雪物語"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "太陽を落とす炎弓"
+            ]
+          ],
+          "s=m^": [
+            [
+              "求道者の証"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-8068-b514-d75250730e96",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697472,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-800b-98f2-f6141796921e": {
+      "value": {
+        "id": "3273b07c-81ff-800b-98f2-f6141796921e",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "アザトース･混沌の核"
+            ]
+          ],
+          "CNTo": [
+            [
+              "ロンギヌスの槍"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "ブラギの詩"
+            ]
+          ],
+          "s=m^": [
+            [
+              "知恵の泉"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-8021-8eff-cd3b2c57196c",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697472,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-8031-a93e-db56a2bb4e74": {
+      "value": {
+        "id": "3273b07c-81ff-8031-a93e-db56a2bb4e74",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "ガイアの生命理論"
+            ]
+          ],
+          "CNTo": [
+            [
+              "リズムマスター"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "オーロラ楽章"
+            ]
+          ],
+          "s=m^": [
+            [
+              "弾薬の流れ"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-80c2-84c8-f5bd40fa7156",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697472,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-8049-ba28-fd9aa9f7a7b2": {
+      "value": {
+        "id": "3273b07c-81ff-8049-ba28-fd9aa9f7a7b2",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "三相女神ヘカテー"
+            ]
+          ],
+          "CNTo": [
+            [
+              "湾曲時空の鍵"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "九黎の悲願"
+            ]
+          ],
+          "s=m^": [
+            [
+              "黒氷弓"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-80fd-b592-dff94ec09d79",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697472,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-800a-8ccc-c159c7ca261e": {
+      "value": {
+        "id": "3273b07c-81ff-800a-8ccc-c159c7ca261e",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "ニャン語の達人"
+            ]
+          ],
+          "CNTo": [
+            [
+              "カーリーの血浴"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "シュブ･ニグラス"
+            ]
+          ],
+          "s=m^": [
+            [
+              "印象･日の出"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-806c-9410-dac9a05e5576",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697472,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-8063-a1a6-c49513e5d40c": {
+      "value": {
+        "id": "3273b07c-81ff-8063-a1a6-c49513e5d40c",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "冥界の裁判"
+            ]
+          ],
+          "CNTo": [
+            [
+              "女媧の補天石"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "アスクレピオス"
+            ]
+          ],
+          "s=m^": [
+            [
+              "ルルイエ異本"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-80be-a72b-cc58ed63fe86",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697472,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-805f-8ece-c7b45ed828eb": {
+      "value": {
+        "id": "3273b07c-81ff-805f-8ece-c7b45ed828eb",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "バタフライ効果"
+            ]
+          ],
+          "CNTo": [
+            [
+              "荊棘の贈り物"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "核粒子銃砲"
+            ]
+          ],
+          "s=m^": [
+            [
+              "西風に寄せる歌"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-80b5-931a-e1805bdd225d",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697473,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-8020-984e-e5f8a9a7380c": {
+      "value": {
+        "id": "3273b07c-81ff-8020-984e-e5f8a9a7380c",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "欧米圏の祭"
+            ]
+          ],
+          "CNTo": [
+            [
+              "方寸の死闘"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "雲笈七籤"
+            ]
+          ],
+          "s=m^": [
+            [
+              "花見酒"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-80af-8003-dc37f4c7ce5d",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697473,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-802a-b16f-f2ce766e6455": {
+      "value": {
+        "id": "3273b07c-81ff-802a-b16f-f2ce766e6455",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "死境再臨"
+            ]
+          ],
+          "CNTo": [
+            [
+              "ケイローンの指導"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "アスモデウスの誘惑"
+            ]
+          ],
+          "s=m^": [
+            [
+              "ウーレアーの神格"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-80ef-a8a3-dfd49852ce23",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697473,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-80b2-a54d-c0dda6029f69": {
+      "value": {
+        "id": "3273b07c-81ff-80b2-a54d-c0dda6029f69",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "スカート少女の儀"
+            ]
+          ],
+          "CNTo": [
+            [
+              "降世魔龍の契"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "魚"
+            ]
+          ],
+          "s=m^": [
+            [
+              "七冠の赤竜"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-8077-a19e-d30ebd83bf05",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697473,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-803e-8d7c-c5ebe8db726e": {
+      "value": {
+        "id": "3273b07c-81ff-803e-8d7c-c5ebe8db726e",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "三千世界の鴉を殺し"
+            ]
+          ],
+          "CNTo": [
+            [
+              "白沢の嘯き"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "ラーの涙"
+            ]
+          ],
+          "s=m^": [
+            [
+              "触った"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-80f1-9931-d67534318aa8",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697473,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-80e4-992f-fda0d43a299f": {
+      "value": {
+        "id": "3273b07c-81ff-80e4-992f-fda0d43a299f",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "蒼銀の捕食者"
+            ]
+          ],
+          "CNTo": [
+            [
+              "テューポーンの拳"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "ぐつぐつ紅茶砲"
+            ]
+          ],
+          "s=m^": [
+            [
+              "息雨の魃封"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-8069-822f-ce27212db93e",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697473,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-8068-923e-f4f85cb942dc": {
+      "value": {
+        "id": "3273b07c-81ff-8068-923e-f4f85cb942dc",
+        "type": "table_row",
+        "properties": {
+          "?jQ:": [
+            [
+              "風雪を超える気持ち"
+            ]
+          ],
+          "CNTo": [
+            [
+              "ヴァレファールの秘密"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "ノーデンスの囁き"
+            ]
+          ],
+          "s=m^": [
+            [
+              "真夏の思い出"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-8076-a524-c37b717bc29d",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697473,
+        "last_edited_time": 1773824697493
+      }
+    },
+    "3273b07c-81ff-8056-9595-da45a038d02d": {
+      "value": {
+        "id": "3273b07c-81ff-8056-9595-da45a038d02d",
+        "type": "table_row",
+        "properties": {
+          "CNTo": [
+            [
+              "パインケンシュタイン"
+            ]
+          ],
+          "Fj[}": [
+            [
+              "戦神ミルクパック"
+            ]
+          ],
+          "s=m^": [
+            [
+              "七星隕鉄霰"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "3253b07c-81ff-80f6-9f56-f60dae79d70f",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "3273b07c-81ff-80b7-bd23-fceaccffcd1a",
+        "parent_table": "block",
+        "created_time": 1773824697473,
+        "last_edited_time": 1773824697493
+      }
+    }
+  },
+  "collection": {
+    "31e3b07c-81ff-80d0-bbe3-000b7ba93c94": {
+      "value": {
+        "id": "31e3b07c-81ff-80d0-bbe3-000b7ba93c94",
+        "version": 31,
+        "name": [
+          [
+            "その他"
+          ]
+        ],
+        "schema": {
+          "Wx<~": {
+            "name": "Slug",
+            "type": "text"
+          },
+          "title": {
+            "name": "名前",
+            "type": "title"
+          }
+        },
+        "format": {
+          "layout_pointer": {
+            "id": "31f3b07c-81ff-8067-9a69-006ede68ebe3",
+            "table": "layout",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "ai_suggested_properties": [
+            {
+              "name": "作成日",
+              "type": "date"
+            },
+            {
+              "name": "担当者",
+              "type": "person"
+            },
+            {
+              "name": "ステータス",
+              "type": "select",
+              "options": [
+                {
+                  "id": "v_SS",
+                  "color": "yellow",
+                  "value": "未開始"
+                },
+                {
+                  "id": ":ARS",
+                  "color": "gray",
+                  "value": "進行中"
+                },
+                {
+                  "id": "TEVN",
+                  "color": "pink",
+                  "value": "完了"
+                }
+              ]
+            },
+            {
+              "name": "関連ファイル",
+              "type": "file"
+            }
+          ],
+          "page_section_visibility": {
+            "comments": "section_hide",
+            "backlinks": "section_collapsed",
+            "margin_comments": "inline"
+          }
+        },
+        "parent_id": "31e3b07c-81ff-8042-8c5e-e6b18885e655",
+        "parent_table": "block",
+        "alive": true,
+        "migrated": true,
+        "space_id": "f25e8375-dff8-499a-b7bf-74566e1055df",
+        "created_time": 1773075852092,
+        "last_edited_time": 1773134709700,
+        "created_by_table": "notion_user",
+        "created_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a"
+      },
+      "role": "reader"
+    },
+    "1ac3b07c-81ff-8086-a96b-000b78a078f2": {
+      "value": {
+        "id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
+        "version": 51,
+        "name": [
+          [
+            "目次"
+          ]
+        ],
+        "schema": {
+          "`q`e": {
+            "name": "タグ",
+            "type": "multi_select"
+          },
+          "t~Sf": {
+            "name": "Slug",
+            "type": "text"
+          },
+          "title": {
+            "name": "名前",
+            "type": "title"
+          }
+        },
+        "format": {
+          "layout_pointer": {
+            "id": "1ac3b07c-81ff-80e0-9466-006e60a7ae40",
+            "table": "layout",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "property_visibility": [
+            {
+              "property": "vidt",
+              "visibility": "show"
+            },
+            {
+              "property": "`q`e",
+              "visibility": "show"
+            },
+            {
+              "property": "t~Sf",
+              "visibility": "show"
+            }
+          ],
+          "metadata_copied_from": {
+            "id": "1ac3b07c-81ff-8068-828b-fec9cdc96765",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "ai_suggested_properties": [
+            {
+              "name": "説明",
+              "type": "text"
+            },
+            {
+              "name": "更新日時",
+              "type": "date"
+            },
+            {
+              "name": "担当者",
+              "type": "person"
+            },
+            {
+              "name": "優先度",
+              "type": "select",
+              "options": [
+                {
+                  "id": "Wegk",
+                  "color": "yellow",
+                  "value": "高"
+                },
+                {
+                  "id": ";HBU",
+                  "color": "purple",
+                  "value": "中"
+                },
+                {
+                  "id": "Zark",
+                  "color": "default",
+                  "value": "低"
+                }
+              ]
+            },
+            {
+              "name": "ステータス",
+              "type": "status"
+            },
+            {
+              "name": "関連ファイル",
+              "type": "file"
+            },
+            {
+              "name": "連絡先メール",
+              "type": "email"
+            },
+            {
+              "name": "連絡先電話番号",
+              "type": "phone_number"
+            },
+            {
+              "name": "カテゴリー",
+              "type": "multi_select",
+              "options": [
+                {
+                  "id": "o>B<",
+                  "color": "orange",
+                  "value": "技術"
+                },
+                {
+                  "id": "ksAA",
+                  "color": "pink",
+                  "value": "マーケティング"
+                },
+                {
+                  "id": "}yWP",
+                  "color": "brown",
+                  "value": "デザイン"
+                },
+                {
+                  "id": "lt{K",
+                  "color": "yellow",
+                  "value": "管理"
+                }
+              ]
+            },
+            {
+              "name": "予算",
+              "type": "number"
+            }
+          ],
+          "page_section_visibility": {
+            "comments": "section_hide",
+            "backlinks": "section_collapsed",
+            "margin_comments": "minimal"
+          },
+          "collection_cover_position": 0.7987,
+          "collection_page_properties": [
+            {
+              "visible": true,
+              "property": "vidt"
+            },
+            {
+              "visible": true,
+              "property": "`q`e"
+            }
+          ]
+        },
+        "parent_id": "1ac3b07c-81ff-8068-828b-fec9cdc96765",
+        "parent_table": "block",
+        "alive": true,
+        "file_ids": [
+          "4f9fcbb9-8c79-49e0-98bf-457ceee7859a"
+        ],
+        "migrated": true,
+        "space_id": "f25e8375-dff8-499a-b7bf-74566e1055df",
+        "deleted_schema": {
+          "FE|;": {
+            "name": "全項目",
+            "type": "relation",
+            "version": "v2",
+            "property": "qhFA",
+            "autoRelate": {
+              "enabled": false
+            },
+            "collection_id": "3173b07c-81ff-8097-a182-000bbb96d5ad",
+            "collection_pointer": {
+              "id": "3173b07c-81ff-8097-a182-000bbb96d5ad",
+              "table": "collection",
+              "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+            }
+          },
+          "vidt": {
+            "name": "作成日時",
+            "type": "created_time"
+          }
+        },
+        "created_time": 1741119010204,
+        "last_edited_time": 1773502634644,
+        "created_by_table": "notion_user",
+        "created_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a"
+      },
+      "role": "reader"
+    },
+    "a0dd7c4e-7ec8-4586-95da-f282fd0f7cba": {
+      "role": "none"
+    }
+  },
+  "collection_view": {
+    "31e3b07c-81ff-8057-9770-000cb352e705": {
+      "value": {
+        "id": "31e3b07c-81ff-8057-9770-000cb352e705",
+        "version": 33,
+        "type": "table",
+        "format": {
+          "table_wrap": true,
+          "table_properties": [
+            {
+              "width": 280,
+              "visible": true,
+              "property": "title"
+            },
+            {
+              "visible": true,
+              "property": "Wx<~"
+            }
+          ],
+          "collection_pointer": {
+            "id": "31e3b07c-81ff-80d0-bbe3-000b7ba93c94",
+            "table": "collection",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "collection_peek_mode": "full_page"
+        },
+        "parent_id": "31e3b07c-81ff-8042-8c5e-e6b18885e655",
+        "parent_table": "block",
+        "alive": true,
+        "page_sort": [
+          "1c83b07c-81ff-803f-99b6-f7010f54b710",
+          "2813b07c-81ff-805c-afb1-cb31163b9008",
+          "2573b07c-81ff-80cf-9c6a-dbf0e949f824",
+          "28f3b07c-81ff-803f-854a-f8f2b00feaaa",
+          "31a3b07c-81ff-8022-adbc-ca10ebdb3f76",
+          "2e03b07c-81ff-8072-8667-cee40b433efb",
+          "2e23b07c-81ff-80d1-8c47-e84f187eedfa",
+          "2a03b07c-81ff-80f1-b394-c370e9a021a4",
+          "2d33b07c-81ff-8022-98cc-c7096bf94263",
+          "31e3b07c-81ff-80c6-ba3e-daa810e4abe9",
+          "3273b07c-81ff-80b6-bcc7-d616d1dfae92",
+          "27d3b07c-81ff-8021-9242-d4982307fd8f",
+          "25e3b07c-81ff-80fe-8eca-e43fbea99f30",
+          "2b53b07c-81ff-80a8-8d84-fd01e0a45e0f",
+          "28f3b07c-81ff-8037-8280-c4a6bf7a56f2",
+          "31e3b07c-81ff-80ed-9c2c-c0f487f0dc04"
+        ],
+        "space_id": "f25e8375-dff8-499a-b7bf-74566e1055df",
+        "created_time": 1773075852098,
+        "last_edited_time": 1773830900183,
+        "created_by_table": "notion_user",
+        "created_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a"
+      },
+      "role": "reader"
+    },
+    "1ac3b07c-81ff-80ee-821a-000cec78a24c": {
+      "value": {
+        "id": "1ac3b07c-81ff-80ee-821a-000cec78a24c",
+        "version": 58,
+        "type": "gallery",
+        "name": "ギャラリービュー",
+        "format": {
+          "table_wrap": false,
+          "gallery_cover": {
+            "type": "page_cover"
+          },
+          "show_page_icon": false,
+          "collection_pointer": {
+            "id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
+            "table": "collection",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "gallery_cover_size": "medium",
+          "collection_peek_mode": "full_page",
+          "gallery_cover_aspect": "cover"
+        },
+        "parent_id": "1ac3b07c-81ff-8068-828b-fec9cdc96765",
+        "parent_table": "block",
+        "alive": true,
+        "page_sort": [
+          "1ac3b07c-81ff-8089-98b4-ec9f8c06db35",
+          "1ad3b07c-81ff-80ba-be4c-ef2bb448c0e8",
+          "1ac3b07c-81ff-80ad-9d61-ef632d261b8f",
+          "1ad3b07c-81ff-803d-b570-dd34e00c1df5",
+          "1ad3b07c-81ff-80e4-8271-c7f781e181c3",
+          "1ad3b07c-81ff-809c-8204-e16483640fa5",
+          "1c83b07c-81ff-800b-a0c3-f295d7423d6d",
+          "1c83b07c-81ff-803f-99b6-f7010f54b710",
+          "3173b07c-81ff-8001-882a-f4808ecf3cc9",
+          "3173b07c-81ff-8007-9e56-f698ccc5d61b",
+          "3173b07c-81ff-8094-a02b-dd39382302cf",
+          "2573b07c-81ff-8076-8c97-c512393c2dc8",
+          "1b63b07c-81ff-809a-8e66-e4e88abf2006"
+        ],
+        "query2": {
+          "aggregations": [
+            {
+              "aggregator": "count"
+            }
+          ]
+        },
+        "space_id": "f25e8375-dff8-499a-b7bf-74566e1055df",
+        "created_time": 1773029610624,
+        "last_edited_time": 1773315837715,
+        "created_by_table": "notion_user",
+        "created_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a"
+      },
+      "role": "reader"
+    },
+    "5531d29a-4e77-406f-a1fc-32cd5bbafec7": {
+      "role": "none"
+    },
+    "5dd8ee8a-3d52-42e6-b781-ac5db580f283": {
+      "role": "none"
+    },
+    "401ba18e-ee37-450f-b369-015c2957f5d4": {
+      "role": "none"
+    },
+    "5961b724-b949-48b2-aef2-d5c03eacd1d8": {
+      "role": "none"
+    },
+    "1ad3b07c-81ff-8037-9574-000c12eb1c9d": {
+      "role": "none"
+    }
+  },
+  "collection_query": {}
+}

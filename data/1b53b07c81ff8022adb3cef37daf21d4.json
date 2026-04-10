@@ -1,0 +1,2458 @@
+{
+  "block": {
+    "1b53b07c-81ff-8022-adb3-cef37daf21d4": {
+      "value": {
+        "id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "type": "page",
+        "properties": {
+          "qhFA": [
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1ac3b07c-81ff-8089-98b4-ec9f8c06db35",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ]
+          ],
+          "title": [
+            [
+              "銃火器訓練"
+            ]
+          ],
+          "84d957e0-e0fe-4c76-8e91-ebfb7263668c": [
+            [
+              "lore-firearms-training"
+            ]
+          ]
+        },
+        "format": {
+          "slug": "juukakikunren",
+          "page_cover": "attachment:ddd514ac-f791-4483-a454-1f1de6ce8150:Screenshot_2025.03.17_06.04.42.183.png",
+          "page_cover_position": 0.8124
+        },
+        "content": [
+          "1b53b07c-81ff-807f-9acb-d0e056d34d67",
+          "2ba3b07c-81ff-8068-bbc1-f2dac9a33228",
+          "1b53b07c-81ff-80ea-b70a-ce666c2c48e5",
+          "2ba3b07c-81ff-807c-a14d-cc97f1035774",
+          "2ba3b07c-81ff-80c8-a24f-d3c250eee853",
+          "2ba3b07c-81ff-805b-8c23-c112b21e66d4",
+          "2ba3b07c-81ff-80de-84ba-fc10d69d3954",
+          "2ba3b07c-81ff-80e2-9743-f681c90c06b2",
+          "2ba3b07c-81ff-80f1-b9d1-cef03ec0ba3a",
+          "2ba3b07c-81ff-80b3-813d-c2ca25883f9e",
+          "2ba3b07c-81ff-8005-8cc2-fc95e08525dd",
+          "2ba3b07c-81ff-804c-a2d9-da0bfd5e11f2",
+          "2ba3b07c-81ff-803e-931f-d368580aa111",
+          "2ba3b07c-81ff-80d4-819d-cf90cb0d70b5",
+          "2ba3b07c-81ff-806a-85f1-eb4e78a9ed8f",
+          "2ba3b07c-81ff-804f-b0cd-ec8bf5475348",
+          "1b53b07c-81ff-8044-8ff4-ee30192e21f4",
+          "2043b07c-81ff-8072-8328-d3c5913c5470",
+          "2ba3b07c-81ff-8024-8fca-dd3653d80ac6",
+          "2ba3b07c-81ff-8001-aa9a-d7bfe2b00d20",
+          "1b53b07c-81ff-8099-a93d-e07ca87ff994",
+          "2043b07c-81ff-8039-a020-e577c68d1e8f",
+          "2ba3b07c-81ff-80b3-8478-d037dd3797d1",
+          "1b53b07c-81ff-8098-b567-d91207ed89cb",
+          "1b53b07c-81ff-800e-ad7d-ccb9b8cce542",
+          "1b53b07c-81ff-80cb-a57b-f7f7a8f47fa0",
+          "2ba3b07c-81ff-807a-a736-cc268f89498a",
+          "1b53b07c-81ff-802d-8f5c-f718713d9450",
+          "2043b07c-81ff-8080-8924-d8957125b70b",
+          "2ba3b07c-81ff-80f0-afbf-f97cf827ea40",
+          "1b53b07c-81ff-804c-a4bf-e67ceac435a4",
+          "2ba3b07c-81ff-8036-9bb6-e818bb09ba65",
+          "1b53b07c-81ff-8008-8628-fd24941c0d6b",
+          "1b53b07c-81ff-803a-ab7f-e13ae28b899d",
+          "2ba3b07c-81ff-804c-bd2f-cc2f5f2d4f44",
+          "1b53b07c-81ff-8054-8449-d79b68a98486",
+          "25c3b07c-81ff-80d2-ab54-e493557d84c6",
+          "1b53b07c-81ff-80d9-9483-eaddea2bd6b0",
+          "1b53b07c-81ff-80dc-8425-c446ff3944a4",
+          "1b53b07c-81ff-80db-a740-fa09423f71b1",
+          "1b53b07c-81ff-8049-9607-c43d2b593c31",
+          "1c53b07c-81ff-8019-9bf4-df3143293baf",
+          "1b53b07c-81ff-806e-9c7d-db1d95272db8",
+          "25c3b07c-81ff-804b-8787-fc0608803ce4",
+          "1b53b07c-81ff-805f-83b8-fddbacfc5719",
+          "1b53b07c-81ff-80bd-bd3d-fc71b9e2fd96",
+          "1b53b07c-81ff-802c-a31f-c877f45076d9",
+          "1c53b07c-81ff-8043-a6fe-ddddbd821c99",
+          "1c53b07c-81ff-80f6-858c-e6ac78c9b86a",
+          "25c3b07c-81ff-8015-9a8b-e76c7cff26fa",
+          "1b53b07c-81ff-806c-a503-c33252ac7ac3",
+          "1b53b07c-81ff-80ac-8dba-d850b07b5219",
+          "1b53b07c-81ff-809b-b51a-d57adcb04022",
+          "1c53b07c-81ff-80b5-ac12-e46c4ed01871",
+          "1b53b07c-81ff-80ba-872b-ceefcc2bed7a",
+          "25c3b07c-81ff-8024-ad61-fceef9508d3f",
+          "2ba3b07c-81ff-80fe-bfd9-fbda3f1a5f8c",
+          "2ba3b07c-81ff-80d4-bb50-c2ed91aa66af",
+          "1c53b07c-81ff-8055-8154-d998bcd52202",
+          "1b53b07c-81ff-804d-8375-f26f40465a0f",
+          "1b53b07c-81ff-804e-82d5-d7e2002ac2bf",
+          "2563b07c-81ff-8050-813b-c8dbe131ec03",
+          "2833b07c-81ff-8080-94af-fe28730e3f7e",
+          "2563b07c-81ff-802c-a4cf-d6d67c170bc1",
+          "2563b07c-81ff-80a1-97d5-ffb99754ba15",
+          "2ba3b07c-81ff-8035-8d64-c854d893aec3"
+        ],
+        "parent_id": "3173b07c-81ff-809e-a594-000b9646f894",
+        "parent_table": "collection",
+        "created_time": 1741885286240,
+        "last_edited_time": 1772477533672
+      }
+    },
+    "3173b07c-81ff-80a3-a81d-f72aaeedf189": {
+      "value": {
+        "id": "3173b07c-81ff-80a3-a81d-f72aaeedf189",
+        "type": "collection_view",
+        "format": {
+          "collection_pointer": {
+            "id": "3173b07c-81ff-809e-a594-000b9646f894",
+            "table": "collection",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "collection_pointers": [
+            {
+              "id": "3173b07c-81ff-809e-a594-000b9646f894",
+              "table": "collection",
+              "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+            }
+          ],
+          "hide_inline_collection_name": true
+        },
+        "parent_id": "1ac3b07c-81ff-8089-98b4-ec9f8c06db35",
+        "parent_table": "block",
+        "collection_id": "3173b07c-81ff-809e-a594-000b9646f894",
+        "view_ids": [
+          "3173b07c-81ff-803b-b875-000c0c402b37"
+        ],
+        "created_time": 1772477478520,
+        "last_edited_time": 1772477546428
+      }
+    },
+    "1ac3b07c-81ff-8089-98b4-ec9f8c06db35": {
+      "value": {
+        "id": "1ac3b07c-81ff-8089-98b4-ec9f8c06db35",
+        "type": "page",
+        "properties": {
+          "FE|;": [
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1ad3b07c-81ff-80af-8fa1-dba5dde1db0d",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "2833b07c-81ff-802a-b26c-c5fec1d872bf",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "2a03b07c-81ff-809f-842f-e5b1bd2b5351",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ]
+          ],
+          "t~Sf": [
+            [
+              "lore"
+            ]
+          ],
+          "title": [
+            [
+              "考察"
+            ]
+          ]
+        },
+        "format": {
+          "slug": "analysis",
+          "page_cover": "attachment:2f875b07-83d3-4464-ad09-ac674afffc97:2024-11-08_14-25-53.mp4_snapshot_03.48_2025.03.05_00.16.37.jpg",
+          "page_full_width": true,
+          "page_cover_position": 0.6632,
+          "social_media_image_preview_url": "attachment:8df55a7c-dc11-421a-ad46-8e12905aa7f2:SocialMediaPreviewImage.png"
+        },
+        "content": [
+          "3173b07c-81ff-80a3-a81d-f72aaeedf189",
+          "3173b07c-81ff-80df-85fd-c4c8281ab663"
+        ],
+        "parent_id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
+        "parent_table": "collection",
+        "created_time": 1741119050032,
+        "last_edited_time": 1772477539816
+      }
+    },
+    "1ac3b07c-81ff-8068-828b-fec9cdc96765": {
+      "value": {
+        "id": "1ac3b07c-81ff-8068-828b-fec9cdc96765",
+        "type": "collection_view",
+        "format": {
+          "collection_pointer": {
+            "id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
+            "table": "collection",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "page_cover_position": 0.5,
+          "social_media_image_preview_url": "attachment:fb48497c-047a-4a51-8d55-ff2f2a45c136:SocialMediaPreviewImage.png"
+        },
+        "parent_id": "1ac3b07c-81ff-80d1-84a1-f564abe7fef3",
+        "parent_table": "block",
+        "collection_id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
+        "view_ids": [
+          "1ac3b07c-81ff-80ee-821a-000cec78a24c"
+        ],
+        "created_time": 1741119010204,
+        "last_edited_time": 1773029610624
+      }
+    },
+    "1ac3b07c-81ff-80d1-84a1-f564abe7fef3": {
+      "value": {
+        "id": "1ac3b07c-81ff-80d1-84a1-f564abe7fef3",
+        "type": "page",
+        "properties": {
+          "mgJK": [
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1b9a2d41-3d52-470d-b4eb-79f20192b22b",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ]
+          ],
+          "title": [
+            [
+              "崩壊学園編 Wiki"
+            ]
+          ]
+        },
+        "format": {
+          "site_id": "2573b07c-81ff-80ed-96cb-007912ddb61b",
+          "seo_title": "崩壊学園編　ストーリー　Wiki | Notion",
+          "page_cover": "attachment:d4c78f4a-1872-4d8a-836f-48abb3027e69:760ca1e5gy1hi33odeetvj21z4140u03.jpg",
+          "block_locked": false,
+          "block_locked_by": "4e3acacc-a0e3-4eec-9056-a8f06db6234a",
+          "page_full_width": true,
+          "seo_description": "このサイトについて",
+          "copied_from_pointer": {
+            "id": "f1552fed-37eb-4430-a72c-2b7e492693fe",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "page_cover_position": 0.8137,
+          "social_media_image_preview_url": "attachment:48a41782-79c9-4c05-ba30-d07b9906cec8:SocialMediaPreviewImage.png"
+        },
+        "content": [
+          "1ac3b07c-81ff-8068-828b-fec9cdc96765",
+          "1bc3b07c-81ff-8027-b36b-fe45e7913081",
+          "25e3b07c-81ff-80ea-a0bb-dafec40f099c",
+          "1bc3b07c-81ff-8035-a07b-fd6768f2ea47",
+          "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+          "1ac3b07c-81ff-806b-954d-e374dd80aaa6",
+          "25e3b07c-81ff-8029-8c34-f5c8da01f230",
+          "1b83b07c-81ff-80c4-b3ef-e093616890e5",
+          "1dc3b07c-81ff-8073-b8f4-ee5a0a18b2e1",
+          "25e3b07c-81ff-807e-9816-e841c1e019fe",
+          "1cd3b07c-81ff-80c4-956d-c5234f085fe0",
+          "3173b07c-81ff-80b7-858b-d65c8bfee9d4",
+          "31a3b07c-81ff-8060-a854-e628d7af9d30",
+          "3173b07c-81ff-8069-9314-d86189c4435d"
+        ],
+        "parent_id": "a0dd7c4e-7ec8-4586-95da-f282fd0f7cba",
+        "parent_table": "collection",
+        "created_time": 1741118997345,
+        "last_edited_time": 1773062452938
+      }
+    },
+    "43c1134f-28b4-42d1-a716-f9fa638c9e50": {
+      "role": "none"
+    },
+    "1ad3b07c-81ff-80e6-b0a3-c1e8c0daf575": {
+      "role": "none"
+    },
+    "1b53b07c-81ff-807f-9acb-d0e056d34d67": {
+      "value": {
+        "id": "1b53b07c-81ff-807f-9acb-d0e056d34d67",
+        "type": "sub_header",
+        "properties": {
+          "title": [
+            [
+              "カリンとアクリアの記憶"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741885366202,
+        "last_edited_time": 1743245252815
+      }
+    },
+    "2ba3b07c-81ff-8068-bbc1-f2dac9a33228": {
+      "value": {
+        "id": "2ba3b07c-81ff-8068-bbc1-f2dac9a33228",
+        "type": "divider",
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764424556543,
+        "last_edited_time": 1764424557078
+      }
+    },
+    "1b53b07c-81ff-80ea-b70a-ce666c2c48e5": {
+      "value": {
+        "id": "1b53b07c-81ff-80ea-b70a-ce666c2c48e5",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "「幻想大剣」にてEと契約したアクリアが、カリンと心をリンクした時の描写を考察します。"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741885366207,
+        "last_edited_time": 1764426050276
+      }
+    },
+    "2ba3b07c-81ff-807c-a14d-cc97f1035774": {
+      "value": {
+        "id": "2ba3b07c-81ff-807c-a14d-cc97f1035774",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "崩壊エネルギーの感覚。\n聖痕を操る記憶。\n私の心。\n今、この時。\nすべてを。\nあなたにあげる。"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764424564778,
+        "last_edited_time": 1764425987642
+      }
+    },
+    "2ba3b07c-81ff-80c8-a24f-d3c250eee853": {
+      "value": {
+        "id": "2ba3b07c-81ff-80c8-a24f-d3c250eee853",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "アクリア：…………\n……\nだけどあの時、私が見たものは……。\n………………\n一体、なんだったのかしら？"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764424701487,
+        "last_edited_time": 1764426037105
+      }
+    },
+    "2ba3b07c-81ff-805b-8c23-c112b21e66d4": {
+      "value": {
+        "id": "2ba3b07c-81ff-805b-8c23-c112b21e66d4",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "これらの台詞から、一連の描写はカリンとアクリアの記憶だと思われます。"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764424724233,
+        "last_edited_time": 1764424758503
+      }
+    },
+    "2ba3b07c-81ff-80de-84ba-fc10d69d3954": {
+      "value": {
+        "id": "2ba3b07c-81ff-80de-84ba-fc10d69d3954",
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "1. カリンの誕生"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764424888896,
+        "last_edited_time": 1764424972914
+      }
+    },
+    "2ba3b07c-81ff-80e2-9743-f681c90c06b2": {
+      "value": {
+        "id": "2ba3b07c-81ff-80e2-9743-f681c90c06b2",
+        "type": "divider",
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764425483360,
+        "last_edited_time": 1764425483873
+      }
+    },
+    "2ba3b07c-81ff-80f1-b9d1-cef03ec0ba3a": {
+      "value": {
+        "id": "2ba3b07c-81ff-80f1-b9d1-cef03ec0ba3a",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "幅もあれば長さも高さもある……時間もある。",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "\n私の存在を認めてくれればいい。\n"
+            ],
+            [
+              "私は存在し続けたい。",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "\n私はここに現れたい。\n…………\n…………現れた。\n…………私は存在している。"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764424649897,
+        "last_edited_time": 1764424863128
+      }
+    },
+    "2ba3b07c-81ff-80b3-813d-c2ca25883f9e": {
+      "value": {
+        "id": "2ba3b07c-81ff-80b3-813d-c2ca25883f9e",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "まずはこのシーン。"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764424875949,
+        "last_edited_time": 1764425197157
+      }
+    },
+    "2ba3b07c-81ff-8005-8cc2-fc95e08525dd": {
+      "value": {
+        "id": "2ba3b07c-81ff-8005-8cc2-fc95e08525dd",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "……元々存在してはいけないものだったから。\n"
+            ],
+            [
+              "長さ、幅、高さ、時間ができた",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "のだから。\nだから…………。\nカリン："
+            ],
+            [
+              "存在したい",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "んだ——————！"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764424801256,
+        "last_edited_time": 1764424875113
+      }
+    },
+    "2ba3b07c-81ff-804c-a2d9-da0bfd5e11f2": {
+      "value": {
+        "id": "2ba3b07c-81ff-804c-a2d9-da0bfd5e11f2",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "これはカリンの記憶で間違いないでしょう。おそらくカリンがこの世界に表れた瞬間の記憶だと思われます。"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764424876163,
+        "last_edited_time": 1764425003159
+      }
+    },
+    "2ba3b07c-81ff-803e-931f-d368580aa111": {
+      "value": {
+        "id": "2ba3b07c-81ff-803e-931f-d368580aa111",
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "2. カリンと一夏"
+            ]
+          ]
+        },
+        "format": {
+          "list_start_index": 2
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764425272784,
+        "last_edited_time": 1764425285472
+      }
+    },
+    "2ba3b07c-81ff-80d4-819d-cf90cb0d70b5": {
+      "value": {
+        "id": "2ba3b07c-81ff-80d4-819d-cf90cb0d70b5",
+        "type": "divider",
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764425480767,
+        "last_edited_time": 1764425481300
+      }
+    },
+    "2ba3b07c-81ff-806a-85f1-eb4e78a9ed8f": {
+      "value": {
+        "id": "2ba3b07c-81ff-806a-85f1-eb4e78a9ed8f",
+        "type": "image",
+        "properties": {
+          "size": [
+            [
+              "63.5 KiB"
+            ]
+          ],
+          "title": [
+            [
+              "image.png"
+            ]
+          ],
+          "source": [
+            [
+              "attachment:3594879a-59ec-4c4b-a2b6-c95a895f9689:image.png"
+            ]
+          ]
+        },
+        "format": {
+          "block_width": 709.9759521484375,
+          "display_source": "attachment:3594879a-59ec-4c4b-a2b6-c95a895f9689:image.png",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_aspect_ratio": 0.3952912019826518,
+          "block_preserve_scale": true
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764425684574,
+        "last_edited_time": 1764425689478
+      }
+    },
+    "2ba3b07c-81ff-804f-b0cd-ec8bf5475348": {
+      "value": {
+        "id": "2ba3b07c-81ff-804f-b0cd-ec8bf5475348",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "???が登場しますが、「一日の花」での描写から、これは一夏だと分かります。背景画像も人契連になっています。\nおそらく、音の正体はカリンだったのでしょう。"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764425346770,
+        "last_edited_time": 1764425687730
+      }
+    },
+    "1b53b07c-81ff-8044-8ff4-ee30192e21f4": {
+      "value": {
+        "id": "1b53b07c-81ff-8044-8ff4-ee30192e21f4",
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "3. 一夏視点"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741886166800,
+        "last_edited_time": 1764425877444
+      }
+    },
+    "2043b07c-81ff-8072-8328-d3c5913c5470": {
+      "value": {
+        "id": "2043b07c-81ff-8072-8328-d3c5913c5470",
+        "type": "divider",
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1748693803184,
+        "last_edited_time": 1764425477656
+      }
+    },
+    "2ba3b07c-81ff-8024-8fca-dd3653d80ac6": {
+      "value": {
+        "id": "2ba3b07c-81ff-8024-8fca-dd3653d80ac6",
+        "type": "image",
+        "properties": {
+          "size": [
+            [
+              "60.8 KiB"
+            ]
+          ],
+          "title": [
+            [
+              "image.png"
+            ]
+          ],
+          "source": [
+            [
+              "attachment:9ce7514f-10a5-439f-8838-7c2ecbc42e04:image.png"
+            ]
+          ]
+        },
+        "format": {
+          "block_width": 709.9639282226562,
+          "display_source": "attachment:9ce7514f-10a5-439f-8838-7c2ecbc42e04:image.png",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_aspect_ratio": 0.42224510813594235,
+          "block_preserve_scale": true
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764425859669,
+        "last_edited_time": 1764425863481
+      }
+    },
+    "2ba3b07c-81ff-8001-aa9a-d7bfe2b00d20": {
+      "value": {
+        "id": "2ba3b07c-81ff-8001-aa9a-d7bfe2b00d20",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "ここから、一人称視点がカリンから一夏に変わったと思われます。 \nしかし完全に描写が一致しているわけではなく、特に「彼/私を招いているかのようだ」の差異が気になります。"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764425489104,
+        "last_edited_time": 1764425858495
+      }
+    },
+    "1b53b07c-81ff-8099-a93d-e07ca87ff994": {
+      "value": {
+        "id": "1b53b07c-81ff-8099-a93d-e07ca87ff994",
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "4. 予言？"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741886168703,
+        "last_edited_time": 1756288012525
+      }
+    },
+    "2043b07c-81ff-8039-a020-e577c68d1e8f": {
+      "value": {
+        "id": "2043b07c-81ff-8039-a020-e577c68d1e8f",
+        "type": "divider",
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1748693816707,
+        "last_edited_time": 1756287946720
+      }
+    },
+    "2ba3b07c-81ff-80b3-8478-d037dd3797d1": {
+      "value": {
+        "id": "2ba3b07c-81ff-80b3-8478-d037dd3797d1",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "とても長い廊下が目に飛び込んできた。\n廊下はとても暗かった。そして薄暗い突き当りに影がひとつあるのが見えた。\n暗がりのその影は、周りよりもずっと真っ黒だった。\n愛とは無縁で、生まれてからずっと毒を与えられ成長してきたかのように。\n存在の意義とは最も深い場所において、永遠に光のない国で世界の根幹を蝕むことにある。\nその目は…………その目は…………。\n「彼女は既に息絶えていて、過去の素晴らしかったときはもう終わりを迎えた。」\nそれは私にそう言った。\n「失ったものを追おうとするのはやめろ。すべてを捨て、自分のために生きるのだ。」\nそれは私にそう言った。\n「…………そう。」\n"
+            ],
+            [
+              "「おまえが死ぬ時は、必ず独りぼっちだ。」",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "\nそれは私にそう言った。\n……\nとても孤独だ。\n今日から私は独りぼっちだ。\nなぜなら私は……………………。"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764425930624,
+        "last_edited_time": 1764426120953
+      }
+    },
+    "1b53b07c-81ff-8098-b567-d91207ed89cb": {
+      "value": {
+        "id": "1b53b07c-81ff-8098-b567-d91207ed89cb",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "部屋に入った後の描写は「一日の花」とは全く異なっています。"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741885366214,
+        "last_edited_time": 1764426138497
+      }
+    },
+    "1b53b07c-81ff-800e-ad7d-ccb9b8cce542": {
+      "value": {
+        "id": "1b53b07c-81ff-800e-ad7d-ccb9b8cce542",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "「おまえが死ぬ時は、必ず独りぼっちだ。」",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "\nアクリア：……\nどれだけ忘れようとしても、あの人が最後に言った言葉が頭から離れなかった。\n……そんなひねくれた事を言っていたら……予言が……あっという間に現実になってしまいますよ……。"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741887297744,
+        "last_edited_time": 1764426123305
+      }
+    },
+    "1b53b07c-81ff-80cb-a57b-f7f7a8f47fa0": {
+      "value": {
+        "id": "1b53b07c-81ff-80cb-a57b-f7f7a8f47fa0",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "アクリアへの予言と一致することから、ここはアクリアの記憶だと思われます。"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741887297283,
+        "last_edited_time": 1764426171857
+      }
+    },
+    "2ba3b07c-81ff-807a-a736-cc268f89498a": {
+      "value": {
+        "id": "2ba3b07c-81ff-807a-a736-cc268f89498a",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "追記：おそらくそれ/あの人はカリスマ・サンダーランドでしょう。"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764426182873,
+        "last_edited_time": 1764426733843
+      }
+    },
+    "1b53b07c-81ff-802d-8f5c-f718713d9450": {
+      "value": {
+        "id": "1b53b07c-81ff-802d-8f5c-f718713d9450",
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "5. 無限の聖痕？"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741886172257,
+        "last_edited_time": 1756288030031
+      }
+    },
+    "2043b07c-81ff-8080-8924-d8957125b70b": {
+      "value": {
+        "id": "2043b07c-81ff-8080-8924-d8957125b70b",
+        "type": "divider",
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1748693822664,
+        "last_edited_time": 1756287949247
+      }
+    },
+    "2ba3b07c-81ff-80f0-afbf-f97cf827ea40": {
+      "value": {
+        "id": "2ba3b07c-81ff-80f0-afbf-f97cf827ea40",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "…………おまえは救世主になるだろう…………。\n…………敬意を表する。おまえはこれまで存在しなかった、そしてこれからも他にいないであろう統帥だ………………私が誕生した意味とは一体……。\n……私は世界を救う道具、私は世界を救う道具、私は世界を救う道具…………元々ただの欠陥品だったにも関わらず意志の統括者がいなくなった後にこんな性質が現れるとは……。\n……もしおまえがすべての真相を知りたいと思うのなら…………の傘下に身を寄せるといいだろう………………私はそうする……私にしかそれができないのであれば私がそうする…………！\n——————カリン！"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764426074144,
+        "last_edited_time": 1764426218320
+      }
+    },
+    "1b53b07c-81ff-804c-a4bf-e67ceac435a4": {
+      "value": {
+        "id": "1b53b07c-81ff-804c-a4bf-e67ceac435a4",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "ここからは背景が変わるため、また別のパートだと思われます。"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741885366215,
+        "last_edited_time": 1764426351671
+      }
+    },
+    "2ba3b07c-81ff-8036-9bb6-e818bb09ba65": {
+      "value": {
+        "id": "2ba3b07c-81ff-8036-9bb6-e818bb09ba65",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "最後はアクリアの声によってカリンが目覚めるため、カリン視点だと思われます。\nそして話相手は、この後の描写から無限の聖痕の可能性が高そうです。\n（アクリアの記憶という可能性もありますが。）"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764426351666,
+        "last_edited_time": 1764426900309
+      }
+    },
+    "1b53b07c-81ff-8008-8628-fd24941c0d6b": {
+      "value": {
+        "id": "1b53b07c-81ff-8008-8628-fd24941c0d6b",
+        "type": "toggle",
+        "properties": {
+          "title": [
+            [
+              "過去考察"
+            ]
+          ]
+        },
+        "content": [
+          "2ba3b07c-81ff-80c2-b4be-ed41c4ec7ebd"
+        ],
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741885366216,
+        "last_edited_time": 1764426918976
+      }
+    },
+    "1b53b07c-81ff-803a-ab7f-e13ae28b899d": {
+      "value": {
+        "id": "1b53b07c-81ff-803a-ab7f-e13ae28b899d",
+        "type": "sub_header",
+        "properties": {
+          "title": [
+            [
+              "アクリアについて"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741885366220,
+        "last_edited_time": 1743245289323
+      }
+    },
+    "2ba3b07c-81ff-804c-bd2f-cc2f5f2d4f44": {
+      "value": {
+        "id": "2ba3b07c-81ff-804c-bd2f-cc2f5f2d4f44",
+        "type": "divider",
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764426971313,
+        "last_edited_time": 1764426971816
+      }
+    },
+    "1b53b07c-81ff-8054-8449-d79b68a98486": {
+      "value": {
+        "id": "1b53b07c-81ff-8054-8449-d79b68a98486",
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "プリンセス"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741885366220,
+        "last_edited_time": 1743246070261
+      }
+    },
+    "25c3b07c-81ff-80d2-ab54-e493557d84c6": {
+      "value": {
+        "id": "25c3b07c-81ff-80d2-ab54-e493557d84c6",
+        "type": "divider",
+        "format": {
+          "copied_from_pointer": {
+            "id": "25c3b07c-81ff-80be-82ba-fab64bc05e0b",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1756287920191,
+        "last_edited_time": 1756287920193
+      }
+    },
+    "1b53b07c-81ff-80d9-9483-eaddea2bd6b0": {
+      "value": {
+        "id": "1b53b07c-81ff-80d9-9483-eaddea2bd6b0",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "南方軍幹部：その女とは【"
+            ],
+            [
+              "プリンセス",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "】か？\n猟犬01：……。身長、髪の色、体格も違うため、VIPのターゲットではないはずです。\n南方軍幹部：……未成年……。いいか、よく聞くんだ。第一軍団の残党の中には人の見た目を変えることのできる聖痕使いが居たり、そういうテクノロジーを持った奴がいるかもしれない。ここは万全を期してその娘も直ちに処刑するんだ。そして死体を持ち帰り、目立ぬ形で処理するように。\n猟犬01：お待ちください。まず確認してからにすることは——\n南方軍幹部：命令に従いなさい。考えてみるんだ。君がつまらぬ情に左右され、万が一【プリンセス】を逃してしまいでもしたら、一体どれほどの人間が死ぬことになるかを。\n今回の件、しっかりやれば君にとっても大きな功績になるのだ。命令には逆らわないようにな。では切るぞ。"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741885913167,
+        "last_edited_time": 1743246060504
+      }
+    },
+    "1b53b07c-81ff-80dc-8425-c446ff3944a4": {
+      "value": {
+        "id": "1b53b07c-81ff-80dc-8425-c446ff3944a4",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "「昔征きし時」にて南方軍がちらっと言及していた「プリンセス」は、アクリアのことかもしれません。"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741885366221,
+        "last_edited_time": 1741885366298
+      }
+    },
+    "1b53b07c-81ff-80db-a740-fa09423f71b1": {
+      "value": {
+        "id": "1b53b07c-81ff-80db-a740-fa09423f71b1",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "いくら予算が厳しいといっても、"
+            ],
+            [
+              "姫様",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "を追う任務に聖痕の力のない我々だけを派遣するなんてことはいくらなんでもないはずよ。"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741885985312,
+        "last_edited_time": 1743246058794
+      }
+    },
+    "1b53b07c-81ff-8049-9607-c43d2b593c31": {
+      "value": {
+        "id": "1b53b07c-81ff-8049-9607-c43d2b593c31",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "アクリアも同じく南方軍に追われ、「姫様」と呼ばれています。"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741885366222,
+        "last_edited_time": 1741886039911
+      }
+    },
+    "1c53b07c-81ff-8019-9bf4-df3143293baf": {
+      "value": {
+        "id": "1c53b07c-81ff-8019-9bf4-df3143293baf",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "‣",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "d",
+                  {
+                    "type": "date",
+                    "start_date": "2024-11-28",
+                    "date_format": "relative"
+                  }
+                ]
+              ]
+            ],
+            [
+              " 追記"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "1c53b07c-81ff-8043-a6fe-ddddbd821c99",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "content": [
+          "1c53b07c-81ff-80f4-8f89-e6738140e681"
+        ],
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1743245509039,
+        "last_edited_time": 1759632410494
+      }
+    },
+    "1b53b07c-81ff-806e-9c7d-db1d95272db8": {
+      "value": {
+        "id": "1b53b07c-81ff-806e-9c7d-db1d95272db8",
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "フェミリスとの契約"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741885366222,
+        "last_edited_time": 1743246072800
+      }
+    },
+    "25c3b07c-81ff-804b-8787-fc0608803ce4": {
+      "value": {
+        "id": "25c3b07c-81ff-804b-8787-fc0608803ce4",
+        "type": "divider",
+        "format": {
+          "copied_from_pointer": {
+            "id": "25c3b07c-81ff-80be-82ba-fab64bc05e0b",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1756287912996,
+        "last_edited_time": 1756287912999
+      }
+    },
+    "1b53b07c-81ff-805f-83b8-fddbacfc5719": {
+      "value": {
+        "id": "1b53b07c-81ff-805f-83b8-fddbacfc5719",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "フェミリスの「契約を更新したくなりましたか？」という台詞から、アクリアは以前にもフェミリスと契約を結んでいたことが分かります。"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741885366223,
+        "last_edited_time": 1741885366298
+      }
+    },
+    "1b53b07c-81ff-80bd-bd3d-fc71b9e2fd96": {
+      "value": {
+        "id": "1b53b07c-81ff-80bd-bd3d-fc71b9e2fd96",
+        "type": "image",
+        "properties": {
+          "source": [
+            [
+              "https://upload-os-bbs.hoyolab.com/upload/2024/11/18/22247715/26747dd5fd41343f6d9abb946244960f_2217112029488546286.webp?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70"
+            ]
+          ],
+          "caption": [
+            [
+              "文字色"
+            ]
+          ]
+        },
+        "format": {
+          "block_width": 576
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741885366223,
+        "last_edited_time": 1743246082605
+      }
+    },
+    "1b53b07c-81ff-802c-a31f-c877f45076d9": {
+      "value": {
+        "id": "1b53b07c-81ff-802c-a31f-c877f45076d9",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "アクリアの瞳は青と黄のオッドアイですが、フェミリスとの契約によるものかもしれませんね。"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741885366224,
+        "last_edited_time": 1743246110331
+      }
+    },
+    "1c53b07c-81ff-8043-a6fe-ddddbd821c99": {
+      "value": {
+        "id": "1c53b07c-81ff-8043-a6fe-ddddbd821c99",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "‣",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "d",
+                  {
+                    "type": "date",
+                    "start_date": "2024-11-28",
+                    "date_format": "relative"
+                  }
+                ]
+              ]
+            ],
+            [
+              " 追記"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "1b53b07c-81ff-804e-82d5-d7e2002ac2bf",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "content": [
+          "1c53b07c-81ff-809a-97ed-f449eecdea2e",
+          "1c53b07c-81ff-8032-9b94-f5947d10cd5f"
+        ],
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1743245479251,
+        "last_edited_time": 1756287902518
+      }
+    },
+    "1c53b07c-81ff-80f6-858c-e6ac78c9b86a": {
+      "value": {
+        "id": "1c53b07c-81ff-80f6-858c-e6ac78c9b86a",
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "「心」の聖痕"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1743246133253,
+        "last_edited_time": 1743246140603
+      }
+    },
+    "25c3b07c-81ff-8015-9a8b-e76c7cff26fa": {
+      "value": {
+        "id": "25c3b07c-81ff-8015-9a8b-e76c7cff26fa",
+        "type": "divider",
+        "format": {
+          "copied_from_pointer": {
+            "id": "25c3b07c-81ff-80be-82ba-fab64bc05e0b",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1756287915791,
+        "last_edited_time": 1756287915793
+      }
+    },
+    "1c53b07c-81ff-80f4-8f89-e6738140e681": {
+      "value": {
+        "id": "1c53b07c-81ff-80f4-8f89-e6738140e681",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "街燃の詩にて確定。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "1c53b07c-81ff-809a-97ed-f449eecdea2e",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "1c53b07c-81ff-8019-9bf4-df3143293baf",
+        "parent_table": "block",
+        "created_time": 1743245509040,
+        "last_edited_time": 1743245512890
+      }
+    },
+    "1c53b07c-81ff-809a-97ed-f449eecdea2e": {
+      "value": {
+        "id": "1c53b07c-81ff-809a-97ed-f449eecdea2e",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "街燃の詩にて確定。"
+            ]
+          ]
+        },
+        "parent_id": "1c53b07c-81ff-8043-a6fe-ddddbd821c99",
+        "parent_table": "block",
+        "created_time": 1743245503972,
+        "last_edited_time": 1743246848434
+      }
+    },
+    "1c53b07c-81ff-8032-9b94-f5947d10cd5f": {
+      "value": {
+        "id": "1c53b07c-81ff-8032-9b94-f5947d10cd5f",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "E：あなたが私を必要としているからですよ、アクリア・ホロプト。私はあなたの影であり、右目なのです。"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "parent_id": "1c53b07c-81ff-8043-a6fe-ddddbd821c99",
+        "parent_table": "block",
+        "created_time": 1743246776085,
+        "last_edited_time": 1743246850320
+      }
+    },
+    "1b53b07c-81ff-806c-a503-c33252ac7ac3": {
+      "value": {
+        "id": "1b53b07c-81ff-806c-a503-c33252ac7ac3",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "フェミリスは2017年に中断させられていますが、時期的に月隠計画によるものだと思われます。"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741885366224,
+        "last_edited_time": 1741885366298
+      }
+    },
+    "1b53b07c-81ff-80ac-8dba-d850b07b5219": {
+      "value": {
+        "id": "1b53b07c-81ff-80ac-8dba-d850b07b5219",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "意識の連結を行うフェミリスと「心」の聖痕を持つアクリアが契約を結んでいるのは偶然なのでしょうか。"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741885366225,
+        "last_edited_time": 1741885366298
+      }
+    },
+    "1b53b07c-81ff-809b-b51a-d57adcb04022": {
+      "value": {
+        "id": "1b53b07c-81ff-809b-b51a-d57adcb04022",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "アクリアの聖痕は本当に「心」の聖痕なのでしょうか？"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741885366225,
+        "last_edited_time": 1741885366298
+      }
+    },
+    "1c53b07c-81ff-80b5-ac12-e46c4ed01871": {
+      "value": {
+        "id": "1c53b07c-81ff-80b5-ac12-e46c4ed01871",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "‣",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "d",
+                  {
+                    "type": "date",
+                    "start_date": "2024-11-28",
+                    "date_format": "relative"
+                  }
+                ]
+              ]
+            ],
+            [
+              " ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "追記：心の聖痕は嘘ではなさそうですね。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "1b53b07c-81ff-804e-82d5-d7e2002ac2bf",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1743245382395,
+        "last_edited_time": 1764427031145
+      }
+    },
+    "1b53b07c-81ff-80ba-872b-ceefcc2bed7a": {
+      "value": {
+        "id": "1b53b07c-81ff-80ba-872b-ceefcc2bed7a",
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "予知能力"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741885366226,
+        "last_edited_time": 1743246312919
+      }
+    },
+    "25c3b07c-81ff-8024-ad61-fceef9508d3f": {
+      "value": {
+        "id": "25c3b07c-81ff-8024-ad61-fceef9508d3f",
+        "type": "divider",
+        "format": {
+          "copied_from_pointer": {
+            "id": "25c3b07c-81ff-80be-82ba-fab64bc05e0b",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1756287917186,
+        "last_edited_time": 1756287917188
+      }
+    },
+    "2ba3b07c-81ff-80fe-bfd9-fbda3f1a5f8c": {
+      "value": {
+        "id": "2ba3b07c-81ff-80fe-bfd9-fbda3f1a5f8c",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "カリン：あっ！本当にあったよ、そっくりなトラック！アクリアってホントすごいね！\nカリン：しかもキーがささったままになってる…アクリアって実は神さまなの！？"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764427099377,
+        "last_edited_time": 1764427194865
+      }
+    },
+    "2ba3b07c-81ff-80d4-bb50-c2ed91aa66af": {
+      "value": {
+        "id": "2ba3b07c-81ff-80d4-bb50-c2ed91aa66af",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "ティアラ：（なんで突然、トラックを始動したんだ？ボクどうなっちゃうの？タイヤの下に敷かれて、何度も轢かれちゃうとか？）\n"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "content": [
+          "2ba3b07c-81ff-801e-bccf-ffcc7a046c15"
+        ],
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764427173529,
+        "last_edited_time": 1764427194865
+      }
+    },
+    "1c53b07c-81ff-8055-8154-d998bcd52202": {
+      "value": {
+        "id": "1c53b07c-81ff-8055-8154-d998bcd52202",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "カリン：あたしたち4人横並びで歩いてるのに、後ろで爆発が起きないのはなんだかしっくりこないよね。\nアクリア：起きるわよ。\nド—ン！\nカリン：本当に起きた！？アクリア、なんでわかるの？\nアクリア：まあ、魔法が使えるとでも思ってくれればいいわ。"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1743246591701,
+        "last_edited_time": 1764427258702
+      }
+    },
+    "1b53b07c-81ff-804d-8375-f26f40465a0f": {
+      "value": {
+        "id": "1b53b07c-81ff-804d-8375-f26f40465a0f",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "アクリアは論理的に物事を考えて、あらゆる可能性を想定して行動していますが、それだけでは説明がつかないことがあり、もしかすると未来をある程度予見できるのかもしれません。\nただ予想を外すこともあるので、完璧なものではないようですが。"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741885366226,
+        "last_edited_time": 1764427232113
+      }
+    },
+    "1b53b07c-81ff-804e-82d5-d7e2002ac2bf": {
+      "value": {
+        "id": "1b53b07c-81ff-804e-82d5-d7e2002ac2bf",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "‣",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "d",
+                  {
+                    "type": "date",
+                    "start_date": "2024-11-28",
+                    "date_format": "relative"
+                  }
+                ]
+              ]
+            ],
+            [
+              " 追記：この考察も外れていそうです。おそらくEの演算とアクリアの推測によるものなのでしょう。"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1741885366227,
+        "last_edited_time": 1764427308782
+      }
+    },
+    "2563b07c-81ff-8050-813b-c8dbe131ec03": {
+      "value": {
+        "id": "2563b07c-81ff-8050-813b-c8dbe131ec03",
+        "type": "sub_header",
+        "properties": {
+          "title": [
+            [
+              "DESU"
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1755773293035,
+        "last_edited_time": 1759646362749
+      }
+    },
+    "2833b07c-81ff-8080-94af-fe28730e3f7e": {
+      "value": {
+        "id": "2833b07c-81ff-8080-94af-fe28730e3f7e",
+        "type": "divider",
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1759632417863,
+        "last_edited_time": 1759632418522
+      }
+    },
+    "2563b07c-81ff-802c-a4cf-d6d67c170bc1": {
+      "value": {
+        "id": "2563b07c-81ff-802c-a4cf-d6d67c170bc1",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "カリン：「崩壊学園——万事屋DESU」？"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "content": [
+          "2563b07c-81ff-8044-9f26-d79b65e40f65",
+          "2563b07c-81ff-805f-893a-e9a0d8025623"
+        ],
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1755773299377,
+        "last_edited_time": 1755773304964
+      }
+    },
+    "2563b07c-81ff-80a1-97d5-ffb99754ba15": {
+      "value": {
+        "id": "2563b07c-81ff-80a1-97d5-ffb99754ba15",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "崩坏学园2-灵依娘desu",
+              [
+                [
+                  "a",
+                  "https://space.bilibili.com/133934"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1755773306769,
+        "last_edited_time": 1755773352220
+      }
+    },
+    "2ba3b07c-81ff-8035-8d64-c854d893aec3": {
+      "value": {
+        "id": "2ba3b07c-81ff-8035-8d64-c854d893aec3",
+        "type": "text",
+        "parent_id": "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+        "parent_table": "block",
+        "created_time": 1764427350151,
+        "last_edited_time": 1764427350153
+      }
+    },
+    "2ba3b07c-81ff-801e-bccf-ffcc7a046c15": {
+      "value": {
+        "id": "2ba3b07c-81ff-801e-bccf-ffcc7a046c15",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "カリン：――ついでに追っ手も連れてきちゃったけど！"
+            ]
+          ]
+        },
+        "parent_id": "2ba3b07c-81ff-80d4-bb50-c2ed91aa66af",
+        "parent_table": "block",
+        "created_time": 1764427188475,
+        "last_edited_time": 1764427199050
+      }
+    },
+    "2563b07c-81ff-8044-9f26-d79b65e40f65": {
+      "value": {
+        "id": "2563b07c-81ff-8044-9f26-d79b65e40f65",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "ラニアット：「DESU」とは、いったいなんでしょうか？"
+            ]
+          ]
+        },
+        "parent_id": "2563b07c-81ff-802c-a4cf-d6d67c170bc1",
+        "parent_table": "block",
+        "created_time": 1755773301335,
+        "last_edited_time": 1755773301340
+      }
+    },
+    "2563b07c-81ff-805f-893a-e9a0d8025623": {
+      "value": {
+        "id": "2563b07c-81ff-805f-893a-e9a0d8025623",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "アクリア：DESUは西暦時代のとある言語に由来しているそうね——"
+            ]
+          ]
+        },
+        "parent_id": "2563b07c-81ff-802c-a4cf-d6d67c170bc1",
+        "parent_table": "block",
+        "created_time": 1755773301336,
+        "last_edited_time": 1755773301340
+      }
+    },
+    "1ad3b07c-81ff-80af-8fa1-dba5dde1db0d": {
+      "value": {
+        "id": "1ad3b07c-81ff-80af-8fa1-dba5dde1db0d",
+        "type": "page",
+        "properties": {
+          "qhFA": [
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1ac3b07c-81ff-8089-98b4-ec9f8c06db35",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ]
+          ],
+          "title": [
+            [
+              "街燃の詩"
+            ]
+          ],
+          "84d957e0-e0fe-4c76-8e91-ebfb7263668c": [
+            [
+              "lore-gainennouta"
+            ]
+          ]
+        },
+        "format": {
+          "slug": "gainennouta",
+          "page_cover": "attachment:d0232478-c39e-4987-8861-2c97e4a8c8a2:Screenshot_2025.03.17_06.05.21.850.png",
+          "page_cover_position": 0.7771,
+          "social_media_image_preview_url": "attachment:4542613b-c3c0-418b-b88f-d2f782a9dbfd:SocialMediaPreviewImage.png"
+        },
+        "content": [
+          "2763b07c-81ff-8071-af53-dfaab03a8c29",
+          "2763b07c-81ff-80ae-ab8c-e011c69f8da3",
+          "1c83b07c-81ff-8086-a349-cc261080b683",
+          "1ad3b07c-81ff-8007-a608-c606ce21a458",
+          "1b73b07c-81ff-80e7-b4b3-fe024d1291cf",
+          "1ad3b07c-81ff-808f-8359-c354b337be2d",
+          "1ad3b07c-81ff-8031-96fb-d5475af66d3d",
+          "1ad3b07c-81ff-806e-8934-ccc5f168920f",
+          "1ad3b07c-81ff-80ed-a2db-d5ca54045638",
+          "1ad3b07c-81ff-807d-9aa8-cae0f6fd6b24",
+          "1ad3b07c-81ff-80c3-9f51-f57c6065c6bf",
+          "1ad3b07c-81ff-80ca-b68b-eb5a50622d2e",
+          "1ad3b07c-81ff-801e-aae1-c489f8ae9d28",
+          "1b93b07c-81ff-8023-9489-e73bd54cfbe5",
+          "21c3b07c-81ff-8002-99ab-d529a22e054b",
+          "21c3b07c-81ff-8086-93cb-f29325431366",
+          "1ad3b07c-81ff-8008-b3b8-ed031c310fc3",
+          "1ad3b07c-81ff-8093-87a0-e2f56fa8ca80",
+          "1ad3b07c-81ff-808b-b69f-e8ca6313ac59",
+          "1ad3b07c-81ff-8069-a3aa-f663d4540b7f",
+          "1ad3b07c-81ff-80e1-906b-f741205d3aa9",
+          "1ad3b07c-81ff-8082-97a5-d1c40460fec1",
+          "28c3b07c-81ff-80b7-b23e-d2a9020a0441",
+          "28c3b07c-81ff-8062-ad6c-f6e650d53420",
+          "2563b07c-81ff-803f-8325-e6e9cd467213",
+          "1bd3b07c-81ff-8033-8b00-e933c43540eb",
+          "1bd3b07c-81ff-80be-9094-e093abcb26d6",
+          "1bd3b07c-81ff-8044-a3b7-cc6a07274fcd",
+          "1bd3b07c-81ff-80d2-8288-e33c83375054",
+          "1ad3b07c-81ff-8080-be17-ecfd2912ebac",
+          "1ad3b07c-81ff-80f8-8b6f-fe8a67993673",
+          "1b73b07c-81ff-80e2-be81-df0d0f90cb7a",
+          "1ad3b07c-81ff-80dd-baf1-dd65d90ded88",
+          "1ad3b07c-81ff-8067-84e1-ef41087e16f4",
+          "1ad3b07c-81ff-807a-8f4a-c114bab3a26a",
+          "1ad3b07c-81ff-8059-bd05-ea56fa738f32",
+          "1ad3b07c-81ff-80ac-bfde-cede2fd418d1",
+          "22f3b07c-81ff-802d-affc-ce48eb6fe24d",
+          "22f3b07c-81ff-8043-9d0a-df7139c7c6c8",
+          "22f3b07c-81ff-808b-8c7f-e461fa6306bf",
+          "22f3b07c-81ff-802d-9385-cde7471ee475",
+          "22f3b07c-81ff-80ed-b481-e5a962f28178",
+          "22f3b07c-81ff-8065-9ba7-e92e633fa64a",
+          "22f3b07c-81ff-8073-81f3-cd028bac7e81",
+          "22f3b07c-81ff-80d4-a0e8-c2aa3d0972c9",
+          "22f3b07c-81ff-8065-abfc-e4284921f784",
+          "22f3b07c-81ff-807b-acb0-e543e575d13c",
+          "22f3b07c-81ff-804c-af3e-ea7bb4632372",
+          "22f3b07c-81ff-80bb-87f3-efa7f6798a28",
+          "3093b07c-81ff-8042-b668-c8dc5fba0c6a",
+          "3093b07c-81ff-80d3-8405-e464603d49de",
+          "22f3b07c-81ff-8003-b37f-fc90cacd59b0",
+          "22f3b07c-81ff-80d6-af92-c673d4eeeb06",
+          "22f3b07c-81ff-808b-b04f-dd807b335e6b",
+          "22f3b07c-81ff-801e-b75f-c9a9fba48b62",
+          "1ae3b07c-81ff-8089-beaa-ff566f64c323",
+          "1ad3b07c-81ff-80f7-aa23-d96d7cba98f3",
+          "1ad3b07c-81ff-8052-b0dd-c024d56ee56d",
+          "1ad3b07c-81ff-807f-9765-e04e098d7220",
+          "1ad3b07c-81ff-80bc-b1e8-cb158d25d7d8",
+          "1b83b07c-81ff-80f6-827a-d15503adb0d1",
+          "2563b07c-81ff-80c6-8d8d-daedc9f45a9a",
+          "1b83b07c-81ff-80a7-afbd-d2f485d4839b",
+          "1b83b07c-81ff-805e-8209-d476d6907a78",
+          "1ad3b07c-81ff-8085-aab1-effd54d29b1b",
+          "1ad3b07c-81ff-8052-971e-e7146c48ede8",
+          "2563b07c-81ff-801f-a5d5-d4bd7545c947",
+          "2563b07c-81ff-805b-823a-c39ebcaf7f09",
+          "2563b07c-81ff-801f-8a8f-f0a5aa9fcd3f",
+          "1c83b07c-81ff-8047-83b3-de271230fd05",
+          "1c83b07c-81ff-80fb-bff7-e1416e486af9",
+          "1ad3b07c-81ff-8047-bb7a-fe4ce79eb322",
+          "2023b07c-81ff-805a-b061-fa1cc1e22599",
+          "2563b07c-81ff-809a-a46e-dad2f5882f2e",
+          "2563b07c-81ff-80ce-a7e5-fb14c94a8651",
+          "2563b07c-81ff-80ba-9aa9-fcbb715a1553",
+          "2563b07c-81ff-805e-a2a7-c3a87f27c5a1",
+          "2563b07c-81ff-80ba-a6ae-e22b757991ca",
+          "1ad3b07c-81ff-80dc-936f-c03ea4aa299a",
+          "1c53b07c-81ff-8042-8355-efec133303f1",
+          "2563b07c-81ff-8036-a292-c9ef1c4cd2c5",
+          "28f3b07c-81ff-80cd-b272-d5739af1bf8f",
+          "2563b07c-81ff-8018-b7df-c6d809d684f2",
+          "28f3b07c-81ff-8075-bd22-cd350c5e433c",
+          "28f3b07c-81ff-80b9-847f-f19cf7ba0699",
+          "2563b07c-81ff-8014-9540-e6ef62c8967e",
+          "1ad3b07c-81ff-806d-9a00-c82e7689bc5b",
+          "1c83b07c-81ff-8033-99e7-d2a87bbb8681",
+          "2563b07c-81ff-80dd-ae65-d75c05510259",
+          "2b13b07c-81ff-80b2-a598-e54eedc08142",
+          "2b13b07c-81ff-80e1-b9d2-c288e8a800e6",
+          "2b13b07c-81ff-8068-bb27-fc4de2400ac7",
+          "2b13b07c-81ff-80b3-acbf-d499d2417e89",
+          "2563b07c-81ff-8070-973a-d9fa8dde0001",
+          "2b13b07c-81ff-8061-9441-f9626a137929",
+          "1ad3b07c-81ff-80d7-834f-dd018563d0a2",
+          "2053b07c-81ff-806d-856f-e9bc89932314",
+          "2c53b07c-81ff-80c8-8eed-f459e1f688cf",
+          "2b13b07c-81ff-8067-8b3f-fd0e1c143ec1",
+          "2b13b07c-81ff-8019-b101-ed5c19e50306",
+          "2b13b07c-81ff-804f-9277-f09199338bfc",
+          "3193b07c-81ff-80d0-94fa-cdea5a3a3819",
+          "3193b07c-81ff-8056-b320-c7213be53654",
+          "1ad3b07c-81ff-805c-859e-c0d22acf87c1",
+          "1ad3b07c-81ff-80b9-b328-f615e30e3fd9",
+          "1ad3b07c-81ff-8056-9e92-cabb94ed2369",
+          "1ad3b07c-81ff-8050-9af4-faee15a2990d",
+          "1ad3b07c-81ff-80c3-b598-d2bd40edb213",
+          "1ad3b07c-81ff-80a1-9b43-fd97379da291",
+          "1ad3b07c-81ff-80c9-b59a-c9d67b8d2b5d",
+          "2563b07c-81ff-805c-8e11-ee74b42ee1e7",
+          "1ad3b07c-81ff-800a-aa10-e11e7298df57",
+          "1c93b07c-81ff-8080-9c3e-da572191d09b",
+          "1c53b07c-81ff-80de-ab37-ea8f131a394d",
+          "2713b07c-81ff-8092-8653-e6ebd3c457ce",
+          "2a73b07c-81ff-8066-a710-ce19e8c0ae46",
+          "1ad3b07c-81ff-802d-8826-f6956627511d",
+          "1ad3b07c-81ff-80d6-9c0d-eed12f11050e",
+          "1ad3b07c-81ff-806a-86a7-de4b2ad38860",
+          "1ad3b07c-81ff-8021-a06b-e3872dc87687",
+          "1ad3b07c-81ff-805e-8636-ca8d47eca32b",
+          "1ad3b07c-81ff-8070-a734-d667fdf78433",
+          "1c93b07c-81ff-80d2-822a-c9e95b7312c4",
+          "1ad3b07c-81ff-8071-b4a4-f1b79a93dda2",
+          "22f3b07c-81ff-80bd-b5b1-d27dff80f71e",
+          "25c3b07c-81ff-80be-82ba-fab64bc05e0b",
+          "22f3b07c-81ff-80e4-8df5-dcb9a445b695",
+          "22f3b07c-81ff-801e-a896-c3020c319883",
+          "1ad3b07c-81ff-80d3-b69a-ee248d1248f3",
+          "1ad3b07c-81ff-808d-8c04-f95d04a79276",
+          "1b73b07c-81ff-809d-a4e4-c7d533dbcab3",
+          "1ad3b07c-81ff-8004-88ce-ccd6431e5b51",
+          "1ad3b07c-81ff-8007-8efa-ce27abbbfb35",
+          "1ad3b07c-81ff-80f7-84fa-dfb259bf68fb",
+          "1ad3b07c-81ff-8072-8203-d4b689ba4a3c",
+          "1ad3b07c-81ff-80f2-b10d-f152aa3cb513",
+          "1ad3b07c-81ff-80d9-8724-e3866d8523a4",
+          "1ad3b07c-81ff-8027-aa5d-d8d70e0b6fbc",
+          "1ad3b07c-81ff-80c7-9113-d8f92e300496",
+          "1ad3b07c-81ff-8086-aab9-d72fb0ae36cb",
+          "1ad3b07c-81ff-8051-99ed-e52968b441a6",
+          "1ad3b07c-81ff-8024-8876-d47361d47562",
+          "1ad3b07c-81ff-8098-9204-caf70bb38f88",
+          "1ad3b07c-81ff-8086-b806-e6d620301469",
+          "22f3b07c-81ff-80be-bef9-f350fa816aef",
+          "2563b07c-81ff-8095-a912-eb5c5773d6ed",
+          "2563b07c-81ff-80f7-8fb5-d4cf3df1641d",
+          "2563b07c-81ff-802e-b04e-ed808a2c0898",
+          "2563b07c-81ff-80e4-85d5-f93e9f09cfea",
+          "2563b07c-81ff-8075-91bf-f71b7ae33cdb",
+          "2563b07c-81ff-8047-af30-e0924e079734",
+          "2563b07c-81ff-808c-a391-ed0363a297e1",
+          "1ad3b07c-81ff-8089-85a4-c1e2e7a66470",
+          "1c83b07c-81ff-80c4-aea4-ef8a212de612",
+          "1ad3b07c-81ff-8026-9310-ceb9fc8db6d7",
+          "1ad3b07c-81ff-8097-9b9e-e1d33bd805ac",
+          "1ad3b07c-81ff-80c7-839c-d9d362f424f0",
+          "2563b07c-81ff-8096-b79c-d843ce503c01",
+          "1ad3b07c-81ff-80a7-b63f-f1a7e1db8387",
+          "2b73b07c-81ff-80c8-80d6-e232a23ebf03",
+          "1ad3b07c-81ff-80f3-b903-e51b8cf70f82",
+          "2563b07c-81ff-802b-bd65-ecfcb229524e",
+          "2b73b07c-81ff-809f-af34-ca988c93c557",
+          "1ad3b07c-81ff-8066-9a3c-e8d84caeb293",
+          "1c83b07c-81ff-808d-b8ab-ca12cf68c385",
+          "1c53b07c-81ff-8051-a176-fd80a7130516",
+          "1ae3b07c-81ff-80bb-8492-e67a52c52f48",
+          "1c53b07c-81ff-8076-852d-fe2870ddccd3",
+          "1c53b07c-81ff-8002-b9d3-c4089173b812",
+          "25b3b07c-81ff-80c6-9a04-c25371440590",
+          "25b3b07c-81ff-80d7-84d8-f97f5d82108e",
+          "1ad3b07c-81ff-80c0-9d70-d7fcdbc34862",
+          "1c83b07c-81ff-8041-bd55-eb2d667d8163",
+          "1ad3b07c-81ff-80e3-b8a9-ec52ed13f273",
+          "1c83b07c-81ff-80d4-854d-ceba0e421089",
+          "1ad3b07c-81ff-807d-b2a2-c7a9029b3ffe",
+          "25a3b07c-81ff-80c2-8258-ebfa162e3782",
+          "25a3b07c-81ff-80dd-8c80-d26e9997953e",
+          "25a3b07c-81ff-80c9-b79f-df40744da39b",
+          "25a3b07c-81ff-80f9-9826-f370d519e7c2",
+          "29e3b07c-81ff-8097-bec1-c93279cff735",
+          "1c83b07c-81ff-80a2-8648-fbf2ae6595f8",
+          "1c83b07c-81ff-8075-a8f7-cfc11745ffdc",
+          "1ae3b07c-81ff-809c-b152-d0acfcc4cd8e",
+          "1c83b07c-81ff-8080-b094-cb2387d85414",
+          "1c83b07c-81ff-8092-ad21-c8d0cce2400b",
+          "1c83b07c-81ff-8041-9145-c8544e4e13a6",
+          "1ae3b07c-81ff-803a-93a4-e3dc8a80f144",
+          "1c83b07c-81ff-804f-ad67-caef67282b4c",
+          "2053b07c-81ff-8035-91a9-e500590529a2",
+          "25c3b07c-81ff-8074-ac2e-e74fbbdb4007",
+          "2053b07c-81ff-8046-a584-cda60c013f6e",
+          "2053b07c-81ff-802d-9ccd-dd8af12a797d",
+          "29e3b07c-81ff-808f-afab-d20ed4180356",
+          "2e93b07c-81ff-805d-9c45-ffdf0de5bbab",
+          "2053b07c-81ff-80f8-9d20-e1c4b180b755",
+          "2053b07c-81ff-8085-8b97-d4e7c6bc2eb9",
+          "2053b07c-81ff-8015-a157-d4efa15f11ad",
+          "2053b07c-81ff-80f1-8d4f-f16a034ac353",
+          "2053b07c-81ff-8009-b2fe-fc168cc15ac2",
+          "2053b07c-81ff-8098-9180-e8901f420f1b",
+          "25b3b07c-81ff-80ad-ac11-c2eb1b12c2b1",
+          "25c3b07c-81ff-80c8-bb45-c8e201419b75",
+          "25b3b07c-81ff-80a0-82e3-c05a89e189a8",
+          "25b3b07c-81ff-80da-98ec-cc9e48c83a2c",
+          "25b3b07c-81ff-803a-9dff-f0958f30a4bc",
+          "25c3b07c-81ff-807f-a1ca-da18337cdddf",
+          "25c3b07c-81ff-80a3-94ec-f9c8a6d9e0e0",
+          "25c3b07c-81ff-80ce-b012-f86369698dab",
+          "25c3b07c-81ff-8041-a4f7-f1124e509302",
+          "2633b07c-81ff-80b8-bea0-f7abf7d6928a",
+          "2633b07c-81ff-8067-a3eb-c4c4a461b97a",
+          "2633b07c-81ff-802e-a6ba-d43cbdeb9144",
+          "2633b07c-81ff-8009-b3df-cfcf3b1358b3",
+          "2633b07c-81ff-808b-a5a8-ff6b9f2ac1a0",
+          "2633b07c-81ff-8073-8c03-f9db2af4a631",
+          "2633b07c-81ff-80e3-a6a6-fa9d4a671e96",
+          "2633b07c-81ff-8009-a229-e10b55d433d8",
+          "2633b07c-81ff-8080-b96b-d5eb224ccdb8",
+          "2633b07c-81ff-80f5-b25d-c5711c3c95d1",
+          "2633b07c-81ff-8029-b298-e6fac9907b7a",
+          "2633b07c-81ff-80e4-8623-d12837740269",
+          "2633b07c-81ff-80cb-9612-e86ec181b085",
+          "2633b07c-81ff-8079-bd55-d91f98db06c1",
+          "2633b07c-81ff-805b-b806-f06c84223889",
+          "2633b07c-81ff-80f4-aa90-cc6fb63fcd4c",
+          "2633b07c-81ff-803a-a4c5-f1a4d4f06f8a",
+          "2633b07c-81ff-808e-b3f6-f6fde2e4b652",
+          "2633b07c-81ff-80c3-af9e-c56c005390a7",
+          "2633b07c-81ff-8087-9ac7-d30a9cf30704",
+          "2633b07c-81ff-80a1-8aab-ff648467c73b",
+          "2633b07c-81ff-8032-a57c-faa3c383fb0a",
+          "2633b07c-81ff-80cc-b191-c2b128c89ad9",
+          "2633b07c-81ff-805f-9a21-d44fb579b657",
+          "2633b07c-81ff-809a-a3ce-e8fed6057c05",
+          "2633b07c-81ff-8076-9648-e88bdf328fde",
+          "2633b07c-81ff-8031-8de1-fbc0631543ed",
+          "2633b07c-81ff-8076-bd65-fe5c2094712c",
+          "2633b07c-81ff-8049-8fa5-d75bd626c89a",
+          "25c3b07c-81ff-8083-adce-f9ff3bfd9753",
+          "25c3b07c-81ff-803f-be73-e75781b0e06a",
+          "25c3b07c-81ff-80e9-b600-cfe9ca86872b",
+          "25c3b07c-81ff-809a-9142-e174de166cf8",
+          "2633b07c-81ff-804c-a271-ccfba4e75728",
+          "25d3b07c-81ff-8082-8617-c400dae2e52a"
+        ],
+        "parent_id": "3173b07c-81ff-809e-a594-000b9646f894",
+        "parent_table": "collection",
+        "created_time": 1741139722430,
+        "last_edited_time": 1772654004591
+      }
+    },
+    "2ba3b07c-81ff-80c2-b4be-ed41c4ec7ebd": {
+      "value": {
+        "id": "2ba3b07c-81ff-80c2-b4be-ed41c4ec7ebd",
+        "type": "callout",
+        "format": {
+          "block_color": "gray_background",
+          "callout_version": 2
+        },
+        "content": [
+          "1b53b07c-81ff-803d-aee4-f4e483740160"
+        ],
+        "parent_id": "1b53b07c-81ff-8008-8628-fd24941c0d6b",
+        "parent_table": "block",
+        "created_time": 1764426918972,
+        "last_edited_time": 1764426923901
+      }
+    },
+    "1b53b07c-81ff-803d-aee4-f4e483740160": {
+      "value": {
+        "id": "1b53b07c-81ff-803d-aee4-f4e483740160",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "そしてこの「誰か」ですが、現時点の情報から考察するなら、一番可能性が高いのはデルタだと思います。\nデルタはオットーの実験により崩壊エネルギーを吸収し続ける、人類を超越した存在となりましたが、当時の人類にはその力を受け入れるだけの能力がなかったため、冬眠させられました。\nよって「世界を救う道具」「元々ただの欠陥品だった」という性質は当てはまります。\nまたデルタはクイーンビー遺伝子を注入されているため、「統帥」であると言えるでしょう。\nそして「意志の統括者がいなくなった後にこんな性質が現れるとは……」とあるため、この存在が崩壊戦争の時代から存在していることが分かります。そしてデルタも崩壊戦争後に変化が起こっています。\nカリンの「"
+            ],
+            [
+              "無限",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "の聖痕」は崩壊宇宙に物質を投入しなくても無限に崩壊エネルギーを得ることができるというものですが、崩壊エネルギーを無尽蔵に吸収し続けるデルタと繋がっているなら納得できます。\nまたオットーが名付けた「デルタ」という名前は「"
+            ],
+            [
+              "無限",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "の可能性」を象徴しています。\nまた新生編の最終話は、デルタの話の後、別の物語が始まることが示唆されながら終わります。\n以上のことからこの「誰か」がデルタである可能性はありそうです。"
+            ]
+          ]
+        },
+        "parent_id": "2ba3b07c-81ff-80c2-b4be-ed41c4ec7ebd",
+        "parent_table": "block",
+        "created_time": 1741885779793,
+        "last_edited_time": 1764426922037
+      }
+    }
+  },
+  "collection": {
+    "3173b07c-81ff-809e-a594-000b9646f894": {
+      "value": {
+        "id": "3173b07c-81ff-809e-a594-000b9646f894",
+        "version": 24,
+        "name": [
+          [
+            "考察"
+          ]
+        ],
+        "schema": {
+          "title": {
+            "name": "名前",
+            "type": "title"
+          },
+          "84d957e0-e0fe-4c76-8e91-ebfb7263668c": {
+            "name": "Slug",
+            "type": "text",
+            "description": ""
+          }
+        },
+        "parent_id": "3173b07c-81ff-80a3-a81d-f72aaeedf189",
+        "parent_table": "block",
+        "alive": true,
+        "migrated": true,
+        "space_id": "f25e8375-dff8-499a-b7bf-74566e1055df",
+        "created_time": 1772477478520,
+        "last_edited_time": 1772477533672,
+        "created_by_table": "notion_user",
+        "created_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a"
+      },
+      "role": "reader"
+    },
+    "1ac3b07c-81ff-8086-a96b-000b78a078f2": {
+      "value": {
+        "id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
+        "version": 48,
+        "name": [
+          [
+            "目次"
+          ]
+        ],
+        "schema": {
+          "`q`e": {
+            "name": "タグ",
+            "type": "multi_select"
+          },
+          "t~Sf": {
+            "name": "Slug",
+            "type": "text"
+          },
+          "vidt": {
+            "name": "作成日時",
+            "type": "created_time"
+          },
+          "title": {
+            "name": "名前",
+            "type": "title"
+          }
+        },
+        "format": {
+          "layout_pointer": {
+            "id": "1ac3b07c-81ff-80e0-9466-006e60a7ae40",
+            "table": "layout",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "property_visibility": [
+            {
+              "property": "vidt",
+              "visibility": "show"
+            },
+            {
+              "property": "`q`e",
+              "visibility": "show"
+            },
+            {
+              "property": "t~Sf",
+              "visibility": "show"
+            }
+          ],
+          "metadata_copied_from": {
+            "id": "1ac3b07c-81ff-8068-828b-fec9cdc96765",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "ai_suggested_properties": [
+            {
+              "name": "説明",
+              "type": "text"
+            },
+            {
+              "name": "更新日時",
+              "type": "date"
+            },
+            {
+              "name": "担当者",
+              "type": "person"
+            },
+            {
+              "name": "優先度",
+              "type": "select",
+              "options": [
+                {
+                  "id": "Wegk",
+                  "color": "yellow",
+                  "value": "高"
+                },
+                {
+                  "id": ";HBU",
+                  "color": "purple",
+                  "value": "中"
+                },
+                {
+                  "id": "Zark",
+                  "color": "default",
+                  "value": "低"
+                }
+              ]
+            },
+            {
+              "name": "ステータス",
+              "type": "status"
+            },
+            {
+              "name": "関連ファイル",
+              "type": "file"
+            },
+            {
+              "name": "連絡先メール",
+              "type": "email"
+            },
+            {
+              "name": "連絡先電話番号",
+              "type": "phone_number"
+            },
+            {
+              "name": "カテゴリー",
+              "type": "multi_select",
+              "options": [
+                {
+                  "id": "o>B<",
+                  "color": "orange",
+                  "value": "技術"
+                },
+                {
+                  "id": "ksAA",
+                  "color": "pink",
+                  "value": "マーケティング"
+                },
+                {
+                  "id": "}yWP",
+                  "color": "brown",
+                  "value": "デザイン"
+                },
+                {
+                  "id": "lt{K",
+                  "color": "yellow",
+                  "value": "管理"
+                }
+              ]
+            },
+            {
+              "name": "予算",
+              "type": "number"
+            }
+          ],
+          "page_section_visibility": {
+            "comments": "section_hide",
+            "backlinks": "section_collapsed",
+            "margin_comments": "minimal"
+          },
+          "collection_cover_position": 0.7987,
+          "collection_page_properties": [
+            {
+              "visible": true,
+              "property": "vidt"
+            },
+            {
+              "visible": true,
+              "property": "`q`e"
+            }
+          ]
+        },
+        "parent_id": "1ac3b07c-81ff-8068-828b-fec9cdc96765",
+        "parent_table": "block",
+        "alive": true,
+        "file_ids": [
+          "4f9fcbb9-8c79-49e0-98bf-457ceee7859a"
+        ],
+        "migrated": true,
+        "space_id": "f25e8375-dff8-499a-b7bf-74566e1055df",
+        "deleted_schema": {
+          "FE|;": {
+            "name": "全項目",
+            "type": "relation",
+            "version": "v2",
+            "property": "qhFA",
+            "autoRelate": {
+              "enabled": false
+            },
+            "collection_id": "3173b07c-81ff-8097-a182-000bbb96d5ad",
+            "collection_pointer": {
+              "id": "3173b07c-81ff-8097-a182-000bbb96d5ad",
+              "table": "collection",
+              "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+            }
+          }
+        },
+        "created_time": 1741119010204,
+        "last_edited_time": 1772696876824,
+        "created_by_table": "notion_user",
+        "created_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a"
+      },
+      "role": "reader"
+    },
+    "a0dd7c4e-7ec8-4586-95da-f282fd0f7cba": {
+      "role": "none"
+    }
+  },
+  "collection_view": {
+    "3173b07c-81ff-803b-b875-000c0c402b37": {
+      "value": {
+        "id": "3173b07c-81ff-803b-b875-000c0c402b37",
+        "version": 23,
+        "type": "gallery",
+        "format": {
+          "table_wrap": true,
+          "gallery_cover": {
+            "type": "page_cover"
+          },
+          "show_page_icon": false,
+          "table_properties": [
+            {
+              "width": 280,
+              "visible": true,
+              "property": "title"
+            },
+            {
+              "visible": true,
+              "property": "Yvki"
+            }
+          ],
+          "collection_pointer": {
+            "id": "3173b07c-81ff-809e-a594-000b9646f894",
+            "table": "collection",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "gallery_cover_size": "medium",
+          "collection_peek_mode": "full_page",
+          "inline_collection_first_load_limit": {
+            "type": "load_limit",
+            "limit": 100
+          }
+        },
+        "parent_id": "3173b07c-81ff-80a3-a81d-f72aaeedf189",
+        "parent_table": "block",
+        "alive": true,
+        "page_sort": [
+          "1ad3b07c-81ff-80af-8fa1-dba5dde1db0d",
+          "2833b07c-81ff-802a-b26c-c5fec1d872bf",
+          "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+          "2a03b07c-81ff-809f-842f-e5b1bd2b5351"
+        ],
+        "space_id": "f25e8375-dff8-499a-b7bf-74566e1055df",
+        "created_time": 1772477478525,
+        "last_edited_time": 1772477558848,
+        "created_by_table": "notion_user",
+        "created_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a"
+      },
+      "role": "reader"
+    },
+    "1ac3b07c-81ff-80ee-821a-000cec78a24c": {
+      "value": {
+        "id": "1ac3b07c-81ff-80ee-821a-000cec78a24c",
+        "version": 56,
+        "type": "gallery",
+        "name": "ギャラリービュー",
+        "format": {
+          "table_wrap": false,
+          "gallery_cover": {
+            "type": "page_cover"
+          },
+          "show_page_icon": false,
+          "collection_pointer": {
+            "id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
+            "table": "collection",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "gallery_cover_size": "medium",
+          "collection_peek_mode": "full_page",
+          "gallery_cover_aspect": "cover"
+        },
+        "parent_id": "1ac3b07c-81ff-8068-828b-fec9cdc96765",
+        "parent_table": "block",
+        "alive": true,
+        "page_sort": [
+          "1ac3b07c-81ff-8089-98b4-ec9f8c06db35",
+          "1ad3b07c-81ff-80ba-be4c-ef2bb448c0e8",
+          "1ac3b07c-81ff-80ad-9d61-ef632d261b8f",
+          "1ad3b07c-81ff-803d-b570-dd34e00c1df5",
+          "1ad3b07c-81ff-80e4-8271-c7f781e181c3",
+          "1ad3b07c-81ff-809c-8204-e16483640fa5",
+          "1c83b07c-81ff-800b-a0c3-f295d7423d6d",
+          "1c83b07c-81ff-803f-99b6-f7010f54b710",
+          "3173b07c-81ff-8007-9e56-f698ccc5d61b",
+          "3173b07c-81ff-8001-882a-f4808ecf3cc9",
+          "3173b07c-81ff-8094-a02b-dd39382302cf",
+          "2573b07c-81ff-8076-8c97-c512393c2dc8",
+          "1b63b07c-81ff-809a-8e66-e4e88abf2006"
+        ],
+        "query2": {
+          "aggregations": [
+            {
+              "aggregator": "count"
+            }
+          ]
+        },
+        "space_id": "f25e8375-dff8-499a-b7bf-74566e1055df",
+        "created_time": 1773029610624,
+        "last_edited_time": 1773029610624,
+        "created_by_table": "notion_user",
+        "created_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a"
+      },
+      "role": "reader"
+    },
+    "5531d29a-4e77-406f-a1fc-32cd5bbafec7": {
+      "role": "none"
+    },
+    "5dd8ee8a-3d52-42e6-b781-ac5db580f283": {
+      "role": "none"
+    },
+    "401ba18e-ee37-450f-b369-015c2957f5d4": {
+      "role": "none"
+    },
+    "5961b724-b949-48b2-aef2-d5c03eacd1d8": {
+      "role": "none"
+    },
+    "1ad3b07c-81ff-8037-9574-000c12eb1c9d": {
+      "role": "none"
+    }
+  },
+  "collection_query": {}
+}

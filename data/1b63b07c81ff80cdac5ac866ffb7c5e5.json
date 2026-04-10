@@ -1,0 +1,4546 @@
+{
+  "block": {
+    "1b63b07c-81ff-80cd-ac5a-c866ffb7c5e5": {
+      "value": {
+        "id": "1b63b07c-81ff-80cd-ac5a-c866ffb7c5e5",
+        "type": "page",
+        "properties": {
+          "D?Hg": [
+            [
+              "stigmata"
+            ]
+          ],
+          "qhFA": [
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1ad3b07c-81ff-803d-b570-dd34e00c1df5",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ]
+          ],
+          "title": [
+            [
+              "聖痕"
+            ]
+          ],
+          "a76b2d23-d2c3-4898-8de1-96cecc2d7a15": [
+            [
+              "stigmata"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "1413b07c-81ff-8036-a548-fa1be47dc2be",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "content": [
+          "1bf3b07c-81ff-80f5-a883-ea99b6a9283c",
+          "1bf3b07c-81ff-80cb-9b7a-cfcc0835dbb4",
+          "1bf3b07c-81ff-803d-ad8b-e6dc80378d86",
+          "1bf3b07c-81ff-8060-a5fb-d251e2c87f9d",
+          "1bf3b07c-81ff-80a0-8782-e4e10d734c91",
+          "1bf3b07c-81ff-80a5-b22f-f23969ecd36c",
+          "1bf3b07c-81ff-806d-8389-c3c4accb3e90",
+          "31e3b07c-81ff-80e3-a757-ea0ca2e5fa5c",
+          "31e3b07c-81ff-8050-84b8-c0826ecbea80"
+        ],
+        "parent_id": "31a3b07c-81ff-8073-9300-000bf354425b",
+        "parent_table": "collection",
+        "created_time": 1741979389065,
+        "last_edited_time": 1773075376069
+      }
+    },
+    "31a3b07c-81ff-80d1-9457-dcbda3b3f132": {
+      "value": {
+        "id": "31a3b07c-81ff-80d1-9457-dcbda3b3f132",
+        "type": "collection_view",
+        "format": {
+          "collection_pointer": {
+            "id": "31a3b07c-81ff-8073-9300-000bf354425b",
+            "table": "collection",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "collection_pointers": [
+            {
+              "id": "31a3b07c-81ff-8073-9300-000bf354425b",
+              "table": "collection",
+              "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+            }
+          ],
+          "hide_inline_collection_name": true
+        },
+        "parent_id": "1ad3b07c-81ff-803d-b570-dd34e00c1df5",
+        "parent_table": "block",
+        "collection_id": "31a3b07c-81ff-8073-9300-000bf354425b",
+        "view_ids": [
+          "31a3b07c-81ff-80cf-b0e5-000c0ecaa076"
+        ],
+        "created_time": 1772696704734,
+        "last_edited_time": 1772715627102
+      }
+    },
+    "1ad3b07c-81ff-803d-b570-dd34e00c1df5": {
+      "value": {
+        "id": "1ad3b07c-81ff-803d-b570-dd34e00c1df5",
+        "type": "page",
+        "properties": {
+          "FE|;": [
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1bf3b07c-81ff-8055-81ae-c40dff2072b2",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1b63b07c-81ff-80cd-ac5a-c866ffb7c5e5",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1bf3b07c-81ff-80b2-8c15-f4469df560ae",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1bf3b07c-81ff-80f9-a733-ed6a4f3c1b69",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1b63b07c-81ff-803b-bf3a-e1be19f9a530",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1bf3b07c-81ff-80a1-b1db-dd5457ff278f",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1bf3b07c-81ff-80a9-94e2-cc3ad373803f",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1bf3b07c-81ff-80c6-925a-d3e1fe9a4c94",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1bf3b07c-81ff-80b4-b959-e3e6c2bcd9c6",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1bf3b07c-81ff-805c-a52b-fe86fc0f55e0",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1ad3b07c-81ff-806f-814d-e9208d31aca7",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1bf3b07c-81ff-80ca-82cd-dc2a6b34742b",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1bf3b07c-81ff-80d3-8e18-d55a7f713b84",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1bf3b07c-81ff-80f1-9cfa-d172fcc44356",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1bd3b07c-81ff-802b-881f-e69def649392",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1bf3b07c-81ff-802e-93ca-d920e2751ff1",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1be3b07c-81ff-801e-9bc1-cb69c4262cba",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1b93b07c-81ff-8090-88e4-e5ec255d4e02",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1bf3b07c-81ff-80bb-bd76-efdad8e1ea76",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "27c3b07c-81ff-80a9-8cfc-d1c79da175d5",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "2f73b07c-81ff-8098-bdd9-d3b61ddfdeb0",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1bf3b07c-81ff-80f9-8d9d-ea75b15d9e3a",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ]
+          ],
+          "t~Sf": [
+            [
+              "term"
+            ]
+          ],
+          "title": [
+            [
+              "用語"
+            ]
+          ]
+        },
+        "format": {
+          "slug": "glossary",
+          "page_cover": "attachment:609f03c1-d882-4fcc-affa-f4d3a7fef79f:スクリーンショット_2025-04-25_043737.png",
+          "card_cover_position": 0.6687,
+          "page_cover_position": 0.6687,
+          "social_media_image_preview_url": "attachment:0c2d3364-aa4c-4140-93ae-100086c0fa1e:SocialMediaPreviewImage.png"
+        },
+        "content": [
+          "31a3b07c-81ff-80d1-9457-dcbda3b3f132"
+        ],
+        "parent_id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
+        "parent_table": "collection",
+        "created_time": 1741140188770,
+        "last_edited_time": 1772696710931
+      }
+    },
+    "1ac3b07c-81ff-8068-828b-fec9cdc96765": {
+      "value": {
+        "id": "1ac3b07c-81ff-8068-828b-fec9cdc96765",
+        "type": "collection_view",
+        "format": {
+          "collection_pointer": {
+            "id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
+            "table": "collection",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "page_cover_position": 0.5,
+          "social_media_image_preview_url": "attachment:fb48497c-047a-4a51-8d55-ff2f2a45c136:SocialMediaPreviewImage.png"
+        },
+        "parent_id": "1ac3b07c-81ff-80d1-84a1-f564abe7fef3",
+        "parent_table": "block",
+        "collection_id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
+        "view_ids": [
+          "1ac3b07c-81ff-80ee-821a-000cec78a24c"
+        ],
+        "created_time": 1741119010204,
+        "last_edited_time": 1773029610624
+      }
+    },
+    "1ac3b07c-81ff-80d1-84a1-f564abe7fef3": {
+      "value": {
+        "id": "1ac3b07c-81ff-80d1-84a1-f564abe7fef3",
+        "type": "page",
+        "properties": {
+          "mgJK": [
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1b9a2d41-3d52-470d-b4eb-79f20192b22b",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ]
+          ],
+          "title": [
+            [
+              "崩壊学園編 Wiki"
+            ]
+          ]
+        },
+        "format": {
+          "site_id": "2573b07c-81ff-80ed-96cb-007912ddb61b",
+          "seo_title": "崩壊学園編　ストーリー　Wiki | Notion",
+          "page_cover": "attachment:d4c78f4a-1872-4d8a-836f-48abb3027e69:760ca1e5gy1hi33odeetvj21z4140u03.jpg",
+          "block_locked": false,
+          "block_locked_by": "4e3acacc-a0e3-4eec-9056-a8f06db6234a",
+          "page_full_width": true,
+          "seo_description": "このサイトについて",
+          "copied_from_pointer": {
+            "id": "f1552fed-37eb-4430-a72c-2b7e492693fe",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "page_cover_position": 0.8137,
+          "social_media_image_preview_url": "attachment:48a41782-79c9-4c05-ba30-d07b9906cec8:SocialMediaPreviewImage.png"
+        },
+        "content": [
+          "1ac3b07c-81ff-8068-828b-fec9cdc96765",
+          "1bc3b07c-81ff-8027-b36b-fe45e7913081",
+          "25e3b07c-81ff-80ea-a0bb-dafec40f099c",
+          "1bc3b07c-81ff-8035-a07b-fd6768f2ea47",
+          "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+          "1ac3b07c-81ff-806b-954d-e374dd80aaa6",
+          "25e3b07c-81ff-8029-8c34-f5c8da01f230",
+          "1b83b07c-81ff-80c4-b3ef-e093616890e5",
+          "1dc3b07c-81ff-8073-b8f4-ee5a0a18b2e1",
+          "25e3b07c-81ff-807e-9816-e841c1e019fe",
+          "1cd3b07c-81ff-80c4-956d-c5234f085fe0",
+          "3173b07c-81ff-80b7-858b-d65c8bfee9d4",
+          "31a3b07c-81ff-8060-a854-e628d7af9d30",
+          "3173b07c-81ff-8069-9314-d86189c4435d"
+        ],
+        "parent_id": "a0dd7c4e-7ec8-4586-95da-f282fd0f7cba",
+        "parent_table": "collection",
+        "created_time": 1741118997345,
+        "last_edited_time": 1773062452938
+      }
+    },
+    "43c1134f-28b4-42d1-a716-f9fa638c9e50": {
+      "role": "none"
+    },
+    "1ad3b07c-81ff-80e6-b0a3-c1e8c0daf575": {
+      "role": "none"
+    },
+    "1bf3b07c-81ff-80f5-a883-ea99b6a9283c": {
+      "value": {
+        "id": "1bf3b07c-81ff-80f5-a883-ea99b6a9283c",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "一部の人が持っているゲノム。"
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-80cd-ac5a-c866ffb7c5e5",
+        "parent_table": "block",
+        "created_time": 1742706074643,
+        "last_edited_time": 1773075373720
+      }
+    },
+    "1bf3b07c-81ff-80cb-9b7a-cfcc0835dbb4": {
+      "value": {
+        "id": "1bf3b07c-81ff-80cb-9b7a-cfcc0835dbb4",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "崩壊耐性や身体能力が上昇し、崩壊エネルギーによる物質の置換能力を得られる。"
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-80cd-ac5a-c866ffb7c5e5",
+        "parent_table": "block",
+        "created_time": 1742707085365,
+        "last_edited_time": 1773075373720
+      }
+    },
+    "1bf3b07c-81ff-803d-ad8b-e6dc80378d86": {
+      "value": {
+        "id": "1bf3b07c-81ff-803d-ad8b-e6dc80378d86",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "人によって様々な能力がある。"
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-80cd-ac5a-c866ffb7c5e5",
+        "parent_table": "block",
+        "created_time": 1742706942244,
+        "last_edited_time": 1773075373720
+      }
+    },
+    "1bf3b07c-81ff-8060-a5fb-d251e2c87f9d": {
+      "value": {
+        "id": "1bf3b07c-81ff-8060-a5fb-d251e2c87f9d",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "生まれつきの聖痕所有者は「聖痕使い」、"
+            ],
+            [
+              "聖痕移植体",
+              [
+                [
+                  "a",
+                  "/1bf3b07c81ff80a5b22ff23969ecd36c?pvs=25"
+                ]
+              ]
+            ],
+            [
+              "の使用者は「聖痕レシピエント」と呼ばれる。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "1bf3b07c-81ff-801b-807b-e0237cc96f4d",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "1b63b07c-81ff-80cd-ac5a-c866ffb7c5e5",
+        "parent_table": "block",
+        "created_time": 1742761085951,
+        "last_edited_time": 1773075373720
+      }
+    },
+    "1bf3b07c-81ff-80a0-8782-e4e10d734c91": {
+      "value": {
+        "id": "1bf3b07c-81ff-80a0-8782-e4e10d734c91",
+        "type": "toggle",
+        "properties": {
+          "title": [
+            [
+              "詳細な設定\n"
+            ]
+          ]
+        },
+        "content": [
+          "1bf3b07c-81ff-8082-a324-f66717c95c46",
+          "1bf3b07c-81ff-8001-9bc5-de054a716f2d",
+          "1bf3b07c-81ff-8080-ab40-f2870cb28b7e",
+          "1bf3b07c-81ff-803e-9b0f-f002cfeb8187",
+          "1bf3b07c-81ff-8077-b64b-d778d7e10dd4",
+          "1bf3b07c-81ff-8004-8eb1-f97f38f7f0b6",
+          "1bf3b07c-81ff-8024-8d4b-e7aecb36e4a5"
+        ],
+        "parent_id": "1b63b07c-81ff-80cd-ac5a-c866ffb7c5e5",
+        "parent_table": "block",
+        "created_time": 1742705878220,
+        "last_edited_time": 1773075373720
+      }
+    },
+    "1bf3b07c-81ff-80a5-b22f-f23969ecd36c": {
+      "value": {
+        "id": "1bf3b07c-81ff-80a5-b22f-f23969ecd36c",
+        "type": "page",
+        "properties": {
+          "title": [
+            [
+              "聖痕移植体"
+            ]
+          ]
+        },
+        "content": [
+          "1bf3b07c-81ff-80f3-948e-c35342191392",
+          "1bf3b07c-81ff-80f7-94ff-e4532d491252",
+          "1bf3b07c-81ff-801b-807b-e0237cc96f4d",
+          "1bf3b07c-81ff-8093-b36b-fbdf409cbd4a",
+          "1bf3b07c-81ff-803c-b05f-f481725e09d7",
+          "1bf3b07c-81ff-800e-ba20-fecbf4af3ba3",
+          "1bf3b07c-81ff-8013-82b8-c825a5c04032",
+          "1bf3b07c-81ff-808f-8869-c634ce39afdf",
+          "1bf3b07c-81ff-80ef-9e38-dc9dabb3c0e8",
+          "27d3b07c-81ff-8060-832b-cdee006e631c",
+          "1bf3b07c-81ff-80de-bf2e-ef7fb561ae50",
+          "1bf3b07c-81ff-8055-8c3d-ce3fbc6f9658",
+          "1bf3b07c-81ff-8023-80ff-c1ced141877a",
+          "1bf3b07c-81ff-8090-a42f-f771ac4ab8b1"
+        ],
+        "parent_id": "1b63b07c-81ff-80cd-ac5a-c866ffb7c5e5",
+        "parent_table": "block",
+        "created_time": 1742759978922,
+        "last_edited_time": 1759324282234
+      }
+    },
+    "1bf3b07c-81ff-806d-8389-c3c4accb3e90": {
+      "value": {
+        "id": "1bf3b07c-81ff-806d-8389-c3c4accb3e90",
+        "type": "page",
+        "properties": {
+          "title": [
+            [
+              "仮想聖痕武装"
+            ]
+          ]
+        },
+        "content": [
+          "1bf3b07c-81ff-80d7-8f57-c3075c281626",
+          "1bf3b07c-81ff-80d5-a5b9-de4ecda9b097",
+          "1bf3b07c-81ff-8082-82e1-e7fa87f7b1af"
+        ],
+        "parent_id": "1b63b07c-81ff-80cd-ac5a-c866ffb7c5e5",
+        "parent_table": "block",
+        "created_time": 1742763350424,
+        "last_edited_time": 1742901933692
+      }
+    },
+    "31e3b07c-81ff-80e3-a757-ea0ca2e5fa5c": {
+      "value": {
+        "id": "31e3b07c-81ff-80e3-a757-ea0ca2e5fa5c",
+        "type": "text",
+        "parent_id": "1b63b07c-81ff-80cd-ac5a-c866ffb7c5e5",
+        "parent_table": "block",
+        "created_time": 1773074988681,
+        "last_edited_time": 1773074988683
+      }
+    },
+    "31e3b07c-81ff-8050-84b8-c0826ecbea80": {
+      "value": {
+        "id": "31e3b07c-81ff-8050-84b8-c0826ecbea80",
+        "type": "collection_view",
+        "format": {
+          "collection_pointer": {
+            "id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+            "table": "collection",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "collection_pointers": [
+            {
+              "id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+              "table": "collection",
+              "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+            }
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-80cd-ac5a-c866ffb7c5e5",
+        "parent_table": "block",
+        "collection_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "view_ids": [
+          "31e3b07c-81ff-80c0-9651-000c872b1d7a"
+        ],
+        "created_time": 1773074992483,
+        "last_edited_time": 1773076303635
+      }
+    },
+    "1bf3b07c-81ff-8055-81ae-c40dff2072b2": {
+      "value": {
+        "id": "1bf3b07c-81ff-8055-81ae-c40dff2072b2",
+        "type": "page",
+        "properties": {
+          "D?Hg": [
+            [
+              "anti-planetary-decisive-weapon"
+            ]
+          ],
+          "qhFA": [
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1ad3b07c-81ff-803d-b570-dd34e00c1df5",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ]
+          ],
+          "title": [
+            [
+              "対惑星決戦兵器"
+            ]
+          ],
+          "a76b2d23-d2c3-4898-8de1-96cecc2d7a15": [
+            [
+              "anti-planetary-weapon"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "1413b07c-81ff-8036-a548-fa1be47dc2be",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "content": [
+          "1bf3b07c-81ff-80c1-bc33-ebe17fc9417e",
+          "1bf3b07c-81ff-80c4-a03c-f4333b81fb4c",
+          "1bf3b07c-81ff-80a8-92ba-f07332770989",
+          "1c53b07c-81ff-80b6-9ee2-e953969b0557",
+          "1c53b07c-81ff-8015-8cca-c1c066ae26ce",
+          "1c53b07c-81ff-8032-8b17-fbd947fd5e84",
+          "1c53b07c-81ff-80b1-9dfb-fee911eba11f"
+        ],
+        "parent_id": "31a3b07c-81ff-8073-9300-000bf354425b",
+        "parent_table": "collection",
+        "created_time": 1742758723119,
+        "last_edited_time": 1772696993072
+      }
+    },
+    "1bf3b07c-81ff-8082-a324-f66717c95c46": {
+      "value": {
+        "id": "1bf3b07c-81ff-8082-a324-f66717c95c46",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "特定の人たちの体内に生まれつき存在する特殊なゲノム。"
+            ]
+          ]
+        },
+        "parent_id": "1bf3b07c-81ff-80a0-8782-e4e10d734c91",
+        "parent_table": "block",
+        "created_time": 1742705131003,
+        "last_edited_time": 1742705891866
+      }
+    },
+    "1bf3b07c-81ff-8001-9bc5-de054a716f2d": {
+      "value": {
+        "id": "1bf3b07c-81ff-8001-9bc5-de054a716f2d",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "MEI博士が人類が滅亡した後も種を保存させるため（新しい世界を支配下に置くため）に発明したもの。"
+            ]
+          ]
+        },
+        "parent_id": "1bf3b07c-81ff-80a0-8782-e4e10d734c91",
+        "parent_table": "block",
+        "created_time": 1742704906596,
+        "last_edited_time": 1742706217456
+      }
+    },
+    "1bf3b07c-81ff-8080-ab40-f2870cb28b7e": {
+      "value": {
+        "id": "1bf3b07c-81ff-8080-ab40-f2870cb28b7e",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "MEI博士が自分の時代で聖痕計画に関わった全ての人間を殺し、 彼らの体内でも特徴的な遺伝子を「聖痕」 と名付け、遺伝子上に刻み込んでガラン端末に保存した。 "
+            ]
+          ]
+        },
+        "parent_id": "1bf3b07c-81ff-80a0-8782-e4e10d734c91",
+        "parent_table": "block",
+        "created_time": 1742704833414,
+        "last_edited_time": 1742706293039
+      }
+    },
+    "1bf3b07c-81ff-803e-9b0f-f002cfeb8187": {
+      "value": {
+        "id": "1bf3b07c-81ff-803e-9b0f-f002cfeb8187",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "現実世界と魂の世界の繋がりに基づき、記憶の継承、世界の修正、聖痕能力の3つの機能がある。"
+            ]
+          ]
+        },
+        "content": [
+          "1bf3b07c-81ff-8031-b10c-ca059fd5cc46",
+          "1bf3b07c-81ff-8012-9b28-f1723050cb90",
+          "1bf3b07c-81ff-8073-b6ec-f036f1e5c185"
+        ],
+        "parent_id": "1bf3b07c-81ff-80a0-8782-e4e10d734c91",
+        "parent_table": "block",
+        "created_time": 1742706217452,
+        "last_edited_time": 1742706805177
+      }
+    },
+    "1bf3b07c-81ff-8077-b64b-d778d7e10dd4": {
+      "value": {
+        "id": "1bf3b07c-81ff-8077-b64b-d778d7e10dd4",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "聖痕を保有した個体がそれを開放すると、体内の一部の組織構成が向上し、さらに高い崩壊適応性を得られる。"
+            ]
+          ]
+        },
+        "parent_id": "1bf3b07c-81ff-80a0-8782-e4e10d734c91",
+        "parent_table": "block",
+        "created_time": 1742704693170,
+        "last_edited_time": 1742705891866
+      }
+    },
+    "1bf3b07c-81ff-8004-8eb1-f97f38f7f0b6": {
+      "value": {
+        "id": "1bf3b07c-81ff-8004-8eb1-f97f38f7f0b6",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "記憶情報を保存する媒体の聖痕空間も存在する。"
+            ]
+          ]
+        },
+        "parent_id": "1bf3b07c-81ff-80a0-8782-e4e10d734c91",
+        "parent_table": "block",
+        "created_time": 1742705098067,
+        "last_edited_time": 1742705891866
+      }
+    },
+    "1bf3b07c-81ff-8024-8d4b-e7aecb36e4a5": {
+      "value": {
+        "id": "1bf3b07c-81ff-8024-8d4b-e7aecb36e4a5",
+        "type": "text",
+        "parent_id": "1bf3b07c-81ff-80a0-8782-e4e10d734c91",
+        "parent_table": "block",
+        "created_time": 1742705407117,
+        "last_edited_time": 1742705891866
+      }
+    },
+    "1bf3b07c-81ff-8031-b10c-ca059fd5cc46": {
+      "value": {
+        "id": "1bf3b07c-81ff-8031-b10c-ca059fd5cc46",
+        "type": "bulleted_list",
+        "properties": {
+          "title": [
+            [
+              "死者の魂とのつながりを深めることで、"
+            ],
+            [
+              "記憶の継承",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "をもたらす。"
+            ]
+          ]
+        },
+        "parent_id": "1bf3b07c-81ff-803e-9b0f-f002cfeb8187",
+        "parent_table": "block",
+        "created_time": 1742705449298,
+        "last_edited_time": 1742706802257
+      }
+    },
+    "1bf3b07c-81ff-8012-9b28-f1723050cb90": {
+      "value": {
+        "id": "1bf3b07c-81ff-8012-9b28-f1723050cb90",
+        "type": "bulleted_list",
+        "properties": {
+          "title": [
+            [
+              "自分で祈りを捧げ、自分の魂が返答し、崩壊エネルギーによる「置換」を成し遂げることで"
+            ],
+            [
+              "聖痕能力",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "をもたらす。置換の方向性の違いにより様々な能力が存在する。"
+            ]
+          ]
+        },
+        "parent_id": "1bf3b07c-81ff-803e-9b0f-f002cfeb8187",
+        "parent_table": "block",
+        "created_time": 1742706802253,
+        "last_edited_time": 1742706805177
+      }
+    },
+    "1bf3b07c-81ff-8073-b6ec-f036f1e5c185": {
+      "value": {
+        "id": "1bf3b07c-81ff-8073-b6ec-f036f1e5c185",
+        "type": "bulleted_list",
+        "properties": {
+          "title": [
+            [
+              "無数の死者の魂に導かれた、大規模な物質の置換。それが"
+            ],
+            [
+              "世界の修正",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "。（文明の修復）"
+            ]
+          ]
+        },
+        "parent_id": "1bf3b07c-81ff-803e-9b0f-f002cfeb8187",
+        "parent_table": "block",
+        "created_time": 1742706805173,
+        "last_edited_time": 1742706880197
+      }
+    },
+    "1b63b07c-81ff-8008-a9d3-d08565a44f74": {
+      "value": {
+        "id": "1b63b07c-81ff-8008-a9d3-d08565a44f74",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-shihai"
+            ]
+          ],
+          "title": [
+            [
+              "「支配」の聖痕"
+            ]
+          ]
+        },
+        "format": {
+          "social_media_image_preview_url": "attachment:217effc1-2f14-43b9-8868-1c8ebaa14cd3:SocialMediaPreviewImage.png"
+        },
+        "content": [
+          "1b93b07c-81ff-8010-bdeb-f9aeb9db6237",
+          "1b73b07c-81ff-8030-a814-c571fc093827",
+          "1b73b07c-81ff-80ce-a2e1-c5e0921079bc",
+          "1b73b07c-81ff-807a-8cc7-f20cb37b5a37",
+          "27c3b07c-81ff-8093-bd2f-d4c82b5b054f",
+          "27c3b07c-81ff-803b-a2f5-e3ec500adcc9",
+          "1b73b07c-81ff-8014-8b98-ff4951bf74de",
+          "24a3b07c-81ff-80f6-b747-c3d66eb3af6d",
+          "1b73b07c-81ff-80b2-829d-cbd0119f285b",
+          "1b73b07c-81ff-803d-bb31-e254e41d1261"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1741987370400,
+        "last_edited_time": 1773075073561
+      }
+    },
+    "1b63b07c-81ff-807a-8d0f-fbe759b563fe": {
+      "value": {
+        "id": "1b63b07c-81ff-807a-8d0f-fbe759b563fe",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-mugen"
+            ]
+          ],
+          "title": [
+            [
+              "「無限」の聖痕"
+            ]
+          ]
+        },
+        "content": [
+          "1b93b07c-81ff-80e8-8925-fba3bf2675b2",
+          "2973b07c-81ff-8003-8360-fddbbb32bbba",
+          "1b63b07c-81ff-8047-ab0e-d819d67bfd5e",
+          "1b63b07c-81ff-8089-9415-f9c821e91d6d",
+          "1b63b07c-81ff-80bd-ae13-d6c334a99c8d",
+          "1b63b07c-81ff-80b8-9259-f4046e5c3b9d"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1741979419523,
+        "last_edited_time": 1773075063251
+      }
+    },
+    "1b63b07c-81ff-808c-9a4a-d766a16f533c": {
+      "value": {
+        "id": "1b63b07c-81ff-808c-9a4a-d766a16f533c",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-kokoro"
+            ]
+          ],
+          "title": [
+            [
+              "「心」の聖痕"
+            ]
+          ]
+        },
+        "content": [
+          "1b93b07c-81ff-8072-8e3f-c565fef99bd0",
+          "1b93b07c-81ff-8049-a5a1-d6dd303abb22",
+          "1b63b07c-81ff-80ac-86cf-cfba929132c2",
+          "1b63b07c-81ff-8087-b078-d3c3483c10e2",
+          "1b63b07c-81ff-80cc-b964-d8975e102993",
+          "1b63b07c-81ff-8092-b091-d3a6139d9cc9",
+          "1b63b07c-81ff-806f-af63-fe349fa90279",
+          "1b63b07c-81ff-80e3-a2ae-f76999035012",
+          "1b63b07c-81ff-80b0-aa1a-dc0bb9df358f",
+          "1b63b07c-81ff-80d9-be1e-e0026492b20a"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1741983228833,
+        "last_edited_time": 1773075071129
+      }
+    },
+    "1b73b07c-81ff-809c-aa20-c878af26209d": {
+      "value": {
+        "id": "1b73b07c-81ff-809c-aa20-c878af26209d",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-rie"
+            ]
+          ],
+          "title": [
+            [
+              "「」の聖痕"
+            ]
+          ]
+        },
+        "format": {
+          "social_media_image_preview_url": "attachment:5a0058a8-b1c5-4bb1-bc06-628e2bb03227:SocialMediaPreviewImage.png"
+        },
+        "content": [
+          "1b93b07c-81ff-8041-8772-df861f709279",
+          "1b83b07c-81ff-800f-a07d-d1c806469b9f",
+          "1b83b07c-81ff-80f4-b5a3-ee2837d98887",
+          "1b83b07c-81ff-80b0-b586-d6152aa15c6f",
+          "1b83b07c-81ff-8049-a201-d6f4676861e7"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1742048877224,
+        "last_edited_time": 1773075120097
+      }
+    },
+    "1b73b07c-81ff-80c0-8697-c7d53a0ccf85": {
+      "value": {
+        "id": "1b73b07c-81ff-80c0-8697-c7d53a0ccf85",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-bunseki"
+            ]
+          ],
+          "title": [
+            [
+              "「二重血統」の聖痕"
+            ]
+          ]
+        },
+        "format": {
+          "social_media_image_preview_url": "attachment:3dfbf122-6971-4560-af24-067085c152ae:SocialMediaPreviewImage.png"
+        },
+        "content": [
+          "1b93b07c-81ff-80d8-8859-c2dfe4a233d9",
+          "2b13b07c-81ff-8064-b339-cbb728af912b",
+          "1b73b07c-81ff-8035-82a9-cc7680a694c4",
+          "1b93b07c-81ff-80cd-a24d-ec540faadaae",
+          "1b93b07c-81ff-809d-9212-c99dc73c481a",
+          "1b93b07c-81ff-8006-b6a2-ee6e99a5c1e2",
+          "1b73b07c-81ff-8098-99e6-ec4f00aab71c"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1742048879418,
+        "last_edited_time": 1773075077784
+      }
+    },
+    "1b93b07c-81ff-800b-8a73-e24ecb09af85": {
+      "value": {
+        "id": "1b93b07c-81ff-800b-8a73-e24ecb09af85",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-hikari"
+            ]
+          ],
+          "title": [
+            [
+              "「光」の聖痕"
+            ]
+          ]
+        },
+        "content": [
+          "1c13b07c-81ff-80a9-906d-f63d1cf5187c",
+          "1b93b07c-81ff-8034-847b-cef6584c5c56",
+          "1b93b07c-81ff-807c-a24b-c136ef3a94ce",
+          "1b93b07c-81ff-8015-9676-e98315914f13",
+          "1b93b07c-81ff-8028-9bc6-c7df6c427368",
+          "1b93b07c-81ff-8085-91a0-ea92430f3ea4",
+          "1b93b07c-81ff-80ed-8e71-ee3e22656b99",
+          "1b93b07c-81ff-80fa-b2d5-ff8f82182095",
+          "27f3b07c-81ff-80f8-a97b-d5e073f2ae10"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1742227200345,
+        "last_edited_time": 1773075082322
+      }
+    },
+    "1b93b07c-81ff-8019-9d0c-c9f2e837479b": {
+      "value": {
+        "id": "1b93b07c-81ff-8019-9d0c-c9f2e837479b",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-metal"
+            ]
+          ],
+          "title": [
+            [
+              "「金属」の聖痕"
+            ]
+          ]
+        },
+        "content": [
+          "1b93b07c-81ff-8065-b73a-e9366e56fad4",
+          "1b93b07c-81ff-8013-b3e9-d6726a1ef399",
+          "1b93b07c-81ff-80cd-b8d9-d9e71d196795"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1742243902157,
+        "last_edited_time": 1773075188936
+      }
+    },
+    "1b93b07c-81ff-801c-adc8-ce9b99a5c988": {
+      "value": {
+        "id": "1b93b07c-81ff-801c-adc8-ce9b99a5c988",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-wind"
+            ]
+          ],
+          "title": [
+            [
+              "「風」の聖痕"
+            ]
+          ]
+        },
+        "content": [
+          "1b93b07c-81ff-80ad-b636-c1ebb085bbf3",
+          "1b93b07c-81ff-809d-95af-fb4bd7ad073e",
+          "1b93b07c-81ff-80be-abb4-d2821e64c9d7"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1742230964818,
+        "last_edited_time": 1773075167048
+      }
+    },
+    "1b93b07c-81ff-803c-88b2-c42f896a2f68": {
+      "value": {
+        "id": "1b93b07c-81ff-803c-88b2-c42f896a2f68",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-rock"
+            ]
+          ],
+          "title": [
+            [
+              "「岩」の聖痕"
+            ]
+          ]
+        },
+        "content": [
+          "1b93b07c-81ff-80e2-8b06-f9ce9645079c",
+          "1b93b07c-81ff-808f-9af4-ee6a4fb7df8e",
+          "1b93b07c-81ff-8078-95dd-e5b9a32741de"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1742245677384,
+        "last_edited_time": 1773075199464
+      }
+    },
+    "1b93b07c-81ff-805d-92c5-c9ea7dcf38b5": {
+      "value": {
+        "id": "1b93b07c-81ff-805d-92c5-c9ea7dcf38b5",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-shizuki"
+            ]
+          ],
+          "title": [
+            [
+              "「」の聖痕"
+            ]
+          ]
+        },
+        "content": [
+          "1b93b07c-81ff-80d6-b786-f823e8cfeefa",
+          "2b13b07c-81ff-80a4-a023-f98219dc79ad",
+          "2b13b07c-81ff-80e0-a397-f1a2a3cc5396",
+          "2b13b07c-81ff-8028-a2e2-e3c72f8d4e61",
+          "1b93b07c-81ff-802d-a274-ffc8526336c1",
+          "1b93b07c-81ff-80fe-827f-df099e307dd0",
+          "2b13b07c-81ff-80d1-9a73-c30055b57c79",
+          "2b13b07c-81ff-8006-8b0c-edc06e1fcbaa"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1742229029272,
+        "last_edited_time": 1773075102832
+      }
+    },
+    "1b93b07c-81ff-8098-a4c6-d176e2d9d32d": {
+      "value": {
+        "id": "1b93b07c-81ff-8098-a4c6-d176e2d9d32d",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-saseitoumei"
+            ]
+          ],
+          "title": [
+            [
+              "「欺世盗名」の聖痕"
+            ]
+          ]
+        },
+        "content": [
+          "1b93b07c-81ff-8099-b767-ff13ca4262cb",
+          "1b93b07c-81ff-807c-8327-f2b37612610c",
+          "1b93b07c-81ff-8040-a305-c04dbd6b868e",
+          "1b93b07c-81ff-8039-9fac-cfdf5ac3ca24",
+          "1b93b07c-81ff-80a2-9231-d9fac90b6c03",
+          "1b93b07c-81ff-80d0-a06f-ca6aa53a2f89",
+          "1b93b07c-81ff-806c-bef4-fb1063c92d16"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1742246869969,
+        "last_edited_time": 1773075080616
+      }
+    },
+    "1b93b07c-81ff-80e0-8028-e4e8aa7c06dc": {
+      "value": {
+        "id": "1b93b07c-81ff-80e0-8028-e4e8aa7c06dc",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-wan"
+            ]
+          ],
+          "title": [
+            [
+              "「」の聖痕"
+            ]
+          ]
+        },
+        "content": [
+          "1b93b07c-81ff-80fa-b939-fa3e9f027b52",
+          "1b93b07c-81ff-8065-9cc5-d20a11e0653c"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1742229643375,
+        "last_edited_time": 1773075116055
+      }
+    },
+    "1b93b07c-81ff-80e4-8269-d677005c4cd0": {
+      "value": {
+        "id": "1b93b07c-81ff-80e4-8269-d677005c4cd0",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-fire"
+            ]
+          ],
+          "title": [
+            [
+              "「火焔」の聖痕"
+            ]
+          ]
+        },
+        "content": [
+          "1bf3b07c-81ff-8028-95a7-c66112fbd9a6",
+          "1b93b07c-81ff-8077-a6a2-cb51de6806c5",
+          "1bc3b07c-81ff-80ff-9c0c-fb1a83e590e1",
+          "1bc3b07c-81ff-8046-ab95-ff564c4abb05",
+          "1bf3b07c-81ff-802f-9636-d3a5aacb6069"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1742249715172,
+        "last_edited_time": 1773075201721
+      }
+    },
+    "1bc3b07c-81ff-80c2-b124-dfe366d619d4": {
+      "value": {
+        "id": "1bc3b07c-81ff-80c2-b124-dfe366d619d4",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-ice"
+            ]
+          ],
+          "title": [
+            [
+              "「氷」の聖痕"
+            ]
+          ]
+        },
+        "content": [
+          "1bc3b07c-81ff-807b-9175-f940f4f863ec"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1742474301341,
+        "last_edited_time": 1773075204273
+      }
+    },
+    "1be3b07c-81ff-8037-bd69-c95879a1ddac": {
+      "value": {
+        "id": "1be3b07c-81ff-8037-bd69-c95879a1ddac",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-water"
+            ]
+          ],
+          "title": [
+            [
+              "「水」の聖痕"
+            ]
+          ]
+        },
+        "content": [
+          "1be3b07c-81ff-809d-9b73-e72557e92195"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1742683018064,
+        "last_edited_time": 1773075215458
+      }
+    },
+    "1be3b07c-81ff-803d-ad92-ffa1906c5b70": {
+      "value": {
+        "id": "1be3b07c-81ff-803d-ad92-ffa1906c5b70",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-juusou"
+            ]
+          ],
+          "title": [
+            [
+              "「重装」の聖痕"
+            ]
+          ]
+        },
+        "content": [
+          "1bf3b07c-81ff-8018-b6cf-c9a7a365cdcb",
+          "1be3b07c-81ff-8018-84f9-ccdb0c2c54f5",
+          "1be3b07c-81ff-805c-97a9-c7ace74c4c12",
+          "1bf3b07c-81ff-80b5-abfb-c4022f934f3c",
+          "1bf3b07c-81ff-8085-b42d-e3c9291b68ab"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1742682880922,
+        "last_edited_time": 1773075212705
+      }
+    },
+    "1be3b07c-81ff-8069-b19e-cdfab6910dfb": {
+      "value": {
+        "id": "1be3b07c-81ff-8069-b19e-cdfab6910dfb",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-blood"
+            ]
+          ],
+          "title": [
+            [
+              "「血」の聖痕"
+            ]
+          ]
+        },
+        "content": [
+          "1be3b07c-81ff-8021-b004-f53d9205da7b",
+          "1be3b07c-81ff-80b7-97b7-f52228eb20f2",
+          "1be3b07c-81ff-803b-b2d4-c718d47b7000",
+          "1be3b07c-81ff-802b-9cf1-ec4a500d4326"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1742652740575,
+        "last_edited_time": 1773075218354
+      }
+    },
+    "1be3b07c-81ff-806c-b8f5-d71339d48092": {
+      "value": {
+        "id": "1be3b07c-81ff-806c-b8f5-d71339d48092",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-lightning"
+            ]
+          ],
+          "title": [
+            [
+              "「雷」の聖痕"
+            ]
+          ]
+        },
+        "content": [
+          "1be3b07c-81ff-8076-8875-f6fc2613b26c",
+          "1be3b07c-81ff-80bb-902d-da02e366d803"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1742654058561,
+        "last_edited_time": 1773075208076
+      }
+    },
+    "1bf3b07c-81ff-80bc-b81d-e21153f6f3c8": {
+      "value": {
+        "id": "1bf3b07c-81ff-80bc-b81d-e21153f6f3c8",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-estoria"
+            ]
+          ],
+          "title": [
+            [
+              "「」の聖痕"
+            ]
+          ]
+        },
+        "content": [
+          "1bf3b07c-81ff-8076-b94f-e0c74d6ca888",
+          "1bf3b07c-81ff-8074-83a3-fde2f682229c"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1742692790662,
+        "last_edited_time": 1773075128841
+      }
+    },
+    "1bf3b07c-81ff-80e1-bb8e-f84d14b6d57a": {
+      "value": {
+        "id": "1bf3b07c-81ff-80e1-bb8e-f84d14b6d57a",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-atmosphere"
+            ]
+          ],
+          "title": [
+            [
+              "「大気」の聖痕"
+            ]
+          ]
+        },
+        "content": [
+          "1c13b07c-81ff-80c5-8bd5-df0f72430367",
+          "27c3b07c-81ff-802e-a754-fa52ff33d927"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1742704658711,
+        "last_edited_time": 1773075185802
+      }
+    },
+    "27c3b07c-81ff-80c3-88c8-fe25dbe2a704": {
+      "value": {
+        "id": "27c3b07c-81ff-80c3-88c8-fe25dbe2a704",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-ankokuten"
+            ]
+          ],
+          "title": [
+            [
+              "「暗黒天」の聖痕"
+            ]
+          ]
+        },
+        "format": {
+          "social_media_image_preview_url": "attachment:30783b93-3977-402f-871c-0a7cdab74a37:SocialMediaPreviewImage.png"
+        },
+        "content": [
+          "27c3b07c-81ff-80cc-9c93-ffc0246618bb",
+          "2b13b07c-81ff-80d6-8b3f-e4d4be237876",
+          "2b13b07c-81ff-802b-8680-dfc3f1ae2956",
+          "2b13b07c-81ff-80e0-948c-e8b9e3b405f1",
+          "2b13b07c-81ff-80a0-a179-e19e7bc03546"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1759057554584,
+        "last_edited_time": 1773075084945
+      }
+    },
+    "27c3b07c-81ff-80d4-9d4c-c04ac355e061": {
+      "value": {
+        "id": "27c3b07c-81ff-80d4-9d4c-c04ac355e061",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-shuhisha"
+            ]
+          ],
+          "title": [
+            [
+              "「守密者」の聖痕"
+            ]
+          ]
+        },
+        "content": [
+          "27c3b07c-81ff-80f9-a98e-dc83bb087279",
+          "27c3b07c-81ff-80ce-b080-cbee6301161b"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1759056288820,
+        "last_edited_time": 1773075090338
+      }
+    },
+    "2b13b07c-81ff-804e-84e5-d7b628c42ebf": {
+      "value": {
+        "id": "2b13b07c-81ff-804e-84e5-d7b628c42ebf",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-sisha-sanpo"
+            ]
+          ],
+          "title": [
+            [
+              "「死者の散歩」の聖痕"
+            ]
+          ]
+        },
+        "format": {
+          "social_media_image_preview_url": "attachment:96db0f92-db0b-4e5d-acf0-e9c2386eb3b3:SocialMediaPreviewImage.png"
+        },
+        "content": [
+          "2b13b07c-81ff-808c-9bcb-fefdd94880ad",
+          "2e53b07c-81ff-80f1-83bd-daddb85ba332",
+          "2b13b07c-81ff-80b7-ae18-e0105ed7335a",
+          "2b13b07c-81ff-80ba-a351-d62f266020a7"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1763604477926,
+        "last_edited_time": 1773075136473
+      }
+    },
+    "2b13b07c-81ff-8071-91e8-f886a7054bd2": {
+      "value": {
+        "id": "2b13b07c-81ff-8071-91e8-f886a7054bd2",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-shielka"
+            ]
+          ],
+          "title": [
+            [
+              "「」の聖痕"
+            ]
+          ]
+        },
+        "format": {
+          "social_media_image_preview_url": "attachment:aac5f466-6290-4e53-9311-0daa1d2c072f:SocialMediaPreviewImage.png"
+        },
+        "content": [
+          "2b13b07c-81ff-8092-ace0-f8c6d65d2804",
+          "2b13b07c-81ff-807f-af79-f07b03ccb6ed"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1763610059717,
+        "last_edited_time": 1773075144403
+      }
+    },
+    "2e53b07c-81ff-808b-b272-e1ed4d58a60e": {
+      "value": {
+        "id": "2e53b07c-81ff-808b-b272-e1ed4d58a60e",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-coderia"
+            ]
+          ],
+          "title": [
+            [
+              "「」の聖痕"
+            ]
+          ]
+        },
+        "format": {
+          "social_media_image_preview_url": "attachment:fde8e88b-4d3d-4bd3-9601-059b43e09ab7:SocialMediaPreviewImage.png"
+        },
+        "content": [
+          "2e53b07c-81ff-80df-a54f-f44fa01ed837",
+          "2e53b07c-81ff-800d-b632-c2c876dfdfc3"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1768120154252,
+        "last_edited_time": 1773075150143
+      }
+    },
+    "30c3b07c-81ff-8094-81e3-ec52566bde7c": {
+      "value": {
+        "id": "30c3b07c-81ff-8094-81e3-ec52566bde7c",
+        "type": "page",
+        "properties": {
+          "TZGc": [
+            [
+              "stigmata-hichu-ya"
+            ]
+          ],
+          "title": [
+            [
+              "「必中の矢」の聖痕"
+            ]
+          ]
+        },
+        "format": {
+          "social_media_image_preview_url": "attachment:a7962958-518c-4fb7-b64a-5fc345d8d730:SocialMediaPreviewImage.png"
+        },
+        "content": [
+          "30c3b07c-81ff-8062-bce5-df519b24a1df",
+          "30c3b07c-81ff-80ba-8a2e-ce5bde0451dd",
+          "30c3b07c-81ff-804b-96c4-ef591a76097c",
+          "3143b07c-81ff-8088-b374-e7cddd72cb68"
+        ],
+        "parent_id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "parent_table": "collection",
+        "created_time": 1771486128535,
+        "last_edited_time": 1773075161428
+      }
+    },
+    "1b93b07c-81ff-80e8-8925-fba3bf2675b2": {
+      "value": {
+        "id": "1b93b07c-81ff-80e8-8925-fba3bf2675b2",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "所有者："
+            ],
+            [
+              "カリン・メリデ",
+              [
+                [
+                  "a",
+                  "/1b63b07c81ff809a86e7c628716ebd94?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-807a-8d0f-fbe759b563fe",
+        "parent_table": "block",
+        "created_time": 1742227695837,
+        "last_edited_time": 1742227705202
+      }
+    },
+    "2973b07c-81ff-8003-8360-fddbbb32bbba": {
+      "value": {
+        "id": "2973b07c-81ff-8003-8360-fddbbb32bbba",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "識別名不明。"
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-807a-8d0f-fbe759b563fe",
+        "parent_table": "block",
+        "created_time": 1761380436688,
+        "last_edited_time": 1761380442711
+      }
+    },
+    "1b63b07c-81ff-8047-ab0e-d819d67bfd5e": {
+      "value": {
+        "id": "1b63b07c-81ff-8047-ab0e-d819d67bfd5e",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "崩壊宇宙に物質を投入しなくても崩壊エネルギーを得ることができる。（おそらく無限）"
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-807a-8d0f-fbe759b563fe",
+        "parent_table": "block",
+        "created_time": 1741980748647,
+        "last_edited_time": 1741980921443
+      }
+    },
+    "1b63b07c-81ff-8089-9415-f9c821e91d6d": {
+      "value": {
+        "id": "1b63b07c-81ff-8089-9415-f9c821e91d6d",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "幻想大剣：純粋な崩壊エネルギーで構成された大剣を生み出す。脆弱で危険で、資源の無駄遣いそのもの。"
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-807a-8d0f-fbe759b563fe",
+        "parent_table": "block",
+        "created_time": 1741980736512,
+        "last_edited_time": 1741980784616
+      }
+    },
+    "1b63b07c-81ff-80bd-ae13-d6c334a99c8d": {
+      "value": {
+        "id": "1b63b07c-81ff-80bd-ae13-d6c334a99c8d",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "幻想地雷：圧縮されて不安定な崩壊エネルギー結晶を作り出し、遠隔で爆発させる"
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-807a-8d0f-fbe759b563fe",
+        "parent_table": "block",
+        "created_time": 1741980702707,
+        "last_edited_time": 1741980731233
+      }
+    },
+    "1b63b07c-81ff-80b8-9259-f4046e5c3b9d": {
+      "value": {
+        "id": "1b63b07c-81ff-80b8-9259-f4046e5c3b9d",
+        "type": "text",
+        "parent_id": "1b63b07c-81ff-807a-8d0f-fbe759b563fe",
+        "parent_table": "block",
+        "created_time": 1741980922022,
+        "last_edited_time": 1741980922024
+      }
+    },
+    "1b93b07c-81ff-8072-8e3f-c565fef99bd0": {
+      "value": {
+        "id": "1b93b07c-81ff-8072-8e3f-c565fef99bd0",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "所有者："
+            ],
+            [
+              "アクリア・ホロプト",
+              [
+                [
+                  "a",
+                  "/1b63b07c81ff801ba186e4d06de3b436?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-808c-9a4a-d766a16f533c",
+        "parent_table": "block",
+        "created_time": 1742227680759,
+        "last_edited_time": 1742227686314
+      }
+    },
+    "1b93b07c-81ff-8049-a5a1-d6dd303abb22": {
+      "value": {
+        "id": "1b93b07c-81ff-8049-a5a1-d6dd303abb22",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "識別名不明。"
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-808c-9a4a-d766a16f533c",
+        "parent_table": "block",
+        "created_time": 1742227680445,
+        "last_edited_time": 1761380450566
+      }
+    },
+    "1b63b07c-81ff-80ac-86cf-cfba929132c2": {
+      "value": {
+        "id": "1b63b07c-81ff-80ac-86cf-cfba929132c2",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "遠隔で精神を同期し、心の中に直接話しかけられる。"
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-808c-9a4a-d766a16f533c",
+        "parent_table": "block",
+        "created_time": 1741983649145,
+        "last_edited_time": 1741983653279
+      }
+    },
+    "1b63b07c-81ff-8087-b078-d3c3483c10e2": {
+      "value": {
+        "id": "1b63b07c-81ff-8087-b078-d3c3483c10e2",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "心に話しかける時の強弱と、声の大小に相関性はない。"
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-808c-9a4a-d766a16f533c",
+        "parent_table": "block",
+        "created_time": 1741983470989,
+        "last_edited_time": 1741983472958
+      }
+    },
+    "1b63b07c-81ff-80cc-b964-d8975e102993": {
+      "value": {
+        "id": "1b63b07c-81ff-80cc-b964-d8975e102993",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "通信できる距離には限界があるよう。"
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-808c-9a4a-d766a16f533c",
+        "parent_table": "block",
+        "created_time": 1741983530832,
+        "last_edited_time": 1741983540513
+      }
+    },
+    "1b63b07c-81ff-8092-b091-d3a6139d9cc9": {
+      "value": {
+        "id": "1b63b07c-81ff-8092-b091-d3a6139d9cc9",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "使い道として考えられるのは、聖痕の力で人々を繋ぎ、指揮系統を構築すること。"
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-808c-9a4a-d766a16f533c",
+        "parent_table": "block",
+        "created_time": 1741983677401,
+        "last_edited_time": 1741983680083
+      }
+    },
+    "1b63b07c-81ff-806f-af63-fe349fa90279": {
+      "value": {
+        "id": "1b63b07c-81ff-806f-af63-fe349fa90279",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "死域",
+              [
+                [
+                  "a",
+                  "/1bf3b07c81ff80b28c15f4469df560ae?pvs=25"
+                ]
+              ]
+            ],
+            [
+              "の前線の指揮官としてなら役に立つ。"
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-808c-9a4a-d766a16f533c",
+        "parent_table": "block",
+        "created_time": 1741983680080,
+        "last_edited_time": 1742901951591
+      }
+    },
+    "1b63b07c-81ff-80e3-a2ae-f76999035012": {
+      "value": {
+        "id": "1b63b07c-81ff-80e3-a2ae-f76999035012",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "動物や昆虫に対しても使うことが可能（ゴキブリに対して尋問しようとしていた）。"
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-808c-9a4a-d766a16f533c",
+        "parent_table": "block",
+        "created_time": 1741984039829,
+        "last_edited_time": 1741987291660
+      }
+    },
+    "1b93b07c-81ff-8010-bdeb-f9aeb9db6237": {
+      "value": {
+        "id": "1b93b07c-81ff-8010-bdeb-f9aeb9db6237",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "所有者："
+            ],
+            [
+              "ティアラ・スタールーモス",
+              [
+                [
+                  "a",
+                  "/1b73b07c81ff80b792f5f79d8854cef0?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-8008-a9d3-d08565a44f74",
+        "parent_table": "block",
+        "created_time": 1742227661654,
+        "last_edited_time": 1742227668851
+      }
+    },
+    "1b73b07c-81ff-8030-a814-c571fc093827": {
+      "value": {
+        "id": "1b73b07c-81ff-8030-a814-c571fc093827",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "識別名不明。"
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-8008-a9d3-d08565a44f74",
+        "parent_table": "block",
+        "created_time": 1742049373113,
+        "last_edited_time": 1761380455623
+      }
+    },
+    "1b73b07c-81ff-80ce-a2e1-c5e0921079bc": {
+      "value": {
+        "id": "1b73b07c-81ff-80ce-a2e1-c5e0921079bc",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "自分よりも強くない人が相手なら、体に触れるだけで命令し操ることができる。"
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-8008-a9d3-d08565a44f74",
+        "parent_table": "block",
+        "created_time": 1742048888898,
+        "last_edited_time": 1742048916527
+      }
+    },
+    "1b73b07c-81ff-807a-8cc7-f20cb37b5a37": {
+      "value": {
+        "id": "1b73b07c-81ff-807a-8cc7-f20cb37b5a37",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "機械や死者にも命令可能。"
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-8008-a9d3-d08565a44f74",
+        "parent_table": "block",
+        "created_time": 1742048934473,
+        "last_edited_time": 1755954555592
+      }
+    },
+    "27c3b07c-81ff-8093-bd2f-d4c82b5b054f": {
+      "value": {
+        "id": "27c3b07c-81ff-8093-bd2f-d4c82b5b054f",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "遠隔で命令が可能。"
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-8008-a9d3-d08565a44f74",
+        "parent_table": "block",
+        "created_time": 1759053412417,
+        "last_edited_time": 1759053425481
+      }
+    },
+    "27c3b07c-81ff-803b-a2f5-e3ec500adcc9": {
+      "value": {
+        "id": "27c3b07c-81ff-803b-a2f5-e3ec500adcc9",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "対象に気付かれずに操ることも可能。"
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-8008-a9d3-d08565a44f74",
+        "parent_table": "block",
+        "created_time": 1759053434655,
+        "last_edited_time": 1759053454753
+      }
+    },
+    "1b73b07c-81ff-8014-8b98-ff4951bf74de": {
+      "value": {
+        "id": "1b73b07c-81ff-8014-8b98-ff4951bf74de",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "副作用もあり、使い手は相手の気持ち等の一部を強制的に受け入れさせられる。"
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-8008-a9d3-d08565a44f74",
+        "parent_table": "block",
+        "created_time": 1742048934442,
+        "last_edited_time": 1742049443944
+      }
+    },
+    "24a3b07c-81ff-80f6-b747-c3d66eb3af6d": {
+      "value": {
+        "id": "24a3b07c-81ff-80f6-b747-c3d66eb3af6d",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "大人数や、実力の高い人を操るほど副作用が大きくなる。"
+            ]
+          ]
+        },
+        "parent_id": "1b63b07c-81ff-8008-a9d3-d08565a44f74",
+        "parent_table": "block",
+        "created_time": 1754755377719,
+        "last_edited_time": 1754755423950
+      }
+    },
+    "1b93b07c-81ff-80d8-8859-c2dfe4a233d9": {
+      "value": {
+        "id": "1b93b07c-81ff-80d8-8859-c2dfe4a233d9",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "所有者："
+            ],
+            [
+              "ラニアット・ゴルディアス・ド・エウメネス",
+              [
+                [
+                  "a",
+                  "/1b63b07c81ff80238adfd9d3b856b809?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "1b73b07c-81ff-80c0-8697-c7d53a0ccf85",
+        "parent_table": "block",
+        "created_time": 1742227493085,
+        "last_edited_time": 1742227501246
+      }
+    },
+    "2b13b07c-81ff-8064-b339-cbb728af912b": {
+      "value": {
+        "id": "2b13b07c-81ff-8064-b339-cbb728af912b",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "「分析」の聖痕とも言われる？"
+            ]
+          ]
+        },
+        "parent_id": "1b73b07c-81ff-80c0-8697-c7d53a0ccf85",
+        "parent_table": "block",
+        "created_time": 1763601696624,
+        "last_edited_time": 1763601706960
+      }
+    },
+    "1b73b07c-81ff-8035-82a9-cc7680a694c4": {
+      "value": {
+        "id": "1b73b07c-81ff-8035-82a9-cc7680a694c4",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "ゴルディアス家に伝わる聖痕。"
+            ]
+          ]
+        },
+        "parent_id": "1b73b07c-81ff-80c0-8697-c7d53a0ccf85",
+        "parent_table": "block",
+        "created_time": 1742056675715,
+        "last_edited_time": 1763601693940
+      }
+    },
+    "1b93b07c-81ff-80cd-a24d-ec540faadaae": {
+      "value": {
+        "id": "1b93b07c-81ff-80cd-a24d-ec540faadaae",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "標的に対する理解（イメージ、身長、性格、話しぶり、好みなど）が深まれば深まるほど、破壊力を引き出せる。"
+            ]
+          ]
+        },
+        "parent_id": "1b73b07c-81ff-80c0-8697-c7d53a0ccf85",
+        "parent_table": "block",
+        "created_time": 1742227564253,
+        "last_edited_time": 1742227634895
+      }
+    },
+    "1b93b07c-81ff-809d-9212-c99dc73c481a": {
+      "value": {
+        "id": "1b93b07c-81ff-809d-9212-c99dc73c481a",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "推測することでも力を発揮する。"
+            ]
+          ]
+        },
+        "parent_id": "1b73b07c-81ff-80c0-8697-c7d53a0ccf85",
+        "parent_table": "block",
+        "created_time": 1742227573581,
+        "last_edited_time": 1742227578450
+      }
+    },
+    "1b93b07c-81ff-8006-b6a2-ee6e99a5c1e2": {
+      "value": {
+        "id": "1b93b07c-81ff-8006-b6a2-ee6e99a5c1e2",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "もし相手を「完全に理解」することができたら、相手がどれほど強かったとしても、いとも簡単に抹殺することができるという理不尽な聖痕。"
+            ]
+          ]
+        },
+        "parent_id": "1b73b07c-81ff-80c0-8697-c7d53a0ccf85",
+        "parent_table": "block",
+        "created_time": 1742227597894,
+        "last_edited_time": 1742227598068
+      }
+    },
+    "1b73b07c-81ff-8098-99e6-ec4f00aab71c": {
+      "value": {
+        "id": "1b73b07c-81ff-8098-99e6-ec4f00aab71c",
+        "type": "text",
+        "parent_id": "1b73b07c-81ff-80c0-8697-c7d53a0ccf85",
+        "parent_table": "block",
+        "created_time": 1742056698108,
+        "last_edited_time": 1742227640503
+      }
+    },
+    "1b93b07c-81ff-8099-b767-ff13ca4262cb": {
+      "value": {
+        "id": "1b93b07c-81ff-8099-b767-ff13ca4262cb",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "所有者："
+            ],
+            [
+              "ヴァイス",
+              [
+                [
+                  "a",
+                  "/1b93b07c81ff80b19077c8db7853cff6?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-8098-a4c6-d176e2d9d32d",
+        "parent_table": "block",
+        "created_time": 1742246881704,
+        "last_edited_time": 1742246889680
+      }
+    },
+    "1b93b07c-81ff-807c-8327-f2b37612610c": {
+      "value": {
+        "id": "1b93b07c-81ff-807c-8327-f2b37612610c",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "認知遮蔽を作り出せる。人間やあらゆる機械が私を認識することを妨げ、別人として認識させられる。使い方次第で、記憶の一部にも影響を与えられる。"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-8098-a4c6-d176e2d9d32d",
+        "parent_table": "block",
+        "created_time": 1742247141650,
+        "last_edited_time": 1742248409677
+      }
+    },
+    "1b93b07c-81ff-8040-a305-c04dbd6b868e": {
+      "value": {
+        "id": "1b93b07c-81ff-8040-a305-c04dbd6b868e",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "人間に対してだけでなく、射程範囲内のさまざまな電子機器にも効果を発揮する。"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-8098-a4c6-d176e2d9d32d",
+        "parent_table": "block",
+        "created_time": 1742248217481,
+        "last_edited_time": 1742248315556
+      }
+    },
+    "1b93b07c-81ff-8039-9fac-cfdf5ac3ca24": {
+      "value": {
+        "id": "1b93b07c-81ff-8039-9fac-cfdf5ac3ca24",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "その表現形式は消耗度合いの低い方から順に「顔のぼやけ」、「心理学的変化」、「心理学的透明化」、「存在の抹消」などに分類される。"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-8098-a4c6-d176e2d9d32d",
+        "parent_table": "block",
+        "created_time": 1742248276529,
+        "last_edited_time": 1742248320421
+      }
+    },
+    "1b93b07c-81ff-80a2-9231-d9fac90b6c03": {
+      "value": {
+        "id": "1b93b07c-81ff-80a2-9231-d9fac90b6c03",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "他者の脳内における特定の対象に対する認識を消去することもでき、最上級のミーム系聖痕の一つと言える。"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-8098-a4c6-d176e2d9d32d",
+        "parent_table": "block",
+        "created_time": 1742248283168,
+        "last_edited_time": 1742248327347
+      }
+    },
+    "1b93b07c-81ff-80d0-a06f-ca6aa53a2f89": {
+      "value": {
+        "id": "1b93b07c-81ff-80d0-a06f-ca6aa53a2f89",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "認知遮蔽を維持することで、体力と健康に害を及ぼす。"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-8098-a4c6-d176e2d9d32d",
+        "parent_table": "block",
+        "created_time": 1742247176929,
+        "last_edited_time": 1742248305771
+      }
+    },
+    "1b93b07c-81ff-806c-bef4-fb1063c92d16": {
+      "value": {
+        "id": "1b93b07c-81ff-806c-bef4-fb1063c92d16",
+        "type": "text",
+        "parent_id": "1b93b07c-81ff-8098-a4c6-d176e2d9d32d",
+        "parent_table": "block",
+        "created_time": 1742248420940,
+        "last_edited_time": 1742248420941
+      }
+    },
+    "1c13b07c-81ff-80a9-906d-f63d1cf5187c": {
+      "value": {
+        "id": "1c13b07c-81ff-80a9-906d-f63d1cf5187c",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "所有者："
+            ],
+            [
+              "ポポ",
+              [
+                [
+                  "a",
+                  "/1b83b07c81ff803aa2c3f0f0d71feee1?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-800b-8a73-e24ecb09af85",
+        "parent_table": "block",
+        "created_time": 1742902014058,
+        "last_edited_time": 1742902030939
+      }
+    },
+    "1b93b07c-81ff-8034-847b-cef6584c5c56": {
+      "value": {
+        "id": "1b93b07c-81ff-8034-847b-cef6584c5c56",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "光を操る能力。"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-800b-8a73-e24ecb09af85",
+        "parent_table": "block",
+        "created_time": 1742227302495,
+        "last_edited_time": 1742227303817
+      }
+    },
+    "1b93b07c-81ff-807c-a24b-c136ef3a94ce": {
+      "value": {
+        "id": "1b93b07c-81ff-807c-a24b-c136ef3a94ce",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "「自分が隠れるのは日の帳」"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-800b-8a73-e24ecb09af85",
+        "parent_table": "block",
+        "created_time": 1742227210749,
+        "last_edited_time": 1742227309858
+      }
+    },
+    "1b93b07c-81ff-8015-9676-e98315914f13": {
+      "value": {
+        "id": "1b93b07c-81ff-8015-9676-e98315914f13",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "「仲間が隠れるのは光の帳」"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-800b-8a73-e24ecb09af85",
+        "parent_table": "block",
+        "created_time": 1742227309853,
+        "last_edited_time": 1742227324842
+      }
+    },
+    "1b93b07c-81ff-8028-9bc6-c7df6c427368": {
+      "value": {
+        "id": "1b93b07c-81ff-8028-9bc6-c7df6c427368",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "「障害物を隠すのは幻の帳」"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-800b-8a73-e24ecb09af85",
+        "parent_table": "block",
+        "created_time": 1742227324837,
+        "last_edited_time": 1742227324842
+      }
+    },
+    "1b93b07c-81ff-8085-91a0-ea92430f3ea4": {
+      "value": {
+        "id": "1b93b07c-81ff-8085-91a0-ea92430f3ea4",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "「範囲内から光を奪うのは天の帳」"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-800b-8a73-e24ecb09af85",
+        "parent_table": "block",
+        "created_time": 1742227316869,
+        "last_edited_time": 1742227316872
+      }
+    },
+    "1b93b07c-81ff-80ed-8e71-ee3e22656b99": {
+      "value": {
+        "id": "1b93b07c-81ff-80ed-8e71-ee3e22656b99",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "「敵を隠すのは夜の帳」"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-800b-8a73-e24ecb09af85",
+        "parent_table": "block",
+        "created_time": 1742227313927,
+        "last_edited_time": 1742227315735
+      }
+    },
+    "1b93b07c-81ff-80fa-b2d5-ff8f82182095": {
+      "value": {
+        "id": "1b93b07c-81ff-80fa-b2d5-ff8f82182095",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "暗視、補助照射、赤外線でさえ役に立たなくなる。"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-800b-8a73-e24ecb09af85",
+        "parent_table": "block",
+        "created_time": 1742227212277,
+        "last_edited_time": 1759325003133
+      }
+    },
+    "27c3b07c-81ff-80cc-9c93-ffc0246618bb": {
+      "value": {
+        "id": "27c3b07c-81ff-80cc-9c93-ffc0246618bb",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "所有者："
+            ],
+            [
+              "モーリオ",
+              [
+                [
+                  "a",
+                  "/27c3b07c81ff80a1abe0fbb8e2e929de?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "27c3b07c-81ff-80c3-88c8-fe25dbe2a704",
+        "parent_table": "block",
+        "created_time": 1759057564797,
+        "last_edited_time": 1759057577256
+      }
+    },
+    "2b13b07c-81ff-80d6-8b3f-e4d4be237876": {
+      "value": {
+        "id": "2b13b07c-81ff-80d6-8b3f-e4d4be237876",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "影を実体化させて操り、移動することもできる。"
+            ]
+          ]
+        },
+        "parent_id": "27c3b07c-81ff-80c3-88c8-fe25dbe2a704",
+        "parent_table": "block",
+        "created_time": 1763604181257,
+        "last_edited_time": 1763604191823
+      }
+    },
+    "2b13b07c-81ff-802b-8680-dfc3f1ae2956": {
+      "value": {
+        "id": "2b13b07c-81ff-802b-8680-dfc3f1ae2956",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "自分の体重を超えない範囲なら影の中に一緒に溶け込ませることができる。"
+            ]
+          ]
+        },
+        "parent_id": "27c3b07c-81ff-80c3-88c8-fe25dbe2a704",
+        "parent_table": "block",
+        "created_time": 1763604191819,
+        "last_edited_time": 1763604191823
+      }
+    },
+    "2b13b07c-81ff-80e0-948c-e8b9e3b405f1": {
+      "value": {
+        "id": "2b13b07c-81ff-80e0-948c-e8b9e3b405f1",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "一般には知られていない聖痕。"
+            ]
+          ]
+        },
+        "parent_id": "27c3b07c-81ff-80c3-88c8-fe25dbe2a704",
+        "parent_table": "block",
+        "created_time": 1763604102491,
+        "last_edited_time": 1763604113311
+      }
+    },
+    "2b13b07c-81ff-80a0-a179-e19e7bc03546": {
+      "value": {
+        "id": "2b13b07c-81ff-80a0-a179-e19e7bc03546",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "影に隠れてしまえば、影響を与えることはできない。"
+            ]
+          ]
+        },
+        "parent_id": "27c3b07c-81ff-80c3-88c8-fe25dbe2a704",
+        "parent_table": "block",
+        "created_time": 1763604134424,
+        "last_edited_time": 1763604138886
+      }
+    },
+    "27c3b07c-81ff-80f9-a98e-dc83bb087279": {
+      "value": {
+        "id": "27c3b07c-81ff-80f9-a98e-dc83bb087279",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "所有者："
+            ],
+            [
+              "樺蔵蓮見心",
+              [
+                [
+                  "a",
+                  "/1bc3b07c81ff800a94aaf737e3dc99c1?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "27c3b07c-81ff-80d4-9d4c-c04ac355e061",
+        "parent_table": "block",
+        "created_time": 1759056293353,
+        "last_edited_time": 1759056324896
+      }
+    },
+    "27c3b07c-81ff-80ce-b080-cbee6301161b": {
+      "value": {
+        "id": "27c3b07c-81ff-80ce-b080-cbee6301161b",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "「秘密」を使っていろんんなことができる。"
+            ]
+          ]
+        },
+        "parent_id": "27c3b07c-81ff-80d4-9d4c-c04ac355e061",
+        "parent_table": "block",
+        "created_time": 1759056325246,
+        "last_edited_time": 1759056335037
+      }
+    },
+    "1b93b07c-81ff-80d6-b786-f823e8cfeefa": {
+      "value": {
+        "id": "1b93b07c-81ff-80d6-b786-f823e8cfeefa",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "所有者："
+            ],
+            [
+              "巫静妃",
+              [
+                [
+                  "a",
+                  "/1b93b07c81ff800e9887e454cab932a3?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-805d-92c5-c9ea7dcf38b5",
+        "parent_table": "block",
+        "created_time": 1742229044623,
+        "last_edited_time": 1742229057347
+      }
+    },
+    "2b13b07c-81ff-80a4-a023-f98219dc79ad": {
+      "value": {
+        "id": "2b13b07c-81ff-80a4-a023-f98219dc79ad",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "他人の聖痕を複製できる。"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-805d-92c5-c9ea7dcf38b5",
+        "parent_table": "block",
+        "created_time": 1763602865645,
+        "last_edited_time": 1763602870105
+      }
+    },
+    "2b13b07c-81ff-80e0-a397-f1a2a3cc5396": {
+      "value": {
+        "id": "2b13b07c-81ff-80e0-a397-f1a2a3cc5396",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "時間制限、使用回数制限がある。"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-805d-92c5-c9ea7dcf38b5",
+        "parent_table": "block",
+        "created_time": 1763602874836,
+        "last_edited_time": 1763602982336
+      }
+    },
+    "2b13b07c-81ff-8028-a2e2-e3c72f8d4e61": {
+      "value": {
+        "id": "2b13b07c-81ff-8028-a2e2-e3c72f8d4e61",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "複数の聖痕能力を同時に使えるが、威力は全体的に低下する。"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-805d-92c5-c9ea7dcf38b5",
+        "parent_table": "block",
+        "created_time": 1763602875965,
+        "last_edited_time": 1763602887552
+      }
+    },
+    "1b93b07c-81ff-802d-a274-ffc8526336c1": {
+      "value": {
+        "id": "1b93b07c-81ff-802d-a274-ffc8526336c1",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "情報依存度の高い聖痕。"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-805d-92c5-c9ea7dcf38b5",
+        "parent_table": "block",
+        "created_time": 1742229310477,
+        "last_edited_time": 1763603002456
+      }
+    },
+    "1b93b07c-81ff-80fe-827f-df099e307dd0": {
+      "value": {
+        "id": "1b93b07c-81ff-80fe-827f-df099e307dd0",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "ケレンヒル",
+              [
+                [
+                  "a",
+                  "/1b93b07c81ff804fb58bdb4f52c31d02?pvs=25"
+                ]
+              ]
+            ],
+            [
+              "の機械の手から情報を入手した。"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-805d-92c5-c9ea7dcf38b5",
+        "parent_table": "block",
+        "created_time": 1742229258228,
+        "last_edited_time": 1742902042136
+      }
+    },
+    "2b13b07c-81ff-80d1-9a73-c30055b57c79": {
+      "value": {
+        "id": "2b13b07c-81ff-80d1-9a73-c30055b57c79",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "手を合わせることがトリガー？"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-805d-92c5-c9ea7dcf38b5",
+        "parent_table": "block",
+        "created_time": 1763602830220,
+        "last_edited_time": 1763603011390
+      }
+    },
+    "2b13b07c-81ff-8006-8b0c-edc06e1fcbaa": {
+      "value": {
+        "id": "2b13b07c-81ff-8006-8b0c-edc06e1fcbaa",
+        "type": "text",
+        "parent_id": "1b93b07c-81ff-805d-92c5-c9ea7dcf38b5",
+        "parent_table": "block",
+        "created_time": 1763603008929,
+        "last_edited_time": 1763603008931
+      }
+    },
+    "1b93b07c-81ff-80fa-b939-fa3e9f027b52": {
+      "value": {
+        "id": "1b93b07c-81ff-80fa-b939-fa3e9f027b52",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "所有者："
+            ],
+            [
+              "王",
+              [
+                [
+                  "a",
+                  "/1b93b07c81ff80919664d7a8e72ff21b?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-80e0-8028-e4e8aa7c06dc",
+        "parent_table": "block",
+        "created_time": 1742229651213,
+        "last_edited_time": 1742229661306
+      }
+    },
+    "1b93b07c-81ff-8065-9cc5-d20a11e0653c": {
+      "value": {
+        "id": "1b93b07c-81ff-8065-9cc5-d20a11e0653c",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "パワーやスピードを上げれる。"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-80e0-8028-e4e8aa7c06dc",
+        "parent_table": "block",
+        "created_time": 1742229792735,
+        "last_edited_time": 1742229799545
+      }
+    },
+    "1b93b07c-81ff-8041-8772-df861f709279": {
+      "value": {
+        "id": "1b93b07c-81ff-8041-8772-df861f709279",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "所有者："
+            ],
+            [
+              "紅理恵",
+              [
+                [
+                  "a",
+                  "/1b73b07c81ff803da4cbcb17ca9660f6?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "1b73b07c-81ff-809c-aa20-c878af26209d",
+        "parent_table": "block",
+        "created_time": 1742227465253,
+        "last_edited_time": 1742227480200
+      }
+    },
+    "1b83b07c-81ff-800f-a07d-d1c806469b9f": {
+      "value": {
+        "id": "1b83b07c-81ff-800f-a07d-d1c806469b9f",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "血液に治癒と強化の力が宿る。"
+            ]
+          ]
+        },
+        "parent_id": "1b73b07c-81ff-809c-aa20-c878af26209d",
+        "parent_table": "block",
+        "created_time": 1742141250705,
+        "last_edited_time": 1742141306523
+      }
+    },
+    "1b83b07c-81ff-80f4-b5a3-ee2837d98887": {
+      "value": {
+        "id": "1b83b07c-81ff-80f4-b5a3-ee2837d98887",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "その力は自分の体だけでなく、無機物にも作用する"
+            ]
+          ]
+        },
+        "parent_id": "1b73b07c-81ff-809c-aa20-c878af26209d",
+        "parent_table": "block",
+        "created_time": 1742141306712,
+        "last_edited_time": 1742141319064
+      }
+    },
+    "1b83b07c-81ff-80b0-b586-d6152aa15c6f": {
+      "value": {
+        "id": "1b83b07c-81ff-80b0-b586-d6152aa15c6f",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "発動条件は強い感情。"
+            ]
+          ]
+        },
+        "parent_id": "1b73b07c-81ff-809c-aa20-c878af26209d",
+        "parent_table": "block",
+        "created_time": 1742141316195,
+        "last_edited_time": 1742141335234
+      }
+    },
+    "1b83b07c-81ff-8049-a201-d6f4676861e7": {
+      "value": {
+        "id": "1b83b07c-81ff-8049-a201-d6f4676861e7",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "傷の治りが遅くなるという代償がある。"
+            ]
+          ]
+        },
+        "parent_id": "1b73b07c-81ff-809c-aa20-c878af26209d",
+        "parent_table": "block",
+        "created_time": 1742141335230,
+        "last_edited_time": 1742141338423
+      }
+    },
+    "1bf3b07c-81ff-8076-b94f-e0c74d6ca888": {
+      "value": {
+        "id": "1bf3b07c-81ff-8076-b94f-e0c74d6ca888",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "所有者："
+            ],
+            [
+              "エストリア",
+              [
+                [
+                  "a",
+                  "/1be3b07c81ff801e85a9f13d576b6447?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "1bf3b07c-81ff-80bc-b81d-e21153f6f3c8",
+        "parent_table": "block",
+        "created_time": 1742692795071,
+        "last_edited_time": 1742692826902
+      }
+    },
+    "1bf3b07c-81ff-8074-83a3-fde2f682229c": {
+      "value": {
+        "id": "1bf3b07c-81ff-8074-83a3-fde2f682229c",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "光の槍を操るだけにとどまらず、陣地を築き、部下に渡せる崩壊エネルギー兵器を製造する能力なんかも持っていた。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "1bf3b07c-81ff-801f-a285-da93fcb97a77",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "1bf3b07c-81ff-80bc-b81d-e21153f6f3c8",
+        "parent_table": "block",
+        "created_time": 1742692864836,
+        "last_edited_time": 1742692878578
+      }
+    },
+    "2b13b07c-81ff-808c-9bcb-fefdd94880ad": {
+      "value": {
+        "id": "2b13b07c-81ff-808c-9bcb-fefdd94880ad",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "所有者："
+            ],
+            [
+              "メミニ・ロア",
+              [
+                [
+                  "a",
+                  "/27c3b07c81ff8094ac21c90878468737?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "2b13b07c-81ff-804e-84e5-d7b628c42ebf",
+        "parent_table": "block",
+        "created_time": 1763604488588,
+        "last_edited_time": 1763604497727
+      }
+    },
+    "2e53b07c-81ff-80f1-83bd-daddb85ba332": {
+      "value": {
+        "id": "2e53b07c-81ff-80f1-83bd-daddb85ba332",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "死者を操る能力。"
+            ]
+          ]
+        },
+        "parent_id": "2b13b07c-81ff-804e-84e5-d7b628c42ebf",
+        "parent_table": "block",
+        "created_time": 1768115575312,
+        "last_edited_time": 1768115576958
+      }
+    },
+    "2b13b07c-81ff-80b7-ae18-e0105ed7335a": {
+      "value": {
+        "id": "2b13b07c-81ff-80b7-ae18-e0105ed7335a",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "死者の口を開かせることができる。"
+            ]
+          ]
+        },
+        "parent_id": "2b13b07c-81ff-804e-84e5-d7b628c42ebf",
+        "parent_table": "block",
+        "created_time": 1763604517797,
+        "last_edited_time": 1763604525798
+      }
+    },
+    "2b13b07c-81ff-80ba-a351-d62f266020a7": {
+      "value": {
+        "id": "2b13b07c-81ff-80ba-a351-d62f266020a7",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "死者は聖痕を使うことができる。"
+            ]
+          ]
+        },
+        "parent_id": "2b13b07c-81ff-804e-84e5-d7b628c42ebf",
+        "parent_table": "block",
+        "created_time": 1763604526005,
+        "last_edited_time": 1768115588484
+      }
+    },
+    "2b13b07c-81ff-8092-ace0-f8c6d65d2804": {
+      "value": {
+        "id": "2b13b07c-81ff-8092-ace0-f8c6d65d2804",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "所有者："
+            ],
+            [
+              "セルカ・フォーテン",
+              [
+                [
+                  "a",
+                  "/27c3b07c81ff8088ac2df2beba364720?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "2b13b07c-81ff-8071-91e8-f886a7054bd2",
+        "parent_table": "block",
+        "created_time": 1763610070890,
+        "last_edited_time": 1763610082132
+      }
+    },
+    "2b13b07c-81ff-807f-af79-f07b03ccb6ed": {
+      "value": {
+        "id": "2b13b07c-81ff-807f-af79-f07b03ccb6ed",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "盾の枚数は665枚まで。"
+            ]
+          ]
+        },
+        "parent_id": "2b13b07c-81ff-8071-91e8-f886a7054bd2",
+        "parent_table": "block",
+        "created_time": 1763610085384,
+        "last_edited_time": 1763610093564
+      }
+    },
+    "2e53b07c-81ff-80df-a54f-f44fa01ed837": {
+      "value": {
+        "id": "2e53b07c-81ff-80df-a54f-f44fa01ed837",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "所有者："
+            ],
+            [
+              "コーデリア",
+              [
+                [
+                  "a",
+                  "/2a53b07c81ff8022978accdb80d1d4fb?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "2e53b07c-81ff-808b-b272-e1ed4d58a60e",
+        "parent_table": "block",
+        "created_time": 1768120164512,
+        "last_edited_time": 1768120173784
+      }
+    },
+    "2e53b07c-81ff-800d-b632-c2c876dfdfc3": {
+      "value": {
+        "id": "2e53b07c-81ff-800d-b632-c2c876dfdfc3",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "重症を負うと自動的に発動し、脱皮する？"
+            ]
+          ]
+        },
+        "parent_id": "2e53b07c-81ff-808b-b272-e1ed4d58a60e",
+        "parent_table": "block",
+        "created_time": 1768120174070,
+        "last_edited_time": 1768120200460
+      }
+    },
+    "30c3b07c-81ff-8062-bce5-df519b24a1df": {
+      "value": {
+        "id": "30c3b07c-81ff-8062-bce5-df519b24a1df",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "所有者："
+            ],
+            [
+              "魔弾の騎士",
+              [
+                [
+                  "a",
+                  "/27c3b07c81ff8059bd22d8cc2599ca76?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "30c3b07c-81ff-8094-81e3-ec52566bde7c",
+        "parent_table": "block",
+        "created_time": 1771486140142,
+        "last_edited_time": 1771486152981
+      }
+    },
+    "30c3b07c-81ff-80ba-8a2e-ce5bde0451dd": {
+      "value": {
+        "id": "30c3b07c-81ff-80ba-8a2e-ce5bde0451dd",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "相手に印を付け、攻撃を必ず命中させる。"
+            ]
+          ]
+        },
+        "parent_id": "30c3b07c-81ff-8094-81e3-ec52566bde7c",
+        "parent_table": "block",
+        "created_time": 1771486165732,
+        "last_edited_time": 1771486191965
+      }
+    },
+    "30c3b07c-81ff-804b-96c4-ef591a76097c": {
+      "value": {
+        "id": "30c3b07c-81ff-804b-96c4-ef591a76097c",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "おそらく視界内が効果範囲"
+            ]
+          ]
+        },
+        "parent_id": "30c3b07c-81ff-8094-81e3-ec52566bde7c",
+        "parent_table": "block",
+        "created_time": 1771486192198,
+        "last_edited_time": 1771486206362
+      }
+    },
+    "3143b07c-81ff-8088-b374-e7cddd72cb68": {
+      "value": {
+        "id": "3143b07c-81ff-8088-b374-e7cddd72cb68",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "代償として、発動するたびに過去一週間の記憶が全て失われる。"
+            ]
+          ]
+        },
+        "parent_id": "30c3b07c-81ff-8094-81e3-ec52566bde7c",
+        "parent_table": "block",
+        "created_time": 1772180025595,
+        "last_edited_time": 1772180049058
+      }
+    },
+    "1b93b07c-81ff-80ad-b636-c1ebb085bbf3": {
+      "value": {
+        "id": "1b93b07c-81ff-80ad-b636-c1ebb085bbf3",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "移植体所有者："
+            ],
+            [
+              "神原嵐音",
+              [
+                [
+                  "a",
+                  "/1bd3b07c81ff80bf9786cca974d7d5c2?pvs=25"
+                ]
+              ]
+            ],
+            [
+              "、"
+            ],
+            [
+              "煌嵐",
+              [
+                [
+                  "a",
+                  "/1b93b07c81ff80f5ba15fb1d5aaa7b4b?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-801c-adc8-ce9b99a5c988",
+        "parent_table": "block",
+        "created_time": 1742230978623,
+        "last_edited_time": 1742682687313
+      }
+    },
+    "1b93b07c-81ff-809d-95af-fb4bd7ad073e": {
+      "value": {
+        "id": "1b93b07c-81ff-809d-95af-fb4bd7ad073e",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "数ある解明された聖痕の中でも、風の聖痕は非常に珍しいの。\n超高速移動、距離や弾道を無視した精密な攻撃、立体的な防御の構築……ほとんど何でもできて、欠点らしい欠点もなく、あらゆる面で優れているわ……\nでも、「大気」という概念はあまりにも想像しづらいもの。\nだから風の聖痕は、往々にして別の極端さを生み出すの自分に何ができるのかわからなくなって、結局何もできなくなる。訓練時間がすべて水の泡に帰してしまうこともあるわ\nマスターするには膨大かつ、つまらない直感的な練習だけでなく、豊富な空気力学の知識、そして十分な想像力が必要になる……コスパが非常に悪いのよ。おまけに、音が大きいったらないわ。\n単純な肉体強化でさえ、最も弱いレベルのものしかできない。"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "parent_id": "1b93b07c-81ff-801c-adc8-ce9b99a5c988",
+        "parent_table": "block",
+        "created_time": 1742230991664,
+        "last_edited_time": 1759053905947
+      }
+    },
+    "1b93b07c-81ff-80be-abb4-d2821e64c9d7": {
+      "value": {
+        "id": "1b93b07c-81ff-80be-abb4-d2821e64c9d7",
+        "type": "text",
+        "parent_id": "1b93b07c-81ff-801c-adc8-ce9b99a5c988",
+        "parent_table": "block",
+        "created_time": 1742231089830,
+        "last_edited_time": 1742231089831
+      }
+    },
+    "1c13b07c-81ff-80c5-8bd5-df0f72430367": {
+      "value": {
+        "id": "1c13b07c-81ff-80c5-8bd5-df0f72430367",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "移植体所有者："
+            ],
+            [
+              "弁蒼龍",
+              [
+                [
+                  "a",
+                  "/1b93b07c81ff8063b510f56dea88c4d8?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "1bf3b07c-81ff-80e1-bb8e-f84d14b6d57a",
+        "parent_table": "block",
+        "created_time": 1742935203145,
+        "last_edited_time": 1742935218919
+      }
+    },
+    "27c3b07c-81ff-802e-a754-fa52ff33d927": {
+      "value": {
+        "id": "27c3b07c-81ff-802e-a754-fa52ff33d927",
+        "type": "text",
+        "parent_id": "1bf3b07c-81ff-80e1-bb8e-f84d14b6d57a",
+        "parent_table": "block",
+        "created_time": 1759053893107,
+        "last_edited_time": 1759053893110
+      }
+    },
+    "1b93b07c-81ff-8065-b73a-e9366e56fad4": {
+      "value": {
+        "id": "1b93b07c-81ff-8065-b73a-e9366e56fad4",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "所有者："
+            ],
+            [
+              "寒鉄",
+              [
+                [
+                  "a",
+                  "/1b93b07c81ff80e9826dd2c0621206df?pvs=25"
+                ]
+              ]
+            ],
+            [
+              "、（"
+            ],
+            [
+              "ケレンヒル",
+              [
+                [
+                  "a",
+                  "/1b93b07c81ff804fb58bdb4f52c31d02?pvs=25"
+                ]
+              ]
+            ],
+            [
+              "）、"
+            ],
+            [
+              "瞳",
+              [
+                [
+                  "a",
+                  "/1b93b07c81ff801fa7f2f4ba4abc02a0?pvs=25"
+                ]
+              ]
+            ],
+            [
+              "、"
+            ],
+            [
+              "イルマ",
+              [
+                [
+                  "a",
+                  "/1b93b07c81ff80ba8b01efdeb13d4b62?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-8019-9d0c-c9f2e837479b",
+        "parent_table": "block",
+        "created_time": 1742243915305,
+        "last_edited_time": 1759053860332
+      }
+    },
+    "1b93b07c-81ff-8013-b3e9-d6726a1ef399": {
+      "value": {
+        "id": "1b93b07c-81ff-8013-b3e9-d6726a1ef399",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "血液中の亜鉛や鉄、銅などの物質や自然界にある金属元素とやり取りして、情報を引き出すことができる。"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-8019-9d0c-c9f2e837479b",
+        "parent_table": "block",
+        "created_time": 1742243911457,
+        "last_edited_time": 1742243913147
+      }
+    },
+    "1b93b07c-81ff-80cd-b8d9-d9e71d196795": {
+      "value": {
+        "id": "1b93b07c-81ff-80cd-b8d9-d9e71d196795",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "金属と機械を頼りに過去を探ることができるばかりでなく、金属や機械を使った記録をねじ曲げることも可能。"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-8019-9d0c-c9f2e837479b",
+        "parent_table": "block",
+        "created_time": 1742243961669,
+        "last_edited_time": 1742243963497
+      }
+    },
+    "1b93b07c-81ff-80e2-8b06-f9ce9645079c": {
+      "value": {
+        "id": "1b93b07c-81ff-80e2-8b06-f9ce9645079c",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "移植体所有者："
+            ],
+            [
+              "キム",
+              [
+                [
+                  "a",
+                  "/1be3b07c81ff80fdaae8f47a98f1f1ab?pvs=25"
+                ]
+              ]
+            ],
+            [
+              "、"
+            ],
+            [
+              "ミニタルト",
+              [
+                [
+                  "a",
+                  "/1b93b07c81ff80e68833e860f93f4b5d?pvs=25"
+                ]
+              ]
+            ],
+            [
+              "、"
+            ],
+            [
+              "地龍",
+              [
+                [
+                  "a",
+                  "/1bf3b07c81ff8079b83cd229ccc6f5ce?pvs=25"
+                ]
+              ]
+            ],
+            [
+              "、"
+            ],
+            [
+              "イルマ",
+              [
+                [
+                  "a",
+                  "/1b93b07c81ff80ba8b01efdeb13d4b62?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-803c-88b2-c42f896a2f68",
+        "parent_table": "block",
+        "created_time": 1742245692065,
+        "last_edited_time": 1759053866728
+      }
+    },
+    "1b93b07c-81ff-808f-9af4-ee6a4fb7df8e": {
+      "value": {
+        "id": "1b93b07c-81ff-808f-9af4-ee6a4fb7df8e",
+        "type": "text",
+        "parent_id": "1b93b07c-81ff-803c-88b2-c42f896a2f68",
+        "parent_table": "block",
+        "created_time": 1742245735251,
+        "last_edited_time": 1742245735253
+      }
+    },
+    "1b93b07c-81ff-8078-95dd-e5b9a32741de": {
+      "value": {
+        "id": "1b93b07c-81ff-8078-95dd-e5b9a32741de",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "地形をコントロールできる。"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-803c-88b2-c42f896a2f68",
+        "parent_table": "block",
+        "created_time": 1742245733683,
+        "last_edited_time": 1742245740907
+      }
+    },
+    "1bf3b07c-81ff-8028-95a7-c66112fbd9a6": {
+      "value": {
+        "id": "1bf3b07c-81ff-8028-95a7-c66112fbd9a6",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "炎の聖痕、火炎の聖痕"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-80e4-8269-d677005c4cd0",
+        "parent_table": "block",
+        "created_time": 1742763314753,
+        "last_edited_time": 1742763329257
+      }
+    },
+    "1b93b07c-81ff-8077-a6a2-cb51de6806c5": {
+      "value": {
+        "id": "1b93b07c-81ff-8077-a6a2-cb51de6806c5",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "移植体所有者："
+            ],
+            [
+              "秦針虎",
+              [
+                [
+                  "a",
+                  "/1b93b07c81ff807686cbcc99e3c28e11?pvs=25"
+                ]
+              ]
+            ],
+            [
+              "、"
+            ],
+            [
+              "ナナラン",
+              [
+                [
+                  "a",
+                  "/1b93b07c81ff807b9842ec75255fa3cd?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-80e4-8269-d677005c4cd0",
+        "parent_table": "block",
+        "created_time": 1742249725983,
+        "last_edited_time": 1742513189894
+      }
+    },
+    "1bc3b07c-81ff-80ff-9c0c-fb1a83e590e1": {
+      "value": {
+        "id": "1bc3b07c-81ff-80ff-9c0c-fb1a83e590e1",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "俺が武器としている炎の聖痕は接近戦も得意としていてな。空中にいながら二段加速でき、戦場を炎で制圧することはもちろん、相手との距離を一瞬で詰めることもできるのだよ。"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-80e4-8269-d677005c4cd0",
+        "parent_table": "block",
+        "created_time": 1742513654401,
+        "last_edited_time": 1742513666198
+      }
+    },
+    "1bc3b07c-81ff-8046-ab95-ff564c4abb05": {
+      "value": {
+        "id": "1bc3b07c-81ff-8046-ab95-ff564c4abb05",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "炎の聖痕の研究は、まだ大きなプレークスルーは起きていなかったはずよ。思った通り、まだ小型化にはこぎつけていないようね——つまり聖痕の移植体の構造の大部分は、その剣の中にあると言う事でしょう！\nだからあんたは——剣に触れなければ炎の聖痕の能力を操ることができない。"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-80e4-8269-d677005c4cd0",
+        "parent_table": "block",
+        "created_time": 1742513666194,
+        "last_edited_time": 1742513666198
+      }
+    },
+    "1bf3b07c-81ff-802f-9636-d3a5aacb6069": {
+      "value": {
+        "id": "1bf3b07c-81ff-802f-9636-d3a5aacb6069",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "この10年で新しく研究された新型"
+            ],
+            [
+              "仮想聖痕",
+              [
+                [
+                  "a",
+                  "/1bf3b07c81ff806d8389c3c4accb3e90?pvs=25"
+                ]
+              ]
+            ],
+            [
+              "の一種。"
+            ]
+          ]
+        },
+        "parent_id": "1b93b07c-81ff-80e4-8269-d677005c4cd0",
+        "parent_table": "block",
+        "created_time": 1742763307554,
+        "last_edited_time": 1742902085467
+      }
+    },
+    "1bc3b07c-81ff-807b-9175-f940f4f863ec": {
+      "value": {
+        "id": "1bc3b07c-81ff-807b-9175-f940f4f863ec",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "移植体所有者："
+            ],
+            [
+              "慕寒音",
+              [
+                [
+                  "a",
+                  "/1b93b07c81ff80f9a53ef27e8a8f9e1f?pvs=25"
+                ]
+              ]
+            ],
+            [
+              "、"
+            ],
+            [
+              "寒鉄",
+              [
+                [
+                  "a",
+                  "/1b93b07c81ff80e9826dd2c0621206df?pvs=25"
+                ]
+              ]
+            ],
+            [
+              "、"
+            ],
+            [
+              "ローズ",
+              [
+                [
+                  "a",
+                  "/1b93b07c81ff80ec9f18ebb0de7f2b69?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "1bc3b07c-81ff-80c2-b124-dfe366d619d4",
+        "parent_table": "block",
+        "created_time": 1742474311447,
+        "last_edited_time": 1742904652419
+      }
+    },
+    "1be3b07c-81ff-8076-8875-f6fc2613b26c": {
+      "value": {
+        "id": "1be3b07c-81ff-8076-8875-f6fc2613b26c",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "移植体所有者："
+            ],
+            [
+              "ファン",
+              [
+                [
+                  "a",
+                  "/1be3b07c81ff800e9dc0d53ad6469316?pvs=25"
+                ]
+              ]
+            ],
+            [
+              "、"
+            ],
+            [
+              "リド",
+              [
+                [
+                  "a",
+                  "/1be3b07c81ff80b7bbdcdc76229eacc2?pvs=25"
+                ]
+              ]
+            ],
+            [
+              "、"
+            ],
+            [
+              "咎狩07",
+              [
+                [
+                  "a",
+                  "/1bc3b07c81ff80d89371df19fc99263f?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "1be3b07c-81ff-806c-b8f5-d71339d48092",
+        "parent_table": "block",
+        "created_time": 1742654071509,
+        "last_edited_time": 1742683925979
+      }
+    },
+    "1be3b07c-81ff-80bb-902d-da02e366d803": {
+      "value": {
+        "id": "1be3b07c-81ff-80bb-902d-da02e366d803",
+        "type": "text",
+        "parent_id": "1be3b07c-81ff-806c-b8f5-d71339d48092",
+        "parent_table": "block",
+        "created_time": 1742654088462,
+        "last_edited_time": 1742654088463
+      }
+    },
+    "1bf3b07c-81ff-8018-b6cf-c9a7a365cdcb": {
+      "value": {
+        "id": "1bf3b07c-81ff-8018-b6cf-c9a7a365cdcb",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "所有者：ブローニャ・ザイチク"
+            ]
+          ]
+        },
+        "parent_id": "1be3b07c-81ff-803d-ad92-ffa1906c5b70",
+        "parent_table": "block",
+        "created_time": 1742759830351,
+        "last_edited_time": 1742759836627
+      }
+    },
+    "1be3b07c-81ff-8018-84f9-ccdb0c2c54f5": {
+      "value": {
+        "id": "1be3b07c-81ff-8018-84f9-ccdb0c2c54f5",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "移植体所有者："
+            ],
+            [
+              "マーティン",
+              [
+                [
+                  "a",
+                  "/1bd3b07c81ff80389111d48015d9d95c?pvs=25"
+                ]
+              ]
+            ],
+            [
+              "、"
+            ],
+            [
+              "クリスティン",
+              [
+                [
+                  "a",
+                  "/1be3b07c81ff8080a58ceabb4aecc9ea?pvs=25"
+                ]
+              ]
+            ],
+            [
+              "、"
+            ],
+            [
+              "咎狩07",
+              [
+                [
+                  "a",
+                  "/1bc3b07c81ff80d89371df19fc99263f?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "1be3b07c-81ff-803d-ad92-ffa1906c5b70",
+        "parent_table": "block",
+        "created_time": 1742682901042,
+        "last_edited_time": 1742684043005
+      }
+    },
+    "1be3b07c-81ff-805c-97a9-c7ace74c4c12": {
+      "value": {
+        "id": "1be3b07c-81ff-805c-97a9-c7ace74c4c12",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "自己修復能力のある機械構造物を召喚することができる。"
+            ]
+          ]
+        },
+        "parent_id": "1be3b07c-81ff-803d-ad92-ffa1906c5b70",
+        "parent_table": "block",
+        "created_time": 1742682918064,
+        "last_edited_time": 1742759764202
+      }
+    },
+    "1bf3b07c-81ff-80b5-abfb-c4022f934f3c": {
+      "value": {
+        "id": "1bf3b07c-81ff-80b5-abfb-c4022f934f3c",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "レシピエントの場合、聖痕使いと違って「リンク」する対象が実在する機械。"
+            ]
+          ]
+        },
+        "parent_id": "1be3b07c-81ff-803d-ad92-ffa1906c5b70",
+        "parent_table": "block",
+        "created_time": 1742759810927,
+        "last_edited_time": 1742759811084
+      }
+    },
+    "1bf3b07c-81ff-8085-b42d-e3c9291b68ab": {
+      "value": {
+        "id": "1bf3b07c-81ff-8085-b42d-e3c9291b68ab",
+        "type": "text",
+        "parent_id": "1be3b07c-81ff-803d-ad92-ffa1906c5b70",
+        "parent_table": "block",
+        "created_time": 1742759853395,
+        "last_edited_time": 1742759853396
+      }
+    },
+    "1be3b07c-81ff-809d-9b73-e72557e92195": {
+      "value": {
+        "id": "1be3b07c-81ff-809d-9b73-e72557e92195",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "移植体所有者："
+            ],
+            [
+              "リリス",
+              [
+                [
+                  "a",
+                  "/1bd3b07c81ff8010ad8bd5625d04f98a?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "1be3b07c-81ff-8037-bd69-c95879a1ddac",
+        "parent_table": "block",
+        "created_time": 1742683032094,
+        "last_edited_time": 1742683040804
+      }
+    },
+    "1be3b07c-81ff-8021-b004-f53d9205da7b": {
+      "value": {
+        "id": "1be3b07c-81ff-8021-b004-f53d9205da7b",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "移植体所有者："
+            ],
+            [
+              "純",
+              [
+                [
+                  "a",
+                  "/1be3b07c81ff80a9869bd4ab20e5cfc8?pvs=25"
+                ]
+              ]
+            ],
+            [
+              "、"
+            ],
+            [
+              "シャラハ",
+              [
+                [
+                  "a",
+                  "/1bd3b07c81ff80c5acdbe05953c7d3c2?pvs=25"
+                ]
+              ]
+            ]
+          ]
+        },
+        "parent_id": "1be3b07c-81ff-8069-b19e-cdfab6910dfb",
+        "parent_table": "block",
+        "created_time": 1742652759795,
+        "last_edited_time": 1742683217080
+      }
+    },
+    "1be3b07c-81ff-80b7-97b7-f52228eb20f2": {
+      "value": {
+        "id": "1be3b07c-81ff-80b7-97b7-f52228eb20f2",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "血を操る。"
+            ]
+          ]
+        },
+        "parent_id": "1be3b07c-81ff-8069-b19e-cdfab6910dfb",
+        "parent_table": "block",
+        "created_time": 1742652779330,
+        "last_edited_time": 1742652782271
+      }
+    },
+    "1be3b07c-81ff-803b-b2d4-c718d47b7000": {
+      "value": {
+        "id": "1be3b07c-81ff-803b-b2d4-c718d47b7000",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "相手を逃がした後、聖痕を使って相手の位置を特定できる。"
+            ]
+          ]
+        },
+        "parent_id": "1be3b07c-81ff-8069-b19e-cdfab6910dfb",
+        "parent_table": "block",
+        "created_time": 1742652743500,
+        "last_edited_time": 1742653509365
+      }
+    },
+    "1be3b07c-81ff-802b-9cf1-ec4a500d4326": {
+      "value": {
+        "id": "1be3b07c-81ff-802b-9cf1-ec4a500d4326",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "たとえ手足を損傷し、心臓が潰れようとも、戦い続けたいという「願望」を抱くならば、聖痕が有効である限り、逆説的とでも言うべき方法で自らの血液を循環させ、「生きている」と言える。"
+            ]
+          ]
+        },
+        "parent_id": "1be3b07c-81ff-8069-b19e-cdfab6910dfb",
+        "parent_table": "block",
+        "created_time": 1742653036979,
+        "last_edited_time": 1742653534450
+      }
+    }
+  },
+  "collection": {
+    "31a3b07c-81ff-8073-9300-000bf354425b": {
+      "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df",
+      "value": {
+        "id": "31a3b07c-81ff-8073-9300-000bf354425b",
+        "version": 10,
+        "name": [
+          [
+            "用語"
+          ]
+        ],
+        "schema": {
+          "D?Hg": {
+            "name": "Slug",
+            "type": "text"
+          },
+          "title": {
+            "name": "項目",
+            "type": "title"
+          }
+        },
+        "format": {
+          "ai_suggested_properties": [
+            {
+              "name": "説明",
+              "type": "text"
+            },
+            {
+              "name": "作成日",
+              "type": "date"
+            },
+            {
+              "name": "カテゴリ",
+              "type": "select",
+              "options": [
+                {
+                  "id": "N=Be",
+                  "color": "brown",
+                  "value": "技術"
+                },
+                {
+                  "id": "_PuZ",
+                  "color": "purple",
+                  "value": "ビジネス"
+                },
+                {
+                  "id": "JMij",
+                  "color": "yellow",
+                  "value": "健康"
+                },
+                {
+                  "id": "aPzS",
+                  "color": "default",
+                  "value": "教育"
+                }
+              ]
+            },
+            {
+              "name": "関連リンク",
+              "type": "url"
+            }
+          ]
+        },
+        "parent_id": "31a3b07c-81ff-80d1-9457-dcbda3b3f132",
+        "parent_table": "block",
+        "alive": true,
+        "migrated": true,
+        "space_id": "f25e8375-dff8-499a-b7bf-74566e1055df",
+        "created_time": 1772696704734,
+        "last_edited_time": 1772715627102,
+        "created_by_table": "notion_user",
+        "created_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a"
+      }
+    },
+    "1ac3b07c-81ff-8086-a96b-000b78a078f2": {
+      "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df",
+      "value": {
+        "id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
+        "version": 48,
+        "name": [
+          [
+            "目次"
+          ]
+        ],
+        "schema": {
+          "`q`e": {
+            "name": "タグ",
+            "type": "multi_select"
+          },
+          "t~Sf": {
+            "name": "Slug",
+            "type": "text"
+          },
+          "vidt": {
+            "name": "作成日時",
+            "type": "created_time"
+          },
+          "title": {
+            "name": "名前",
+            "type": "title"
+          }
+        },
+        "format": {
+          "layout_pointer": {
+            "id": "1ac3b07c-81ff-80e0-9466-006e60a7ae40",
+            "table": "layout",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "property_visibility": [
+            {
+              "property": "vidt",
+              "visibility": "show"
+            },
+            {
+              "property": "`q`e",
+              "visibility": "show"
+            },
+            {
+              "property": "t~Sf",
+              "visibility": "show"
+            }
+          ],
+          "metadata_copied_from": {
+            "id": "1ac3b07c-81ff-8068-828b-fec9cdc96765",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "ai_suggested_properties": [
+            {
+              "name": "説明",
+              "type": "text"
+            },
+            {
+              "name": "更新日時",
+              "type": "date"
+            },
+            {
+              "name": "担当者",
+              "type": "person"
+            },
+            {
+              "name": "優先度",
+              "type": "select",
+              "options": [
+                {
+                  "id": "Wegk",
+                  "color": "yellow",
+                  "value": "高"
+                },
+                {
+                  "id": ";HBU",
+                  "color": "purple",
+                  "value": "中"
+                },
+                {
+                  "id": "Zark",
+                  "color": "default",
+                  "value": "低"
+                }
+              ]
+            },
+            {
+              "name": "ステータス",
+              "type": "status"
+            },
+            {
+              "name": "関連ファイル",
+              "type": "file"
+            },
+            {
+              "name": "連絡先メール",
+              "type": "email"
+            },
+            {
+              "name": "連絡先電話番号",
+              "type": "phone_number"
+            },
+            {
+              "name": "カテゴリー",
+              "type": "multi_select",
+              "options": [
+                {
+                  "id": "o>B<",
+                  "color": "orange",
+                  "value": "技術"
+                },
+                {
+                  "id": "ksAA",
+                  "color": "pink",
+                  "value": "マーケティング"
+                },
+                {
+                  "id": "}yWP",
+                  "color": "brown",
+                  "value": "デザイン"
+                },
+                {
+                  "id": "lt{K",
+                  "color": "yellow",
+                  "value": "管理"
+                }
+              ]
+            },
+            {
+              "name": "予算",
+              "type": "number"
+            }
+          ],
+          "page_section_visibility": {
+            "comments": "section_hide",
+            "backlinks": "section_collapsed",
+            "margin_comments": "minimal"
+          },
+          "collection_cover_position": 0.7987,
+          "collection_page_properties": [
+            {
+              "visible": true,
+              "property": "vidt"
+            },
+            {
+              "visible": true,
+              "property": "`q`e"
+            }
+          ]
+        },
+        "parent_id": "1ac3b07c-81ff-8068-828b-fec9cdc96765",
+        "parent_table": "block",
+        "alive": true,
+        "file_ids": [
+          "4f9fcbb9-8c79-49e0-98bf-457ceee7859a"
+        ],
+        "migrated": true,
+        "space_id": "f25e8375-dff8-499a-b7bf-74566e1055df",
+        "deleted_schema": {
+          "FE|;": {
+            "name": "全項目",
+            "type": "relation",
+            "version": "v2",
+            "property": "qhFA",
+            "autoRelate": {
+              "enabled": false
+            },
+            "collection_id": "3173b07c-81ff-8097-a182-000bbb96d5ad",
+            "collection_pointer": {
+              "id": "3173b07c-81ff-8097-a182-000bbb96d5ad",
+              "table": "collection",
+              "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+            }
+          }
+        },
+        "created_time": 1741119010204,
+        "last_edited_time": 1772696876824,
+        "created_by_table": "notion_user",
+        "created_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a"
+      }
+    },
+    "a0dd7c4e-7ec8-4586-95da-f282fd0f7cba": {
+      "role": "none"
+    },
+    "31e3b07c-81ff-80a3-bd66-000bcda62c0a": {
+      "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df",
+      "value": {
+        "id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+        "version": 27,
+        "name": [
+          [
+            "聖痕一覧"
+          ]
+        ],
+        "schema": {
+          "TZGc": {
+            "name": "Slug",
+            "type": "text"
+          },
+          "title": {
+            "name": "名前",
+            "type": "title"
+          }
+        },
+        "format": {
+          "ai_suggested_properties": [
+            {
+              "name": "作成日",
+              "type": "date"
+            },
+            {
+              "name": "更新者",
+              "type": "person"
+            },
+            {
+              "name": "ステータス",
+              "type": "select",
+              "options": [
+                {
+                  "id": "BtKh",
+                  "color": "orange",
+                  "value": "未開始"
+                },
+                {
+                  "id": "Omka",
+                  "color": "blue",
+                  "value": "進行中"
+                },
+                {
+                  "id": "bZs:",
+                  "color": "purple",
+                  "value": "完了"
+                }
+              ]
+            },
+            {
+              "name": "関連ファイル",
+              "type": "file"
+            }
+          ]
+        },
+        "parent_id": "31e3b07c-81ff-8050-84b8-c0826ecbea80",
+        "parent_table": "block",
+        "alive": true,
+        "migrated": true,
+        "space_id": "f25e8375-dff8-499a-b7bf-74566e1055df",
+        "created_time": 1773074992484,
+        "last_edited_time": 1773075396164,
+        "created_by_table": "notion_user",
+        "created_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a"
+      }
+    }
+  },
+  "collection_view": {
+    "31a3b07c-81ff-80cf-b0e5-000c0ecaa076": {
+      "value": {
+        "id": "31a3b07c-81ff-80cf-b0e5-000c0ecaa076",
+        "version": 33,
+        "type": "table",
+        "format": {
+          "table_wrap": true,
+          "show_page_icon": false,
+          "table_properties": [
+            {
+              "width": 280,
+              "visible": true,
+              "property": "title"
+            },
+            {
+              "width": 200,
+              "visible": false,
+              "property": "D?Hg"
+            }
+          ],
+          "collection_pointer": {
+            "id": "31a3b07c-81ff-8073-9300-000bf354425b",
+            "table": "collection",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "collection_peek_mode": "full_page",
+          "subitem_filter_scope": "parents_and_subitems",
+          "table_frozen_column_index": -1,
+          "inline_collection_first_load_limit": {
+            "type": "load_limit",
+            "limit": 100
+          }
+        },
+        "parent_id": "31a3b07c-81ff-80d1-9457-dcbda3b3f132",
+        "parent_table": "block",
+        "alive": true,
+        "page_sort": [
+          "1bf3b07c-81ff-8055-81ae-c40dff2072b2",
+          "1b63b07c-81ff-80cd-ac5a-c866ffb7c5e5",
+          "1bf3b07c-81ff-80b2-8c15-f4469df560ae",
+          "1bf3b07c-81ff-80f9-a733-ed6a4f3c1b69",
+          "1b63b07c-81ff-803b-bf3a-e1be19f9a530",
+          "1bf3b07c-81ff-80a1-b1db-dd5457ff278f",
+          "1bf3b07c-81ff-80a9-94e2-cc3ad373803f",
+          "1bf3b07c-81ff-80c6-925a-d3e1fe9a4c94",
+          "1bf3b07c-81ff-80b4-b959-e3e6c2bcd9c6",
+          "1bf3b07c-81ff-805c-a52b-fe86fc0f55e0",
+          "1ad3b07c-81ff-806f-814d-e9208d31aca7",
+          "1bf3b07c-81ff-80ca-82cd-dc2a6b34742b",
+          "1bf3b07c-81ff-80f1-9cfa-d172fcc44356",
+          "1bd3b07c-81ff-802b-881f-e69def649392",
+          "1bf3b07c-81ff-802e-93ca-d920e2751ff1",
+          "1be3b07c-81ff-801e-9bc1-cb69c4262cba",
+          "1b93b07c-81ff-8090-88e4-e5ec255d4e02",
+          "1bf3b07c-81ff-80bb-bd76-efdad8e1ea76",
+          "27c3b07c-81ff-80a9-8cfc-d1c79da175d5",
+          "2f73b07c-81ff-8098-bdd9-d3b61ddfdeb0"
+        ],
+        "space_id": "f25e8375-dff8-499a-b7bf-74566e1055df",
+        "created_time": 1772696704738,
+        "last_edited_time": 1772715616906,
+        "created_by_table": "notion_user",
+        "created_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a"
+      },
+      "role": "reader"
+    },
+    "1ac3b07c-81ff-80ee-821a-000cec78a24c": {
+      "value": {
+        "id": "1ac3b07c-81ff-80ee-821a-000cec78a24c",
+        "version": 56,
+        "type": "gallery",
+        "name": "ギャラリービュー",
+        "format": {
+          "table_wrap": false,
+          "gallery_cover": {
+            "type": "page_cover"
+          },
+          "show_page_icon": false,
+          "collection_pointer": {
+            "id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
+            "table": "collection",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "gallery_cover_size": "medium",
+          "collection_peek_mode": "full_page",
+          "gallery_cover_aspect": "cover"
+        },
+        "parent_id": "1ac3b07c-81ff-8068-828b-fec9cdc96765",
+        "parent_table": "block",
+        "alive": true,
+        "page_sort": [
+          "1ac3b07c-81ff-8089-98b4-ec9f8c06db35",
+          "1ad3b07c-81ff-80ba-be4c-ef2bb448c0e8",
+          "1ac3b07c-81ff-80ad-9d61-ef632d261b8f",
+          "1ad3b07c-81ff-803d-b570-dd34e00c1df5",
+          "1ad3b07c-81ff-80e4-8271-c7f781e181c3",
+          "1ad3b07c-81ff-809c-8204-e16483640fa5",
+          "1c83b07c-81ff-800b-a0c3-f295d7423d6d",
+          "1c83b07c-81ff-803f-99b6-f7010f54b710",
+          "3173b07c-81ff-8007-9e56-f698ccc5d61b",
+          "3173b07c-81ff-8001-882a-f4808ecf3cc9",
+          "3173b07c-81ff-8094-a02b-dd39382302cf",
+          "2573b07c-81ff-8076-8c97-c512393c2dc8",
+          "1b63b07c-81ff-809a-8e66-e4e88abf2006"
+        ],
+        "query2": {
+          "aggregations": [
+            {
+              "aggregator": "count"
+            }
+          ]
+        },
+        "space_id": "f25e8375-dff8-499a-b7bf-74566e1055df",
+        "created_time": 1773029610624,
+        "last_edited_time": 1773029610624,
+        "created_by_table": "notion_user",
+        "created_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a"
+      },
+      "role": "reader"
+    },
+    "5531d29a-4e77-406f-a1fc-32cd5bbafec7": {
+      "role": "none"
+    },
+    "5dd8ee8a-3d52-42e6-b781-ac5db580f283": {
+      "role": "none"
+    },
+    "401ba18e-ee37-450f-b369-015c2957f5d4": {
+      "role": "none"
+    },
+    "5961b724-b949-48b2-aef2-d5c03eacd1d8": {
+      "role": "none"
+    },
+    "1ad3b07c-81ff-8037-9574-000c12eb1c9d": {
+      "role": "none"
+    },
+    "31e3b07c-81ff-80c0-9651-000c872b1d7a": {
+      "value": {
+        "id": "31e3b07c-81ff-80c0-9651-000c872b1d7a",
+        "version": 40,
+        "type": "table",
+        "format": {
+          "table_wrap": true,
+          "show_page_icon": false,
+          "table_properties": [
+            {
+              "width": 280,
+              "visible": true,
+              "property": "title"
+            },
+            {
+              "width": 200,
+              "visible": false,
+              "property": "TZGc"
+            }
+          ],
+          "collection_pointer": {
+            "id": "31e3b07c-81ff-80a3-bd66-000bcda62c0a",
+            "table": "collection",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "collection_peek_mode": "full_page",
+          "subitem_filter_scope": "parents_and_subitems",
+          "table_frozen_column_index": -1,
+          "inline_collection_first_load_limit": {
+            "type": "load_limit",
+            "limit": 100
+          }
+        },
+        "parent_id": "31e3b07c-81ff-8050-84b8-c0826ecbea80",
+        "parent_table": "block",
+        "alive": true,
+        "page_sort": [
+          "1b63b07c-81ff-807a-8d0f-fbe759b563fe",
+          "1b63b07c-81ff-808c-9a4a-d766a16f533c",
+          "1b63b07c-81ff-8008-a9d3-d08565a44f74",
+          "1b73b07c-81ff-80c0-8697-c7d53a0ccf85",
+          "1b93b07c-81ff-8098-a4c6-d176e2d9d32d",
+          "1b93b07c-81ff-800b-8a73-e24ecb09af85",
+          "27c3b07c-81ff-80c3-88c8-fe25dbe2a704",
+          "27c3b07c-81ff-80d4-9d4c-c04ac355e061",
+          "1b93b07c-81ff-805d-92c5-c9ea7dcf38b5",
+          "1b93b07c-81ff-80e0-8028-e4e8aa7c06dc",
+          "1b73b07c-81ff-809c-aa20-c878af26209d",
+          "1bf3b07c-81ff-80bc-b81d-e21153f6f3c8",
+          "2b13b07c-81ff-804e-84e5-d7b628c42ebf",
+          "2b13b07c-81ff-8071-91e8-f886a7054bd2",
+          "2e53b07c-81ff-808b-b272-e1ed4d58a60e",
+          "30c3b07c-81ff-8094-81e3-ec52566bde7c",
+          "1b93b07c-81ff-801c-adc8-ce9b99a5c988",
+          "1bf3b07c-81ff-80e1-bb8e-f84d14b6d57a",
+          "1b93b07c-81ff-8019-9d0c-c9f2e837479b",
+          "1b93b07c-81ff-803c-88b2-c42f896a2f68",
+          "1b93b07c-81ff-80e4-8269-d677005c4cd0",
+          "1bc3b07c-81ff-80c2-b124-dfe366d619d4",
+          "1be3b07c-81ff-806c-b8f5-d71339d48092",
+          "1be3b07c-81ff-803d-ad92-ffa1906c5b70",
+          "1be3b07c-81ff-8037-bd69-c95879a1ddac",
+          "1be3b07c-81ff-8069-b19e-cdfab6910dfb"
+        ],
+        "space_id": "f25e8375-dff8-499a-b7bf-74566e1055df",
+        "created_time": 1773074992490,
+        "last_edited_time": 1773076306275,
+        "created_by_table": "notion_user",
+        "created_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a"
+      },
+      "role": "reader"
+    }
+  },
+  "collection_query": {
+    "31e3b07c-81ff-80a3-bd66-000bcda62c0a": {
+      "31e3b07c-81ff-80c0-9651-000c872b1d7a": {
+        "collection_group_results": {
+          "type": "results",
+          "blockIds": [
+            "1b63b07c-81ff-807a-8d0f-fbe759b563fe",
+            "1b63b07c-81ff-808c-9a4a-d766a16f533c",
+            "1b63b07c-81ff-8008-a9d3-d08565a44f74",
+            "1b73b07c-81ff-80c0-8697-c7d53a0ccf85",
+            "1b93b07c-81ff-8098-a4c6-d176e2d9d32d",
+            "1b93b07c-81ff-800b-8a73-e24ecb09af85",
+            "27c3b07c-81ff-80c3-88c8-fe25dbe2a704",
+            "27c3b07c-81ff-80d4-9d4c-c04ac355e061",
+            "1b93b07c-81ff-805d-92c5-c9ea7dcf38b5",
+            "1b93b07c-81ff-80e0-8028-e4e8aa7c06dc",
+            "1b73b07c-81ff-809c-aa20-c878af26209d",
+            "1bf3b07c-81ff-80bc-b81d-e21153f6f3c8",
+            "2b13b07c-81ff-804e-84e5-d7b628c42ebf",
+            "2b13b07c-81ff-8071-91e8-f886a7054bd2",
+            "2e53b07c-81ff-808b-b272-e1ed4d58a60e",
+            "30c3b07c-81ff-8094-81e3-ec52566bde7c",
+            "1b93b07c-81ff-801c-adc8-ce9b99a5c988",
+            "1bf3b07c-81ff-80e1-bb8e-f84d14b6d57a",
+            "1b93b07c-81ff-8019-9d0c-c9f2e837479b",
+            "1b93b07c-81ff-803c-88b2-c42f896a2f68",
+            "1b93b07c-81ff-80e4-8269-d677005c4cd0",
+            "1bc3b07c-81ff-80c2-b124-dfe366d619d4",
+            "1be3b07c-81ff-806c-b8f5-d71339d48092",
+            "1be3b07c-81ff-803d-ad92-ffa1906c5b70",
+            "1be3b07c-81ff-8037-bd69-c95879a1ddac",
+            "1be3b07c-81ff-8069-b19e-cdfab6910dfb"
+          ],
+          "hasMore": false
+        }
+      }
+    }
+  }
+}

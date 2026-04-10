@@ -1,0 +1,507 @@
+{
+  "block": {
+    "1c83b07c-81ff-8013-861e-e033d11cfdb9": {
+      "value": {
+        "id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "type": "page",
+        "properties": {
+          "title": [
+            [
+              "ストーリーだけ読みたい方へ"
+            ]
+          ]
+        },
+        "content": [
+          "1c83b07c-81ff-8056-88e5-ca2c9a013cbf",
+          "2863b07c-81ff-8080-9d16-d607cb683462",
+          "1c83b07c-81ff-80f9-b15a-eefa202a2efd",
+          "1c83b07c-81ff-80aa-b97f-eea303b1243c",
+          "1c83b07c-81ff-80f8-ab38-f78920627ad7",
+          "1c83b07c-81ff-8071-8c1a-d1b324981c6c",
+          "1c83b07c-81ff-8079-bf14-f274b3a882be",
+          "1ca3b07c-81ff-807a-9c0d-dbe6ce6aee4f",
+          "3173b07c-81ff-80c7-ba56-db93933776b0",
+          "1c83b07c-81ff-80e7-abcc-e1b0298ef9aa",
+          "1ca3b07c-81ff-8035-bc88-d6048b9b4fae",
+          "1ca3b07c-81ff-80bf-b081-f10cc6bfa1a9",
+          "1c83b07c-81ff-807a-a7d5-d98a720d226b",
+          "1ca3b07c-81ff-801d-bb33-faeb1ad9a94e",
+          "1ca3b07c-81ff-8025-a1c4-e4f18037cdd2",
+          "1ca3b07c-81ff-8093-bc59-df89656edc73",
+          "1ca3b07c-81ff-8009-bebb-e0ff4a31a94e",
+          "1c83b07c-81ff-8091-9acc-f9531dac1c00",
+          "3173b07c-81ff-804e-9e19-f2df2656eeed",
+          "1c83b07c-81ff-8095-97e7-f9d5eab8e3f8",
+          "1c83b07c-81ff-8080-91ed-c278a5648856",
+          "1c83b07c-81ff-80ce-b2b2-fda7248ff581"
+        ],
+        "parent_id": "1ac3b07c-81ff-80d1-84a1-f564abe7fef3",
+        "parent_table": "block",
+        "created_time": 1743505127788,
+        "last_edited_time": 1772473265281
+      }
+    },
+    "1ac3b07c-81ff-80d1-84a1-f564abe7fef3": {
+      "value": {
+        "id": "1ac3b07c-81ff-80d1-84a1-f564abe7fef3",
+        "type": "page",
+        "properties": {
+          "mgJK": [
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1b9a2d41-3d52-470d-b4eb-79f20192b22b",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ]
+          ],
+          "title": [
+            [
+              "崩壊学園編 Wiki"
+            ]
+          ]
+        },
+        "format": {
+          "site_id": "2573b07c-81ff-80ed-96cb-007912ddb61b",
+          "seo_title": "崩壊学園編　ストーリー　Wiki | Notion",
+          "page_cover": "attachment:d4c78f4a-1872-4d8a-836f-48abb3027e69:760ca1e5gy1hi33odeetvj21z4140u03.jpg",
+          "block_locked": false,
+          "block_locked_by": "4e3acacc-a0e3-4eec-9056-a8f06db6234a",
+          "page_full_width": true,
+          "seo_description": "このサイトについて",
+          "copied_from_pointer": {
+            "id": "f1552fed-37eb-4430-a72c-2b7e492693fe",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "page_cover_position": 0.8137,
+          "social_media_image_preview_url": "attachment:48a41782-79c9-4c05-ba30-d07b9906cec8:SocialMediaPreviewImage.png"
+        },
+        "content": [
+          "1ac3b07c-81ff-8068-828b-fec9cdc96765",
+          "1bc3b07c-81ff-8027-b36b-fe45e7913081",
+          "25e3b07c-81ff-80ea-a0bb-dafec40f099c",
+          "1bc3b07c-81ff-8035-a07b-fd6768f2ea47",
+          "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+          "1ac3b07c-81ff-806b-954d-e374dd80aaa6",
+          "25e3b07c-81ff-8029-8c34-f5c8da01f230",
+          "1b83b07c-81ff-80c4-b3ef-e093616890e5",
+          "1dc3b07c-81ff-8073-b8f4-ee5a0a18b2e1",
+          "25e3b07c-81ff-807e-9816-e841c1e019fe",
+          "1cd3b07c-81ff-80c4-956d-c5234f085fe0",
+          "3173b07c-81ff-80b7-858b-d65c8bfee9d4",
+          "31a3b07c-81ff-8060-a854-e628d7af9d30",
+          "3173b07c-81ff-8069-9314-d86189c4435d"
+        ],
+        "parent_id": "a0dd7c4e-7ec8-4586-95da-f282fd0f7cba",
+        "parent_table": "collection",
+        "created_time": 1741118997345,
+        "last_edited_time": 1773062452938
+      }
+    },
+    "43c1134f-28b4-42d1-a716-f9fa638c9e50": {
+      "role": "none"
+    },
+    "1ad3b07c-81ff-80e6-b0a3-c1e8c0daf575": {
+      "role": "none"
+    },
+    "1c83b07c-81ff-8056-88e5-ca2c9a013cbf": {
+      "value": {
+        "id": "1c83b07c-81ff-8056-88e5-ca2c9a013cbf",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "YouTubeにストーリーをアップロードしているので、ゲームに興味はないけどストーリーを読みたい方は、"
+            ],
+            [
+              "こちら",
+              [
+                [
+                  "a",
+                  "https://www.youtube.com/playlist?list=PLkVIYO-uZg45fthqFM29tRF4lOMXAkaPM"
+                ]
+              ]
+            ],
+            [
+              "から読んでみてください。"
+            ]
+          ]
+        },
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1743508707589,
+        "last_edited_time": 1759941067633
+      }
+    },
+    "2863b07c-81ff-8080-9d16-d607cb683462": {
+      "value": {
+        "id": "2863b07c-81ff-8080-9d16-d607cb683462",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "自分でゲームをインストールしてプレイしたい方へ："
+            ]
+          ]
+        },
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1759939174767,
+        "last_edited_time": 1759939197305
+      }
+    },
+    "1c83b07c-81ff-80f9-b15a-eefa202a2efd": {
+      "value": {
+        "id": "1c83b07c-81ff-80f9-b15a-eefa202a2efd",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "崩壊学園のメインストーリーは主に（追想編）、新生編、崩壊学園編の３つがあり、今から崩壊学園を始める人には崩壊学園編から始めることをオススメします。理由としては"
+            ]
+          ]
+        },
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1743505132120,
+        "last_edited_time": 1745697053051
+      }
+    },
+    "1c83b07c-81ff-80aa-b97f-eea303b1243c": {
+      "value": {
+        "id": "1c83b07c-81ff-80aa-b97f-eea303b1243c",
+        "type": "bulleted_list",
+        "properties": {
+          "title": [
+            [
+              "キアナ達の物語は新生編にて一旦完結しています。崩壊学園編はその後の世界の物語（崩壊3rdの第二部に近い）であり、これまでとは別のライター様が担当されています。なので、ここから始めてもほとんどの内容は問題なく理解できます。"
+            ]
+          ]
+        },
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1743505451037,
+        "last_edited_time": 1759939231992
+      }
+    },
+    "1c83b07c-81ff-80f8-ab38-f78920627ad7": {
+      "value": {
+        "id": "1c83b07c-81ff-80f8-ab38-f78920627ad7",
+        "type": "bulleted_list",
+        "properties": {
+          "title": [
+            [
+              "追想編、新生編は現在では読めなくなっている物語も多く、また順番も整理されていないのでかなり読みにくいです。そしてすごく長いです。"
+            ]
+          ]
+        },
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1743505474234,
+        "last_edited_time": 1759939292303
+      }
+    },
+    "1c83b07c-81ff-8071-8c1a-d1b324981c6c": {
+      "value": {
+        "id": "1c83b07c-81ff-8071-8c1a-d1b324981c6c",
+        "type": "bulleted_list",
+        "properties": {
+          "title": [
+            [
+              "崩壊学園編は個人的には超超超面白いです。"
+            ]
+          ]
+        },
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1743505632627,
+        "last_edited_time": 1743505744775
+      }
+    },
+    "1c83b07c-81ff-8079-bf14-f274b3a882be": {
+      "value": {
+        "id": "1c83b07c-81ff-8079-bf14-f274b3a882be",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "そのため、まずは崩壊学園編から始めてみて、興味を持ったら過去の物語も読んでみるのがよいと思います。（少なくとも「街燃の詩」までは進めることをオススメします。）"
+            ]
+          ]
+        },
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1743505638883,
+        "last_edited_time": 1754585470159
+      }
+    },
+    "1ca3b07c-81ff-807a-9c0d-dbe6ce6aee4f": {
+      "value": {
+        "id": "1ca3b07c-81ff-807a-9c0d-dbe6ce6aee4f",
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "どれを読むか"
+            ]
+          ]
+        },
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1743693455064,
+        "last_edited_time": 1743694097001
+      }
+    },
+    "3173b07c-81ff-80c7-ba56-db93933776b0": {
+      "value": {
+        "id": "3173b07c-81ff-80c7-ba56-db93933776b0",
+        "type": "divider",
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1772473265278,
+        "last_edited_time": 1772473265924
+      }
+    },
+    "1c83b07c-81ff-80e7-abcc-e1b0298ef9aa": {
+      "value": {
+        "id": "1c83b07c-81ff-80e7-abcc-e1b0298ef9aa",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "崩壊学園編の物語にはメイン、サブ、限定の3種類があります。"
+            ]
+          ]
+        },
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1743508068059,
+        "last_edited_time": 1759939322156
+      }
+    },
+    "1ca3b07c-81ff-8035-bc88-d6048b9b4fae": {
+      "value": {
+        "id": "1ca3b07c-81ff-8035-bc88-d6048b9b4fae",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "メインは本編であり、全部重要です。"
+            ]
+          ]
+        },
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1743693581689,
+        "last_edited_time": 1745697156019
+      }
+    },
+    "1ca3b07c-81ff-80bf-b081-f10cc6bfa1a9": {
+      "value": {
+        "id": "1ca3b07c-81ff-80bf-b081-f10cc6bfa1a9",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "サブは読んでいなくてもメインの内容の7割程度は理解できるようになっていますが、物語の背景などを知るには読んでおくべきです。"
+            ]
+          ]
+        },
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1743693580063,
+        "last_edited_time": 1745697197318
+      }
+    },
+    "1c83b07c-81ff-807a-a7d5-d98a720d226b": {
+      "value": {
+        "id": "1c83b07c-81ff-807a-a7d5-d98a720d226b",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "限定は日常系であり読まなくても支障はほぼありませんが、物語が好きな方はぜひ読んでみてください。"
+            ]
+          ]
+        },
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1743508117612,
+        "last_edited_time": 1759939326748
+      }
+    },
+    "1ca3b07c-81ff-801d-bb33-faeb1ad9a94e": {
+      "value": {
+        "id": "1ca3b07c-81ff-801d-bb33-faeb1ad9a94e",
+        "type": "bulleted_list",
+        "properties": {
+          "title": [
+            [
+              "とりあえずどんな感じなのか知りたい方はメインのみ"
+            ]
+          ]
+        },
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1743693996153,
+        "last_edited_time": 1743694023107
+      }
+    },
+    "1ca3b07c-81ff-8025-a1c4-e4f18037cdd2": {
+      "value": {
+        "id": "1ca3b07c-81ff-8025-a1c4-e4f18037cdd2",
+        "type": "bulleted_list",
+        "properties": {
+          "title": [
+            [
+              "普通に読みたい人はメインとサブ"
+            ]
+          ]
+        },
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1743694040599,
+        "last_edited_time": 1743694080165
+      }
+    },
+    "1ca3b07c-81ff-8093-bc59-df89656edc73": {
+      "value": {
+        "id": "1ca3b07c-81ff-8093-bc59-df89656edc73",
+        "type": "bulleted_list",
+        "properties": {
+          "title": [
+            [
+              "じっくりと細部まで理解したい方は全て"
+            ]
+          ]
+        },
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1743694080162,
+        "last_edited_time": 1743694084152
+      }
+    },
+    "1ca3b07c-81ff-8009-bebb-e0ff4a31a94e": {
+      "value": {
+        "id": "1ca3b07c-81ff-8009-bebb-e0ff4a31a94e",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "という感じで読むのがオススメです。"
+            ]
+          ]
+        },
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1743694114744,
+        "last_edited_time": 1743694123189
+      }
+    },
+    "1c83b07c-81ff-8091-9acc-f9531dac1c00": {
+      "value": {
+        "id": "1c83b07c-81ff-8091-9acc-f9531dac1c00",
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "ストーリーの開放"
+            ]
+          ]
+        },
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1743506870628,
+        "last_edited_time": 1759939378514
+      }
+    },
+    "3173b07c-81ff-804e-9e19-f2df2656eeed": {
+      "value": {
+        "id": "3173b07c-81ff-804e-9e19-f2df2656eeed",
+        "type": "divider",
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1772473277245,
+        "last_edited_time": 1772473277897
+      }
+    },
+    "1c83b07c-81ff-8095-97e7-f9d5eab8e3f8": {
+      "value": {
+        "id": "1c83b07c-81ff-8095-97e7-f9d5eab8e3f8",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "崩壊学園編を開放するには、新生編の2-8をクリアする必要があります。"
+            ]
+          ]
+        },
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1743506876638,
+        "last_edited_time": 1743921564054
+      }
+    },
+    "1c83b07c-81ff-8080-91ed-c278a5648856": {
+      "value": {
+        "id": "1c83b07c-81ff-8080-91ed-c278a5648856",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "ストーリーはスキップ可能で後からいつでも見返すことができるため、とりあえずスキップしてR2-8をクリアしましょう。"
+            ]
+          ]
+        },
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1743506889265,
+        "last_edited_time": 1743921564054
+      }
+    },
+    "1c83b07c-81ff-80ce-b2b2-fda7248ff581": {
+      "value": {
+        "id": "1c83b07c-81ff-80ce-b2b2-fda7248ff581",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "過去にストーリーがクリアできずに挫折した方もいるかもしれませんが、最近のアップデートにて無料で無限復活ができるようになったので、難易度の問題は気にする必要はありません。"
+            ]
+          ]
+        },
+        "parent_id": "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+        "parent_table": "block",
+        "created_time": 1743506865910,
+        "last_edited_time": 1754585578953
+      }
+    }
+  },
+  "collection": {
+    "a0dd7c4e-7ec8-4586-95da-f282fd0f7cba": {
+      "role": "none"
+    }
+  },
+  "collection_view": {
+    "5531d29a-4e77-406f-a1fc-32cd5bbafec7": {
+      "role": "none"
+    },
+    "5dd8ee8a-3d52-42e6-b781-ac5db580f283": {
+      "role": "none"
+    },
+    "401ba18e-ee37-450f-b369-015c2957f5d4": {
+      "role": "none"
+    },
+    "5961b724-b949-48b2-aef2-d5c03eacd1d8": {
+      "role": "none"
+    },
+    "1ad3b07c-81ff-8037-9574-000c12eb1c9d": {
+      "role": "none"
+    }
+  },
+  "collection_query": {}
+}

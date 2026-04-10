@@ -1,0 +1,1753 @@
+{
+  "block": {
+    "1b83b07c-81ff-8055-840c-c6c2fc35ca5a": {
+      "value": {
+        "id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "type": "page",
+        "properties": {
+          "title": [
+            [
+              "今思えば"
+            ]
+          ]
+        },
+        "format": {
+          "slug": "imaomoeba",
+          "page_cover": "attachment:debb00d8-78e9-4e53-9eaa-26a55cce6b14:スクリーンショット_2025-03-17_061318.png",
+          "page_cover_position": 0.2367
+        },
+        "content": [
+          "1eb3b07c-81ff-80e9-bfe5-dd42855fd0c1",
+          "1c53b07c-81ff-806a-b5c4-f48b09c06723",
+          "1c53b07c-81ff-800e-993a-c791daca5a3b",
+          "1c53b07c-81ff-801f-9904-dee829bcab53",
+          "1c53b07c-81ff-8001-97c0-d3f691d22790",
+          "1c53b07c-81ff-8031-b533-c731d427e169",
+          "1c53b07c-81ff-809e-a0a5-c625f0f7c306",
+          "1c53b07c-81ff-80ba-9af5-ff6dc432e46c",
+          "1c53b07c-81ff-8036-ad36-cef4bfd0a097",
+          "1c53b07c-81ff-80fa-8da5-c9070bda6c17",
+          "1bc3b07c-81ff-80ff-b783-cbf7ddf37407",
+          "1c53b07c-81ff-8029-ae8e-fdd423aecc7d",
+          "2823b07c-81ff-8033-a6b4-fe90876dee70",
+          "2823b07c-81ff-80b2-9750-ea3286eb17ee",
+          "2823b07c-81ff-80ac-87d3-de5992fa9faf",
+          "2823b07c-81ff-8065-98ff-d9f8d31f5d55",
+          "2823b07c-81ff-80d2-aecd-cc87378545b0",
+          "2823b07c-81ff-8034-b91a-d8dc1c152706",
+          "1bc3b07c-81ff-8041-b856-cb93bc25539b",
+          "1c53b07c-81ff-80b9-aca1-f8e673840935",
+          "1c53b07c-81ff-80dd-97ef-f0bc3e92de08",
+          "1c53b07c-81ff-8060-8515-caf706d82ca6",
+          "1c53b07c-81ff-802d-a57a-dbc3d87f354c",
+          "1c53b07c-81ff-8095-8ea4-f920829dbf2b",
+          "1c53b07c-81ff-8047-8a99-db7ee55b4147",
+          "1c53b07c-81ff-8086-8221-f56c123748a0",
+          "1bc3b07c-81ff-8047-84fc-c00dae15b3a7",
+          "2553b07c-81ff-80e4-b9fb-df3d6cbdb781",
+          "1c53b07c-81ff-807e-a6a5-ec227bad6933",
+          "1c53b07c-81ff-80ee-aed5-c88ad86c7f30",
+          "1c53b07c-81ff-80f0-94a9-fdb4f2b4f2bc",
+          "1c53b07c-81ff-8039-a079-f02989b8140b",
+          "1c53b07c-81ff-8058-8fcf-fc3db94c82ab"
+        ],
+        "parent_id": "2a03b07c-81ff-809f-842f-e5b1bd2b5351",
+        "parent_table": "block",
+        "created_time": 1742159482202,
+        "last_edited_time": 1764427759882
+      }
+    },
+    "2a03b07c-81ff-809f-842f-e5b1bd2b5351": {
+      "value": {
+        "id": "2a03b07c-81ff-809f-842f-e5b1bd2b5351",
+        "type": "page",
+        "properties": {
+          "qhFA": [
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1ac3b07c-81ff-8089-98b4-ec9f8c06db35",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ]
+          ],
+          "title": [
+            [
+              "その他考察"
+            ]
+          ],
+          "84d957e0-e0fe-4c76-8e91-ebfb7263668c": [
+            [
+              "lore-others"
+            ]
+          ]
+        },
+        "format": {
+          "social_media_image_preview_url": "attachment:d8525e73-44e3-4726-b57e-0ace33bc21f2:SocialMediaPreviewImage.png"
+        },
+        "content": [
+          "2a03b07c-81ff-80b7-bad5-ce92fb63f854",
+          "2a03b07c-81ff-8065-9b96-dcc1f78480fe",
+          "2a03b07c-81ff-80a6-9bcd-f1aa3b45ec7d",
+          "1b63b07c-81ff-80a0-a0ff-f9031b89e7c7",
+          "2923b07c-81ff-809c-8087-d92611f42803",
+          "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+          "1b63b07c-81ff-80a4-a47a-c01325dd88ba",
+          "2ba3b07c-81ff-8021-a59e-e48ae9916ca4"
+        ],
+        "parent_id": "3173b07c-81ff-809e-a594-000b9646f894",
+        "parent_table": "collection",
+        "created_time": 1762139217735,
+        "last_edited_time": 1772477533672
+      }
+    },
+    "3173b07c-81ff-80a3-a81d-f72aaeedf189": {
+      "value": {
+        "id": "3173b07c-81ff-80a3-a81d-f72aaeedf189",
+        "type": "collection_view",
+        "format": {
+          "collection_pointer": {
+            "id": "3173b07c-81ff-809e-a594-000b9646f894",
+            "table": "collection",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "collection_pointers": [
+            {
+              "id": "3173b07c-81ff-809e-a594-000b9646f894",
+              "table": "collection",
+              "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+            }
+          ],
+          "hide_inline_collection_name": true
+        },
+        "parent_id": "1ac3b07c-81ff-8089-98b4-ec9f8c06db35",
+        "parent_table": "block",
+        "collection_id": "3173b07c-81ff-809e-a594-000b9646f894",
+        "view_ids": [
+          "3173b07c-81ff-803b-b875-000c0c402b37"
+        ],
+        "created_time": 1772477478520,
+        "last_edited_time": 1772477546428
+      }
+    },
+    "1ac3b07c-81ff-8089-98b4-ec9f8c06db35": {
+      "value": {
+        "id": "1ac3b07c-81ff-8089-98b4-ec9f8c06db35",
+        "type": "page",
+        "properties": {
+          "FE|;": [
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1ad3b07c-81ff-80af-8fa1-dba5dde1db0d",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "2833b07c-81ff-802a-b26c-c5fec1d872bf",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ],
+            [
+              ","
+            ],
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "2a03b07c-81ff-809f-842f-e5b1bd2b5351",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ]
+          ],
+          "t~Sf": [
+            [
+              "lore"
+            ]
+          ],
+          "title": [
+            [
+              "考察"
+            ]
+          ]
+        },
+        "format": {
+          "slug": "analysis",
+          "page_cover": "attachment:2f875b07-83d3-4464-ad09-ac674afffc97:2024-11-08_14-25-53.mp4_snapshot_03.48_2025.03.05_00.16.37.jpg",
+          "page_full_width": true,
+          "page_cover_position": 0.6632,
+          "social_media_image_preview_url": "attachment:8df55a7c-dc11-421a-ad46-8e12905aa7f2:SocialMediaPreviewImage.png"
+        },
+        "content": [
+          "3173b07c-81ff-80a3-a81d-f72aaeedf189",
+          "3173b07c-81ff-80df-85fd-c4c8281ab663"
+        ],
+        "parent_id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
+        "parent_table": "collection",
+        "created_time": 1741119050032,
+        "last_edited_time": 1772477539816
+      }
+    },
+    "1ac3b07c-81ff-8068-828b-fec9cdc96765": {
+      "value": {
+        "id": "1ac3b07c-81ff-8068-828b-fec9cdc96765",
+        "type": "collection_view",
+        "format": {
+          "collection_pointer": {
+            "id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
+            "table": "collection",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "page_cover_position": 0.5,
+          "social_media_image_preview_url": "attachment:fb48497c-047a-4a51-8d55-ff2f2a45c136:SocialMediaPreviewImage.png"
+        },
+        "parent_id": "1ac3b07c-81ff-80d1-84a1-f564abe7fef3",
+        "parent_table": "block",
+        "collection_id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
+        "view_ids": [
+          "1ac3b07c-81ff-80ee-821a-000cec78a24c"
+        ],
+        "created_time": 1741119010204,
+        "last_edited_time": 1773029610624
+      }
+    },
+    "1ac3b07c-81ff-80d1-84a1-f564abe7fef3": {
+      "value": {
+        "id": "1ac3b07c-81ff-80d1-84a1-f564abe7fef3",
+        "type": "page",
+        "properties": {
+          "mgJK": [
+            [
+              "‣",
+              [
+                [
+                  "p",
+                  "1b9a2d41-3d52-470d-b4eb-79f20192b22b",
+                  "f25e8375-dff8-499a-b7bf-74566e1055df"
+                ]
+              ]
+            ]
+          ],
+          "title": [
+            [
+              "崩壊学園編 Wiki"
+            ]
+          ]
+        },
+        "format": {
+          "site_id": "2573b07c-81ff-80ed-96cb-007912ddb61b",
+          "seo_title": "崩壊学園編　ストーリー　Wiki | Notion",
+          "page_cover": "attachment:d4c78f4a-1872-4d8a-836f-48abb3027e69:760ca1e5gy1hi33odeetvj21z4140u03.jpg",
+          "block_locked": false,
+          "block_locked_by": "4e3acacc-a0e3-4eec-9056-a8f06db6234a",
+          "page_full_width": true,
+          "seo_description": "このサイトについて",
+          "copied_from_pointer": {
+            "id": "f1552fed-37eb-4430-a72c-2b7e492693fe",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "page_cover_position": 0.8137,
+          "social_media_image_preview_url": "attachment:48a41782-79c9-4c05-ba30-d07b9906cec8:SocialMediaPreviewImage.png"
+        },
+        "content": [
+          "1ac3b07c-81ff-8068-828b-fec9cdc96765",
+          "1bc3b07c-81ff-8027-b36b-fe45e7913081",
+          "25e3b07c-81ff-80ea-a0bb-dafec40f099c",
+          "1bc3b07c-81ff-8035-a07b-fd6768f2ea47",
+          "1c83b07c-81ff-8013-861e-e033d11cfdb9",
+          "1ac3b07c-81ff-806b-954d-e374dd80aaa6",
+          "25e3b07c-81ff-8029-8c34-f5c8da01f230",
+          "1b83b07c-81ff-80c4-b3ef-e093616890e5",
+          "1dc3b07c-81ff-8073-b8f4-ee5a0a18b2e1",
+          "25e3b07c-81ff-807e-9816-e841c1e019fe",
+          "1cd3b07c-81ff-80c4-956d-c5234f085fe0",
+          "3173b07c-81ff-80b7-858b-d65c8bfee9d4",
+          "31a3b07c-81ff-8060-a854-e628d7af9d30",
+          "3173b07c-81ff-8069-9314-d86189c4435d"
+        ],
+        "parent_id": "a0dd7c4e-7ec8-4586-95da-f282fd0f7cba",
+        "parent_table": "collection",
+        "created_time": 1741118997345,
+        "last_edited_time": 1773062452938
+      }
+    },
+    "43c1134f-28b4-42d1-a716-f9fa638c9e50": {
+      "role": "none"
+    },
+    "1ad3b07c-81ff-80e6-b0a3-c1e8c0daf575": {
+      "role": "none"
+    },
+    "1eb3b07c-81ff-80e9-bfe5-dd42855fd0c1": {
+      "value": {
+        "id": "1eb3b07c-81ff-80e9-bfe5-dd42855fd0c1",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "考察というかメモ"
+            ]
+          ]
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1746538109745,
+        "last_edited_time": 1764427767778
+      }
+    },
+    "1c53b07c-81ff-806a-b5c4-f48b09c06723": {
+      "value": {
+        "id": "1c53b07c-81ff-806a-b5c4-f48b09c06723",
+        "type": "sub_header",
+        "properties": {
+          "title": [
+            [
+              "気になる"
+            ]
+          ]
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743225812500,
+        "last_edited_time": 1743227406702
+      }
+    },
+    "1c53b07c-81ff-800e-993a-c791daca5a3b": {
+      "value": {
+        "id": "1c53b07c-81ff-800e-993a-c791daca5a3b",
+        "type": "divider",
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743228044082,
+        "last_edited_time": 1743228044563
+      }
+    },
+    "1c53b07c-81ff-801f-9904-dee829bcab53": {
+      "value": {
+        "id": "1c53b07c-81ff-801f-9904-dee829bcab53",
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "地震"
+            ]
+          ]
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743227407171,
+        "last_edited_time": 1743227408909
+      }
+    },
+    "1c53b07c-81ff-8001-97c0-d3f691d22790": {
+      "value": {
+        "id": "1c53b07c-81ff-8001-97c0-d3f691d22790",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "「先日より世界各地で頻繁に発生している地震や津波について、専門家はなんらかの新しい地質活動の前兆ではないかと指摘しています……。」"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743226586106,
+        "last_edited_time": 1743227516478
+      }
+    },
+    "1c53b07c-81ff-8031-b533-c731d427e169": {
+      "value": {
+        "id": "1c53b07c-81ff-8031-b533-c731d427e169",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "司徒箐泓：地震だな。\nだがそれほど強くはない。特に問題ないはずだ。"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "content": [
+          "1c53b07c-81ff-8071-8702-fd05d613b9d5",
+          "1c53b07c-81ff-80a9-ac0a-ed856d1aa10c"
+        ],
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743225816782,
+        "last_edited_time": 1743227515636
+      }
+    },
+    "1c53b07c-81ff-809e-a0a5-c625f0f7c306": {
+      "value": {
+        "id": "1c53b07c-81ff-809e-a0a5-c625f0f7c306",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "地震。銃火器訓練では、以下のような記述がある。"
+            ]
+          ]
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743225936595,
+        "last_edited_time": 1743227180682
+      }
+    },
+    "1c53b07c-81ff-80ba-9af5-ff6dc432e46c": {
+      "value": {
+        "id": "1c53b07c-81ff-80ba-9af5-ff6dc432e46c",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "近い将来、ただのパワーストーン詐欺だったものが「大陸棚振動装置」という巨大なウソと化してしまう。そして最終的に必要のなかった世界大戦が引き起こされてしまうことになる。"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743225936780,
+        "last_edited_time": 1743227514061
+      }
+    },
+    "1c53b07c-81ff-8036-ad36-cef4bfd0a097": {
+      "value": {
+        "id": "1c53b07c-81ff-8036-ad36-cef4bfd0a097",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "本当に単なる地殻活動だったのか。"
+            ]
+          ]
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743227158987,
+        "last_edited_time": 1743227391488
+      }
+    },
+    "1c53b07c-81ff-80fa-8da5-c9070bda6c17": {
+      "value": {
+        "id": "1c53b07c-81ff-80fa-8da5-c9070bda6c17",
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "タイトル"
+            ]
+          ]
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743228265946,
+        "last_edited_time": 1743232870173
+      }
+    },
+    "1bc3b07c-81ff-80ff-b783-cbf7ddf37407": {
+      "value": {
+        "id": "1bc3b07c-81ff-80ff-b783-cbf7ddf37407",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "一話のタイトル：九天の上"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "content": [
+          "1c53b07c-81ff-807f-8ef2-c2e1994ecb44"
+        ],
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1742512290225,
+        "last_edited_time": 1743234798333
+      }
+    },
+    "1c53b07c-81ff-8029-ae8e-fdd423aecc7d": {
+      "value": {
+        "id": "1c53b07c-81ff-8029-ae8e-fdd423aecc7d",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "九霄と一夏の物語"
+            ]
+          ]
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743228501669,
+        "last_edited_time": 1743232870173
+      }
+    },
+    "2823b07c-81ff-8033-a6b4-fe90876dee70": {
+      "value": {
+        "id": "2823b07c-81ff-8033-a6b4-fe90876dee70",
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "落ちる"
+            ]
+          ]
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1759558955409,
+        "last_edited_time": 1759558958950
+      }
+    },
+    "2823b07c-81ff-80b2-9750-ea3286eb17ee": {
+      "value": {
+        "id": "2823b07c-81ff-80b2-9750-ea3286eb17ee",
+        "type": "divider",
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1759558959218,
+        "last_edited_time": 1759558960143
+      }
+    },
+    "2823b07c-81ff-80ac-87d3-de5992fa9faf": {
+      "value": {
+        "id": "2823b07c-81ff-80ac-87d3-de5992fa9faf",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "息が詰まる、息が詰まる……。"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background",
+          "copied_from_pointer": {
+            "id": "27f3b07c-81ff-8078-a9a9-ea8bfc181070",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "content": [
+          "2823b07c-81ff-80a7-a5ca-d769287b3750",
+          "2823b07c-81ff-802c-b67d-c0d1603ae44f"
+        ],
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1759558953358,
+        "last_edited_time": 1759558953379
+      }
+    },
+    "2823b07c-81ff-8065-98ff-d9f8d31f5d55": {
+      "value": {
+        "id": "2823b07c-81ff-8065-98ff-d9f8d31f5d55",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "「ガタン――」"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background",
+          "copied_from_pointer": {
+            "id": "27f3b07c-81ff-80a8-b24a-fa648406563b",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "content": [
+          "2823b07c-81ff-80d7-9d37-f74fa6c8b081",
+          "2823b07c-81ff-806a-b040-f1c5ee9a4e0a",
+          "2823b07c-81ff-8024-8534-e11982d497ac",
+          "2823b07c-81ff-8031-abcc-e12419a91e08"
+        ],
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1759558953368,
+        "last_edited_time": 1759558953379
+      }
+    },
+    "2823b07c-81ff-80d2-aecd-cc87378545b0": {
+      "value": {
+        "id": "2823b07c-81ff-80d2-aecd-cc87378545b0",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "そして彼女は階段の上から転がり落ちた。"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background",
+          "copied_from_pointer": {
+            "id": "27f3b07c-81ff-80be-85c3-db103da6d232",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "content": [
+          "2823b07c-81ff-801f-bb46-e4178d326ec3",
+          "2823b07c-81ff-802c-ad3a-ea255239de61"
+        ],
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1759558953373,
+        "last_edited_time": 1759558953379
+      }
+    },
+    "2823b07c-81ff-8034-b91a-d8dc1c152706": {
+      "value": {
+        "id": "2823b07c-81ff-8034-b91a-d8dc1c152706",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "三度の落ちていく描写"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "27f3b07c-81ff-8068-abab-e5fd02ead0d5",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1759558953375,
+        "last_edited_time": 1759558953379
+      }
+    },
+    "1bc3b07c-81ff-8041-b856-cb93bc25539b": {
+      "value": {
+        "id": "1bc3b07c-81ff-8041-b856-cb93bc25539b",
+        "type": "sub_header",
+        "properties": {
+          "title": [
+            [
+              "伏線"
+            ]
+          ]
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1742506807398,
+        "last_edited_time": 1743227413086
+      }
+    },
+    "1c53b07c-81ff-80b9-aca1-f8e673840935": {
+      "value": {
+        "id": "1c53b07c-81ff-80b9-aca1-f8e673840935",
+        "type": "divider",
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743228040355,
+        "last_edited_time": 1743228040925
+      }
+    },
+    "1c53b07c-81ff-80dd-97ef-f0bc3e92de08": {
+      "value": {
+        "id": "1c53b07c-81ff-80dd-97ef-f0bc3e92de08",
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "諜報員"
+            ]
+          ]
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743228034443,
+        "last_edited_time": 1743228036699
+      }
+    },
+    "1c53b07c-81ff-8060-8515-caf706d82ca6": {
+      "value": {
+        "id": "1c53b07c-81ff-8060-8515-caf706d82ca6",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "慕寒音：はい、これ見て。私が昨日おすすめって言ってた占いサイト——"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "content": [
+          "1c53b07c-81ff-8032-a0f2-f1176d1d10d7",
+          "1c53b07c-81ff-80a1-aa57-fd249d8323bd",
+          "1c53b07c-81ff-80ee-8adb-f5d4242f933f",
+          "1c53b07c-81ff-800a-bb5c-c3f39d69493d"
+        ],
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743226049612,
+        "last_edited_time": 1743227510853
+      }
+    },
+    "1c53b07c-81ff-802d-a57a-dbc3d87f354c": {
+      "value": {
+        "id": "1c53b07c-81ff-802d-a57a-dbc3d87f354c",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "……ああ、この前のあれね？彼とはもうおしまいにしたの——あの人、いかにもできそうなふりをしてたけど、こっそり調べてみたら家は賃貸で、車もレンタルだったんだもの。\nどう、あなたの相棒なんだから私もなかなかやるでしょう。こういう"
+            ],
+            [
+              "スパイ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "活動の能力とかさ〜。"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743226534967,
+        "last_edited_time": 1743227509085
+      }
+    },
+    "1c53b07c-81ff-8095-8ea4-f920829dbf2b": {
+      "value": {
+        "id": "1c53b07c-81ff-8095-8ea4-f920829dbf2b",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "もちろん知ってるわよ……受付って色々と情報が集まってくるからさ。"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743226561684,
+        "last_edited_time": 1755718849540
+      }
+    },
+    "1c53b07c-81ff-8047-8a99-db7ee55b4147": {
+      "value": {
+        "id": "1c53b07c-81ff-8047-8a99-db7ee55b4147",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "慕寒音が諜報員だったことの伏線や、昔征きし時への伏線。"
+            ]
+          ]
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743227456179,
+        "last_edited_time": 1743227488568
+      }
+    },
+    "1c53b07c-81ff-8071-8702-fd05d613b9d5": {
+      "value": {
+        "id": "1c53b07c-81ff-8071-8702-fd05d613b9d5",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "九霄：ああ、そう言えば数日前のニュースで、最近地震や津波が多いと言っていたな。確か地質活動に関係しているとか……。\n—— これってまさか崩壊に関係あるのか？"
+            ]
+          ]
+        },
+        "parent_id": "1c53b07c-81ff-8031-b533-c731d427e169",
+        "parent_table": "block",
+        "created_time": 1743225966132,
+        "last_edited_time": 1743225972272
+      }
+    },
+    "1c53b07c-81ff-80a9-ac0a-ed856d1aa10c": {
+      "value": {
+        "id": "1c53b07c-81ff-80a9-ac0a-ed856d1aa10c",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "フェミリス：大丈夫ですよ～。フェミリスが各地の監視リソースを使って確認しましたが、崩壊エネルギーの痕跡は見つかりませんでした。単なる地殻活動だと思います。"
+            ]
+          ]
+        },
+        "parent_id": "1c53b07c-81ff-8031-b533-c731d427e169",
+        "parent_table": "block",
+        "created_time": 1743225972269,
+        "last_edited_time": 1743225972272
+      }
+    },
+    "1c53b07c-81ff-807f-8ef2-c2e1994ecb44": {
+      "value": {
+        "id": "1c53b07c-81ff-807f-8ef2-c2e1994ecb44",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "最終話のタイトル：一日の花"
+            ]
+          ]
+        },
+        "parent_id": "1bc3b07c-81ff-80ff-b783-cbf7ddf37407",
+        "parent_table": "block",
+        "created_time": 1743229204125,
+        "last_edited_time": 1743229204756
+      }
+    },
+    "2823b07c-81ff-80a7-a5ca-d769287b3750": {
+      "value": {
+        "id": "2823b07c-81ff-80a7-a5ca-d769287b3750",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "息が詰まる……めまいがし、バランスを失い、酸素が足りず、落ちていく。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "27f3b07c-81ff-80b6-8c85-c11d44ec3d0f",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "2823b07c-81ff-80ac-87d3-de5992fa9faf",
+        "parent_table": "block",
+        "created_time": 1759558953358,
+        "last_edited_time": 1759558953379
+      }
+    },
+    "2823b07c-81ff-802c-b67d-c0d1603ae44f": {
+      "value": {
+        "id": "2823b07c-81ff-802c-b67d-c0d1603ae44f",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "落ちて、落ちて、落ちていく。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "27f3b07c-81ff-80df-ac10-c3dce858f6ac",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "2823b07c-81ff-80ac-87d3-de5992fa9faf",
+        "parent_table": "block",
+        "created_time": 1759558953358,
+        "last_edited_time": 1759558953379
+      }
+    },
+    "2823b07c-81ff-80d7-9d37-f74fa6c8b081": {
+      "value": {
+        "id": "2823b07c-81ff-80d7-9d37-f74fa6c8b081",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "落ちていく。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "27f3b07c-81ff-802f-b5ca-e08720fa0f26",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "2823b07c-81ff-8065-98ff-d9f8d31f5d55",
+        "parent_table": "block",
+        "created_time": 1759558953368,
+        "last_edited_time": 1759558953379
+      }
+    },
+    "2823b07c-81ff-806a-b040-f1c5ee9a4e0a": {
+      "value": {
+        "id": "2823b07c-81ff-806a-b040-f1c5ee9a4e0a",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "エレベーターが落ちていく。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "27f3b07c-81ff-8037-a332-c8313175f9a6",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "2823b07c-81ff-8065-98ff-d9f8d31f5d55",
+        "parent_table": "block",
+        "created_time": 1759558953368,
+        "last_edited_time": 1759558953379
+      }
+    },
+    "2823b07c-81ff-8024-8534-e11982d497ac": {
+      "value": {
+        "id": "2823b07c-81ff-8024-8534-e11982d497ac",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "鉄師一夏も落ちていった。14歳の彼女と共に。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "27f3b07c-81ff-809d-8cf0-f463e2d928dc",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "2823b07c-81ff-8065-98ff-d9f8d31f5d55",
+        "parent_table": "block",
+        "created_time": 1759558953368,
+        "last_edited_time": 1759558953379
+      }
+    },
+    "2823b07c-81ff-8031-abcc-e12419a91e08": {
+      "value": {
+        "id": "2823b07c-81ff-8031-abcc-e12419a91e08",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "翼のない鉄師一夏が得られたのは、結局落ちることだけだった。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "27f3b07c-81ff-806b-b2de-eee9345b41b2",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "2823b07c-81ff-8065-98ff-d9f8d31f5d55",
+        "parent_table": "block",
+        "created_time": 1759558953369,
+        "last_edited_time": 1759558953379
+      }
+    },
+    "2823b07c-81ff-801f-bb46-e4178d326ec3": {
+      "value": {
+        "id": "2823b07c-81ff-801f-bb46-e4178d326ec3",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "固い床に激しくぶつかり、床の冷たさと痛みを感じた。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "2823b07c-81ff-8009-8d66-f30d13f414eb",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "2823b07c-81ff-80d2-aecd-cc87378545b0",
+        "parent_table": "block",
+        "created_time": 1759558953373,
+        "last_edited_time": 1759558953379
+      }
+    },
+    "2823b07c-81ff-802c-ad3a-ea255239de61": {
+      "value": {
+        "id": "2823b07c-81ff-802c-ad3a-ea255239de61",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "それでも止まることなく転がり落ちていく。"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "2823b07c-81ff-8069-9053-f8c1f29119e3",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          }
+        },
+        "parent_id": "2823b07c-81ff-80d2-aecd-cc87378545b0",
+        "parent_table": "block",
+        "created_time": 1759558953373,
+        "last_edited_time": 1759558953379
+      }
+    },
+    "1c53b07c-81ff-8032-a0f2-f1176d1d10d7": {
+      "value": {
+        "id": "1c53b07c-81ff-8032-a0f2-f1176d1d10d7",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "鉄師一夏：…… 「四万年前の自分が誰だったのか占い」？"
+            ]
+          ]
+        },
+        "parent_id": "1c53b07c-81ff-8060-8515-caf706d82ca6",
+        "parent_table": "block",
+        "created_time": 1743226051732,
+        "last_edited_time": 1743226066063
+      }
+    },
+    "1c53b07c-81ff-80a1-aa57-fd249d8323bd": {
+      "value": {
+        "id": "1c53b07c-81ff-80a1-aa57-fd249d8323bd",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "慕寒音：説明によると聖痕の技術や崩壊エネルギー、気功、それに磁場まで活用してて、すごく当たるらしいのよ！"
+            ]
+          ]
+        },
+        "parent_id": "1c53b07c-81ff-8060-8515-caf706d82ca6",
+        "parent_table": "block",
+        "created_time": 1743226051732,
+        "last_edited_time": 1743226098501
+      }
+    },
+    "1c53b07c-81ff-80ee-8adb-f5d4242f933f": {
+      "value": {
+        "id": "1c53b07c-81ff-80ee-8adb-f5d4242f933f",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "「ええっ、これが四万年前のあなたなの！？」\n「四万年前、少女を救うためにひとり突撃していった流浪の剣士——」"
+            ]
+          ]
+        },
+        "parent_id": "1c53b07c-81ff-8060-8515-caf706d82ca6",
+        "parent_table": "block",
+        "created_time": 1743226100294,
+        "last_edited_time": 1743226100299
+      }
+    },
+    "1c53b07c-81ff-800a-bb5c-c3f39d69493d": {
+      "value": {
+        "id": "1c53b07c-81ff-800a-bb5c-c3f39d69493d",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "慕寒音：あらあら、"
+            ],
+            [
+              "流浪の剣士",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "だって！一夏さんはやっぱりいつの時代も英雄なのね！でもなんで救う相手は少女なのかしら。かっこいいお兄さんとかだったらもっとよかったのにね……。\n実は私の結果もかなり変でね……それによると私は四万年前、諜報員だったらしいわ……あ〜あ、"
+            ],
+            [
+              "諜報員",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "かあ。一夏さんの相棒になるにはちょっと物足りないかなぁ……。"
+            ]
+          ]
+        },
+        "parent_id": "1c53b07c-81ff-8060-8515-caf706d82ca6",
+        "parent_table": "block",
+        "created_time": 1743226124233,
+        "last_edited_time": 1743227445598
+      }
+    },
+    "1c53b07c-81ff-8086-8221-f56c123748a0": {
+      "value": {
+        "id": "1c53b07c-81ff-8086-8221-f56c123748a0",
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "伝説の脇役"
+            ]
+          ]
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743228025107,
+        "last_edited_time": 1743228031456
+      }
+    },
+    "1bc3b07c-81ff-8047-84fc-c00dae15b3a7": {
+      "value": {
+        "id": "1bc3b07c-81ff-8047-84fc-c00dae15b3a7",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "つまりこの世界で、私は脇役を務める資格すらないんです。それはもう初めから決まっていたことなんです。"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1742512300652,
+        "last_edited_time": 1743227505214
+      }
+    },
+    "2553b07c-81ff-80e4-b9fb-df3d6cbdb781": {
+      "value": {
+        "id": "2553b07c-81ff-80e4-b9fb-df3d6cbdb781",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "【寒鉄】は確かに多くの作戦に参加してたみたいだな。でもどれもこれも中心的人物としてじゃなく、そばで見届けたような感じで、とにかく最重要人物じゃねえな。「伝説の脇役」なんて言われてたみたいだし。"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1755718839236,
+        "last_edited_time": 1755718843726
+      }
+    },
+    "1c53b07c-81ff-807e-a6a5-ec227bad6933": {
+      "value": {
+        "id": "1c53b07c-81ff-807e-a6a5-ec227bad6933",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "最終的に、寒鉄は「伝説の脇役」と呼ばれるようになる。"
+            ]
+          ]
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743226215297,
+        "last_edited_time": 1743227494622
+      }
+    },
+    "1c53b07c-81ff-80ee-aed5-c88ad86c7f30": {
+      "value": {
+        "id": "1c53b07c-81ff-80ee-aed5-c88ad86c7f30",
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "コールドスリープ"
+            ]
+          ]
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743228059410,
+        "last_edited_time": 1743228062006
+      }
+    },
+    "1c53b07c-81ff-80f0-94a9-fdb4f2b4f2bc": {
+      "value": {
+        "id": "1c53b07c-81ff-80f0-94a9-fdb4f2b4f2bc",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "昔往きし時"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "content": [
+          "2553b07c-81ff-8013-85c2-ccf811153df3",
+          "1c53b07c-81ff-80f7-adb9-fb87fdd42fad",
+          "1c53b07c-81ff-8081-919c-ee69d04f41b4",
+          "1c53b07c-81ff-80b1-b7bb-ddc3e5a5b65a",
+          "1c53b07c-81ff-80e6-a615-f725cd0d8fa3",
+          "1c53b07c-81ff-809d-85f9-ea02f264df96"
+        ],
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743228062938,
+        "last_edited_time": 1755718741467
+      }
+    },
+    "1c53b07c-81ff-8039-a079-f02989b8140b": {
+      "value": {
+        "id": "1c53b07c-81ff-8039-a079-f02989b8140b",
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "彼女は諜報員の中でも一際優秀で、氷の聖痕の持ち主でもあった。彼女の名は慕寒音。表向きは人契連本部の受付として、ひそかに私のために情報を集めていてくれていたんだ。\nあの日の夜、彼女は命令が出ていたわけでもないのに大暴れしてね。ただの受付ではないことが敵方に伝わってしまった。\nそして追跡と包囲を潜り抜けて人契連を脱出し、"
+            ],
+            [
+              "冷凍睡眠状態",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "の君を私のところに送り届けて——\n直後に力尽き、一言も言わずに死んでしまったよ。"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "gray_background"
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743228170306,
+        "last_edited_time": 1748693725418
+      }
+    },
+    "1c53b07c-81ff-8058-8fcf-fc3db94c82ab": {
+      "value": {
+        "id": "1c53b07c-81ff-8058-8fcf-fc3db94c82ab",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "最後に感じたのはおそらく慕寒音の氷の聖痕によるもの。\nそしてそれをカモフラージュする冷たさの描写。"
+            ]
+          ]
+        },
+        "parent_id": "1b83b07c-81ff-8055-840c-c6c2fc35ca5a",
+        "parent_table": "block",
+        "created_time": 1743228158578,
+        "last_edited_time": 1743229196869
+      }
+    },
+    "2553b07c-81ff-8013-85c2-ccf811153df3": {
+      "value": {
+        "id": "2553b07c-81ff-8013-85c2-ccf811153df3",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "階段の手すりに触れると、ヒヤリとする冷たさを感じた。\nそして鉄師一夏は、とある重大な事に気が付いた。"
+            ]
+          ]
+        },
+        "parent_id": "1c53b07c-81ff-80f0-94a9-fdb4f2b4f2bc",
+        "parent_table": "block",
+        "created_time": 1755718741086,
+        "last_edited_time": 1755718741467
+      }
+    },
+    "1c53b07c-81ff-80f7-adb9-fb87fdd42fad": {
+      "value": {
+        "id": "1c53b07c-81ff-80f7-adb9-fb87fdd42fad",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "固い床に激しくぶつかり、床の冷たさと痛みを感じた。"
+            ]
+          ]
+        },
+        "parent_id": "1c53b07c-81ff-80f0-94a9-fdb4f2b4f2bc",
+        "parent_table": "block",
+        "created_time": 1743228106580,
+        "last_edited_time": 1755718741467
+      }
+    },
+    "1c53b07c-81ff-8081-919c-ee69d04f41b4": {
+      "value": {
+        "id": "1c53b07c-81ff-8081-919c-ee69d04f41b4",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "胸が苦しくなり、骨が折れ、割け、冷たさを感じた。"
+            ]
+          ]
+        },
+        "parent_id": "1c53b07c-81ff-80f0-94a9-fdb4f2b4f2bc",
+        "parent_table": "block",
+        "created_time": 1743228119699,
+        "last_edited_time": 1755718741467
+      }
+    },
+    "1c53b07c-81ff-80b1-b7bb-ddc3e5a5b65a": {
+      "value": {
+        "id": "1c53b07c-81ff-80b1-b7bb-ddc3e5a5b65a",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "力を失い重さを感じ、痛みと冷たさを感じた。"
+            ]
+          ]
+        },
+        "parent_id": "1c53b07c-81ff-80f0-94a9-fdb4f2b4f2bc",
+        "parent_table": "block",
+        "created_time": 1743228132116,
+        "last_edited_time": 1755718741467
+      }
+    },
+    "1c53b07c-81ff-80e6-a615-f725cd0d8fa3": {
+      "value": {
+        "id": "1c53b07c-81ff-80e6-a615-f725cd0d8fa3",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "感覚がマヒし、混沌と暗黒を感じ、冷たさを感じた。"
+            ]
+          ]
+        },
+        "parent_id": "1c53b07c-81ff-80f0-94a9-fdb4f2b4f2bc",
+        "parent_table": "block",
+        "created_time": 1743228135908,
+        "last_edited_time": 1755718741467
+      }
+    },
+    "1c53b07c-81ff-809d-85f9-ea02f264df96": {
+      "value": {
+        "id": "1c53b07c-81ff-809d-85f9-ea02f264df96",
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "寒い。\nそして最後に……。\n鉄師一夏が感じることができるものは冷たさしかなくなってしまったのだった。"
+            ]
+          ]
+        },
+        "parent_id": "1c53b07c-81ff-80f0-94a9-fdb4f2b4f2bc",
+        "parent_table": "block",
+        "created_time": 1743228144885,
+        "last_edited_time": 1755718741467
+      }
+    }
+  },
+  "collection": {
+    "3173b07c-81ff-809e-a594-000b9646f894": {
+      "value": {
+        "id": "3173b07c-81ff-809e-a594-000b9646f894",
+        "version": 24,
+        "name": [
+          [
+            "考察"
+          ]
+        ],
+        "schema": {
+          "title": {
+            "name": "名前",
+            "type": "title"
+          },
+          "84d957e0-e0fe-4c76-8e91-ebfb7263668c": {
+            "name": "Slug",
+            "type": "text",
+            "description": ""
+          }
+        },
+        "parent_id": "3173b07c-81ff-80a3-a81d-f72aaeedf189",
+        "parent_table": "block",
+        "alive": true,
+        "migrated": true,
+        "space_id": "f25e8375-dff8-499a-b7bf-74566e1055df",
+        "created_time": 1772477478520,
+        "last_edited_time": 1772477533672,
+        "created_by_table": "notion_user",
+        "created_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a"
+      },
+      "role": "reader"
+    },
+    "1ac3b07c-81ff-8086-a96b-000b78a078f2": {
+      "value": {
+        "id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
+        "version": 48,
+        "name": [
+          [
+            "目次"
+          ]
+        ],
+        "schema": {
+          "`q`e": {
+            "name": "タグ",
+            "type": "multi_select"
+          },
+          "t~Sf": {
+            "name": "Slug",
+            "type": "text"
+          },
+          "vidt": {
+            "name": "作成日時",
+            "type": "created_time"
+          },
+          "title": {
+            "name": "名前",
+            "type": "title"
+          }
+        },
+        "format": {
+          "layout_pointer": {
+            "id": "1ac3b07c-81ff-80e0-9466-006e60a7ae40",
+            "table": "layout",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "property_visibility": [
+            {
+              "property": "vidt",
+              "visibility": "show"
+            },
+            {
+              "property": "`q`e",
+              "visibility": "show"
+            },
+            {
+              "property": "t~Sf",
+              "visibility": "show"
+            }
+          ],
+          "metadata_copied_from": {
+            "id": "1ac3b07c-81ff-8068-828b-fec9cdc96765",
+            "table": "block",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "ai_suggested_properties": [
+            {
+              "name": "説明",
+              "type": "text"
+            },
+            {
+              "name": "更新日時",
+              "type": "date"
+            },
+            {
+              "name": "担当者",
+              "type": "person"
+            },
+            {
+              "name": "優先度",
+              "type": "select",
+              "options": [
+                {
+                  "id": "Wegk",
+                  "color": "yellow",
+                  "value": "高"
+                },
+                {
+                  "id": ";HBU",
+                  "color": "purple",
+                  "value": "中"
+                },
+                {
+                  "id": "Zark",
+                  "color": "default",
+                  "value": "低"
+                }
+              ]
+            },
+            {
+              "name": "ステータス",
+              "type": "status"
+            },
+            {
+              "name": "関連ファイル",
+              "type": "file"
+            },
+            {
+              "name": "連絡先メール",
+              "type": "email"
+            },
+            {
+              "name": "連絡先電話番号",
+              "type": "phone_number"
+            },
+            {
+              "name": "カテゴリー",
+              "type": "multi_select",
+              "options": [
+                {
+                  "id": "o>B<",
+                  "color": "orange",
+                  "value": "技術"
+                },
+                {
+                  "id": "ksAA",
+                  "color": "pink",
+                  "value": "マーケティング"
+                },
+                {
+                  "id": "}yWP",
+                  "color": "brown",
+                  "value": "デザイン"
+                },
+                {
+                  "id": "lt{K",
+                  "color": "yellow",
+                  "value": "管理"
+                }
+              ]
+            },
+            {
+              "name": "予算",
+              "type": "number"
+            }
+          ],
+          "page_section_visibility": {
+            "comments": "section_hide",
+            "backlinks": "section_collapsed",
+            "margin_comments": "minimal"
+          },
+          "collection_cover_position": 0.7987,
+          "collection_page_properties": [
+            {
+              "visible": true,
+              "property": "vidt"
+            },
+            {
+              "visible": true,
+              "property": "`q`e"
+            }
+          ]
+        },
+        "parent_id": "1ac3b07c-81ff-8068-828b-fec9cdc96765",
+        "parent_table": "block",
+        "alive": true,
+        "file_ids": [
+          "4f9fcbb9-8c79-49e0-98bf-457ceee7859a"
+        ],
+        "migrated": true,
+        "space_id": "f25e8375-dff8-499a-b7bf-74566e1055df",
+        "deleted_schema": {
+          "FE|;": {
+            "name": "全項目",
+            "type": "relation",
+            "version": "v2",
+            "property": "qhFA",
+            "autoRelate": {
+              "enabled": false
+            },
+            "collection_id": "3173b07c-81ff-8097-a182-000bbb96d5ad",
+            "collection_pointer": {
+              "id": "3173b07c-81ff-8097-a182-000bbb96d5ad",
+              "table": "collection",
+              "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+            }
+          }
+        },
+        "created_time": 1741119010204,
+        "last_edited_time": 1772696876824,
+        "created_by_table": "notion_user",
+        "created_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a"
+      },
+      "role": "reader"
+    },
+    "a0dd7c4e-7ec8-4586-95da-f282fd0f7cba": {
+      "role": "none"
+    }
+  },
+  "collection_view": {
+    "3173b07c-81ff-803b-b875-000c0c402b37": {
+      "value": {
+        "id": "3173b07c-81ff-803b-b875-000c0c402b37",
+        "version": 23,
+        "type": "gallery",
+        "format": {
+          "table_wrap": true,
+          "gallery_cover": {
+            "type": "page_cover"
+          },
+          "show_page_icon": false,
+          "table_properties": [
+            {
+              "width": 280,
+              "visible": true,
+              "property": "title"
+            },
+            {
+              "visible": true,
+              "property": "Yvki"
+            }
+          ],
+          "collection_pointer": {
+            "id": "3173b07c-81ff-809e-a594-000b9646f894",
+            "table": "collection",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "gallery_cover_size": "medium",
+          "collection_peek_mode": "full_page",
+          "inline_collection_first_load_limit": {
+            "type": "load_limit",
+            "limit": 100
+          }
+        },
+        "parent_id": "3173b07c-81ff-80a3-a81d-f72aaeedf189",
+        "parent_table": "block",
+        "alive": true,
+        "page_sort": [
+          "1ad3b07c-81ff-80af-8fa1-dba5dde1db0d",
+          "2833b07c-81ff-802a-b26c-c5fec1d872bf",
+          "1b53b07c-81ff-8022-adb3-cef37daf21d4",
+          "2a03b07c-81ff-809f-842f-e5b1bd2b5351"
+        ],
+        "space_id": "f25e8375-dff8-499a-b7bf-74566e1055df",
+        "created_time": 1772477478525,
+        "last_edited_time": 1772477558848,
+        "created_by_table": "notion_user",
+        "created_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a"
+      },
+      "role": "reader"
+    },
+    "1ac3b07c-81ff-80ee-821a-000cec78a24c": {
+      "value": {
+        "id": "1ac3b07c-81ff-80ee-821a-000cec78a24c",
+        "version": 56,
+        "type": "gallery",
+        "name": "ギャラリービュー",
+        "format": {
+          "table_wrap": false,
+          "gallery_cover": {
+            "type": "page_cover"
+          },
+          "show_page_icon": false,
+          "collection_pointer": {
+            "id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
+            "table": "collection",
+            "spaceId": "f25e8375-dff8-499a-b7bf-74566e1055df"
+          },
+          "gallery_cover_size": "medium",
+          "collection_peek_mode": "full_page",
+          "gallery_cover_aspect": "cover"
+        },
+        "parent_id": "1ac3b07c-81ff-8068-828b-fec9cdc96765",
+        "parent_table": "block",
+        "alive": true,
+        "page_sort": [
+          "1ac3b07c-81ff-8089-98b4-ec9f8c06db35",
+          "1ad3b07c-81ff-80ba-be4c-ef2bb448c0e8",
+          "1ac3b07c-81ff-80ad-9d61-ef632d261b8f",
+          "1ad3b07c-81ff-803d-b570-dd34e00c1df5",
+          "1ad3b07c-81ff-80e4-8271-c7f781e181c3",
+          "1ad3b07c-81ff-809c-8204-e16483640fa5",
+          "1c83b07c-81ff-800b-a0c3-f295d7423d6d",
+          "1c83b07c-81ff-803f-99b6-f7010f54b710",
+          "3173b07c-81ff-8007-9e56-f698ccc5d61b",
+          "3173b07c-81ff-8001-882a-f4808ecf3cc9",
+          "3173b07c-81ff-8094-a02b-dd39382302cf",
+          "2573b07c-81ff-8076-8c97-c512393c2dc8",
+          "1b63b07c-81ff-809a-8e66-e4e88abf2006"
+        ],
+        "query2": {
+          "aggregations": [
+            {
+              "aggregator": "count"
+            }
+          ]
+        },
+        "space_id": "f25e8375-dff8-499a-b7bf-74566e1055df",
+        "created_time": 1773029610624,
+        "last_edited_time": 1773029610624,
+        "created_by_table": "notion_user",
+        "created_by_id": "4e3acacc-a0e3-4eec-9056-a8f06db6234a"
+      },
+      "role": "reader"
+    },
+    "5531d29a-4e77-406f-a1fc-32cd5bbafec7": {
+      "role": "none"
+    },
+    "5dd8ee8a-3d52-42e6-b781-ac5db580f283": {
+      "role": "none"
+    },
+    "401ba18e-ee37-450f-b369-015c2957f5d4": {
+      "role": "none"
+    },
+    "5961b724-b949-48b2-aef2-d5c03eacd1d8": {
+      "role": "none"
+    },
+    "1ad3b07c-81ff-8037-9574-000c12eb1c9d": {
+      "role": "none"
+    }
+  },
+  "collection_query": {}
+}
