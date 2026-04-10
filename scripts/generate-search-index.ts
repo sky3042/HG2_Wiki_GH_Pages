@@ -23,7 +23,7 @@ async function main() {
         const title = getBlockTitle(block, recordMap)
         const slug = block.format?.slug
 
-        if (title) {
+        if (title && pageId) {
           index.push({
             id: pageId,
             title,
