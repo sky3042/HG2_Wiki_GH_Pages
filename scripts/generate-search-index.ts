@@ -32,7 +32,7 @@ async function main() {
         }
       }
     } catch (err) {
-      console.warn(`Failed to parse ${file}:`, err.message)
+      console.warn(`Failed to parse ${file}:`, (err as any).message)
     }
   }
 
