@@ -14,9 +14,10 @@ async function main() {
   for (const file of files) {
     const filePath = path.join(DATA_DIR, file)
     try {
-      const recordMap = JSON.parse(fs.readFileSync(filePath, 'utf8'))
-      const pageId = Object.keys(recordMap.block)[0]
-      const block = recordMap.block[pageId]?.value
+      const recordMap = JSON.parse(fs.readFileSync(filePath, 'utf8')) as any
+      const pageIds = Object.keys(recordMap.block || {})
+      const pageId = pageIds[0]
+      const block = recordMap.block[pageId!]?.value
 
       if (block && block.type === 'page') {
         const title = getBlockTitle(block, recordMap)
