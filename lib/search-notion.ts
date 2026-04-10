@@ -24,6 +24,7 @@ async function searchNotionImpl(
           id: page.id,
           text: page.title,
           score: 1, // ダミースコア 
+          isNavigable: true,
           highlight: {
             text: page.title // 本来はクエリ部分を強調すべきですが簡易化のためそのまま
           }
