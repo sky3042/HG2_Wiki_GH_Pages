@@ -441,8 +441,7 @@ export async function getStaticProps() {
     }
     const data = JSON.parse(fs.readFileSync(jsonPath, 'utf8'))
     return {
-      props: { sheets: data },
-      revalidate: 10
+      props: { sheets: data }
     }
   } catch (err) {
     console.error('Failed to load spreadsheet data', err)

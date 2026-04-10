@@ -16,7 +16,7 @@
     "generate-search-index": "npx tsx scripts/generate-search-index.ts",
     "update": "npx tsx scripts/deploy.ts",
     "dev": "next dev",
-    "build": "next build && npm run generate-search-index",
+    "build": "npm run generate-sitemap && next build && npm run generate-search-index",
     "start": "next start",
     "deps:upgrade": "[ -z $GITHUB_ACTIONS ] && pnpm up -L notion-client notion-types notion-utils react-notion-x || echo 'Skipping deps:update on CI'",
     "deps:link": "[ -z $GITHUB_ACTIONS ] && run-s deps:link:* || echo 'Skipping deps:update on CI'",
