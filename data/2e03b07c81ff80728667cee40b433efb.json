@@ -103,7 +103,7 @@
         "parent_id": "31e3b07c-81ff-80d0-bbe3-000b7ba93c94",
         "parent_table": "collection",
         "created_time": 1767713627681,
-        "last_edited_time": 1775932800363
+        "last_edited_time": 1776101745001
       }
     },
     "31e3b07c-81ff-8042-8c5e-e6b18885e655": {
@@ -738,7 +738,7 @@
               ]
             ],
             [
-              " ：会心ダメージ。基本的には加算。デフォルトは200%"
+              " ：会心ダメージ（倍率）。基本的には加算。デフォルトは200%"
             ]
           ]
         },
@@ -752,7 +752,7 @@
         "parent_id": "2e03b07c-81ff-8072-8667-cee40b433efb",
         "parent_table": "block",
         "created_time": 1767713633360,
-        "last_edited_time": 1770732808696
+        "last_edited_time": 1776101757052
       }
     },
     "2e03b07c-81ff-80cd-9504-deff71c57f6a": {
