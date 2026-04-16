@@ -438,13 +438,12 @@
           "social_media_image_preview_url": "attachment:be9cbce0-06a0-4b7c-8c1e-9f055a7ae214:SocialMediaPreviewImage.png"
         },
         "content": [
-          "3173b07c-81ff-80b0-82e4-faf19a5ba709",
-          "3173b07c-81ff-801b-b219-d4d7e0a640dc"
+          "3173b07c-81ff-80b0-82e4-faf19a5ba709"
         ],
         "parent_id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
         "parent_table": "collection",
         "created_time": 1772440772984,
-        "last_edited_time": 1776269701164
+        "last_edited_time": 1776357667154
       }
     },
     "1ac3b07c-81ff-8068-828b-fec9cdc96765": {
@@ -563,23 +562,6 @@
         ],
         "created_time": 1772466843549,
         "last_edited_time": 1775218634846
-      }
-    },
-    "3173b07c-81ff-801b-b219-d4d7e0a640dc": {
-      "value": {
-        "id": "3173b07c-81ff-801b-b219-d4d7e0a640dc",
-        "type": "text",
-        "properties": {
-          "title": [
-            [
-              "test"
-            ]
-          ]
-        },
-        "parent_id": "3173b07c-81ff-8001-882a-f4808ecf3cc9",
-        "parent_table": "block",
-        "created_time": 1772467014741,
-        "last_edited_time": 1776269705397
       }
     },
     "1ac3b07c-81ff-8089-98b4-ec9f8c06db35": {
