@@ -103,7 +103,7 @@
         "parent_id": "31e3b07c-81ff-80d0-bbe3-000b7ba93c94",
         "parent_table": "collection",
         "created_time": 1767713627681,
-        "last_edited_time": 1776101745001
+        "last_edited_time": 1779786097842
       }
     },
     "31e3b07c-81ff-8042-8c5e-e6b18885e655": {
@@ -403,13 +403,13 @@
         },
         "content": [
           "2e03b07c-81ff-80d0-aac9-e5cfefc9edf1",
-          "2e03b07c-81ff-80c3-a93e-ef7a75ee84d4",
-          "2e03b07c-81ff-802a-aa08-c748e0c1af23"
+          "2e03b07c-81ff-802a-aa08-c748e0c1af23",
+          "2e03b07c-81ff-80c3-a93e-ef7a75ee84d4"
         ],
         "parent_id": "2e03b07c-81ff-8072-8667-cee40b433efb",
         "parent_table": "block",
         "created_time": 1767713633341,
-        "last_edited_time": 1770991794487
+        "last_edited_time": 1779786097842
       }
     },
     "2e03b07c-81ff-80bb-81a8-ea67f63fe838": {
@@ -1050,23 +1050,6 @@
         "last_edited_time": 1767717314600
       }
     },
-    "2e03b07c-81ff-80c3-a93e-ef7a75ee84d4": {
-      "value": {
-        "id": "2e03b07c-81ff-80c3-a93e-ef7a75ee84d4",
-        "type": "equation",
-        "properties": {
-          "title": [
-            [
-              "\\textstyle \n\\mathrm{\nATK = \n(\nATK_{base}\n\\times\nATK_{base\\%}\n+\n\\sum ATK_{add}\n)\n\\times\n\\prod (1+\\sum ATK_{\\%})\n}"
-            ]
-          ]
-        },
-        "parent_id": "2e03b07c-81ff-8081-bbf6-d684badb5382",
-        "parent_table": "block",
-        "created_time": 1767717326010,
-        "last_edited_time": 1767717355019
-      }
-    },
     "2e03b07c-81ff-802a-aa08-c748e0c1af23": {
       "value": {
         "id": "2e03b07c-81ff-802a-aa08-c748e0c1af23",
@@ -1088,7 +1071,24 @@
         "parent_id": "2e03b07c-81ff-8081-bbf6-d684badb5382",
         "parent_table": "block",
         "created_time": 1767713633341,
-        "last_edited_time": 1770732815495
+        "last_edited_time": 1779786097842
+      }
+    },
+    "2e03b07c-81ff-80c3-a93e-ef7a75ee84d4": {
+      "value": {
+        "id": "2e03b07c-81ff-80c3-a93e-ef7a75ee84d4",
+        "type": "equation",
+        "properties": {
+          "title": [
+            [
+              "\\textstyle \n\\mathrm{\nATK = \n(\nATK_{base}\n\\times\nATK_{base\\%}\n+\n\\sum ATK_{add}\n)\n\\times\n\\prod (1+\\sum ATK_{\\%})\n}"
+            ]
+          ]
+        },
+        "parent_id": "2e03b07c-81ff-8081-bbf6-d684badb5382",
+        "parent_table": "block",
+        "created_time": 1767717326010,
+        "last_edited_time": 1767717355019
       }
     },
     "2e03b07c-81ff-803c-b29b-f10cc6cc6c7b": {
@@ -3770,7 +3770,7 @@
         "parent_id": "31e3b07c-81ff-80d0-bbe3-000b7ba93c94",
         "parent_table": "collection",
         "created_time": 1759488314374,
-        "last_edited_time": 1774162996030
+        "last_edited_time": 1779795655244
       }
     },
     "28f3b07c-81ff-8037-8280-c4a6bf7a56f2": {
@@ -4528,12 +4528,31 @@
           "31f3b07c-81ff-807f-b363-f695e2047ff4",
           "3203b07c-81ff-808c-b8f7-dbd736b365fc",
           "31f3b07c-81ff-8008-a3e5-e319c62f9b2f",
-          "3203b07c-81ff-80f2-a024-ca4477e9dd25"
+          "3203b07c-81ff-80f2-a024-ca4477e9dd25",
+          "3443b07c-81ff-8024-961d-fd93c5d95c5b",
+          "3443b07c-81ff-80d9-8147-e209f8dc84c3",
+          "3443b07c-81ff-80e6-b46d-cf5466c4d80f",
+          "3443b07c-81ff-8089-8f3a-c6452e089d4c",
+          "3443b07c-81ff-8047-93e9-c393fd427942",
+          "3443b07c-81ff-80f2-b805-c91a1002fdfe",
+          "3443b07c-81ff-8055-8b38-d39903297b11",
+          "3443b07c-81ff-808f-a771-d5c910e190df",
+          "3443b07c-81ff-808a-bbf4-f366314885e0",
+          "3443b07c-81ff-8052-8c71-ebe37920f9b9",
+          "3443b07c-81ff-8099-bca6-d9f403d9ff68",
+          "3443b07c-81ff-8087-8444-f460a1fbf0a8",
+          "3443b07c-81ff-8088-9d3c-f6c4097fdee1",
+          "3443b07c-81ff-80eb-b997-eb5611289cd7",
+          "3443b07c-81ff-808e-bae7-e6f94c30375d",
+          "3443b07c-81ff-8033-a120-fc21472108c4",
+          "3443b07c-81ff-80c4-8107-d2e1f1ef0651",
+          "3453b07c-81ff-80c3-b14a-f38c18dce12b",
+          "3453b07c-81ff-8076-b1fb-cd23ade73fae"
         ],
         "parent_id": "31e3b07c-81ff-80d0-bbe3-000b7ba93c94",
         "parent_table": "collection",
         "created_time": 1773076240400,
-        "last_edited_time": 1773813302620
+        "last_edited_time": 1776429843925
       }
     },
     "3273b07c-81ff-80b6-bcc7-d616d1dfae92": {
@@ -4838,7 +4857,7 @@
         "parent_id": "2813b07c-81ff-805c-afb1-cb31163b9008",
         "parent_table": "block",
         "created_time": 1768292562730,
-        "last_edited_time": 1768292570540
+        "last_edited_time": 1779795655244
       }
     },
     "2813b07c-81ff-8135-bed1-e0d6700a1ac2": {
@@ -11334,15 +11353,12 @@
           "social_media_image_preview_url": "attachment:be9cbce0-06a0-4b7c-8c1e-9f055a7ae214:SocialMediaPreviewImage.png"
         },
         "content": [
-          "3173b07c-81ff-8064-aaac-cbd5eeb99c40",
-          "3173b07c-81ff-8000-b7e8-e057a9eb240d",
-          "3173b07c-81ff-80b0-82e4-faf19a5ba709",
-          "3173b07c-81ff-801b-b219-d4d7e0a640dc"
+          "3173b07c-81ff-80b0-82e4-faf19a5ba709"
         ],
         "parent_id": "1ac3b07c-81ff-8086-a96b-000b78a078f2",
         "parent_table": "collection",
         "created_time": 1772440772984,
-        "last_edited_time": 1772475345616
+        "last_edited_time": 1776357667154
       }
     },
     "3173b07c-81ff-8007-9e56-f698ccc5d61b": {
@@ -12956,7 +12972,7 @@
           "3173b07c-81ff-8065-b43e-000cb88af24f"
         ],
         "created_time": 1772466267079,
-        "last_edited_time": 1774447197731
+        "last_edited_time": 1779106085312
       }
     },
     "31a3b07c-81ff-80d1-9457-dcbda3b3f132": {
@@ -13059,7 +13075,7 @@
           "3173b07c-81ff-8005-a080-000c27804230"
         ],
         "created_time": 1772433800415,
-        "last_edited_time": 1774163728400
+        "last_edited_time": 1777313527933
       }
     },
     "27d3b07c-81ff-8066-b271-e38d7d66d7a2": {
@@ -13197,26 +13213,6 @@
         "last_edited_time": 1773317353758
       }
     },
-    "3173b07c-81ff-8064-aaac-cbd5eeb99c40": {
-      "value": {
-        "id": "3173b07c-81ff-8064-aaac-cbd5eeb99c40",
-        "type": "text",
-        "parent_id": "3173b07c-81ff-8001-882a-f4808ecf3cc9",
-        "parent_table": "block",
-        "created_time": 1772441045003,
-        "last_edited_time": 1772441045005
-      }
-    },
-    "3173b07c-81ff-8000-b7e8-e057a9eb240d": {
-      "value": {
-        "id": "3173b07c-81ff-8000-b7e8-e057a9eb240d",
-        "type": "text",
-        "parent_id": "3173b07c-81ff-8001-882a-f4808ecf3cc9",
-        "parent_table": "block",
-        "created_time": 1772441041923,
-        "last_edited_time": 1772441041927
-      }
-    },
     "3173b07c-81ff-80b0-82e4-faf19a5ba709": {
       "value": {
         "id": "3173b07c-81ff-80b0-82e4-faf19a5ba709",
@@ -13243,17 +13239,7 @@
           "3173b07c-81ff-80a7-828f-000c639abac4"
         ],
         "created_time": 1772466843549,
-        "last_edited_time": 1775218634846
-      }
-    },
-    "3173b07c-81ff-801b-b219-d4d7e0a640dc": {
-      "value": {
-        "id": "3173b07c-81ff-801b-b219-d4d7e0a640dc",
-        "type": "text",
-        "parent_id": "3173b07c-81ff-8001-882a-f4808ecf3cc9",
-        "parent_table": "block",
-        "created_time": 1772467014741,
-        "last_edited_time": 1772467014744
+        "last_edited_time": 1777916899468
       }
     },
     "3173b07c-81ff-8066-82d3-c5b55eba3dcb": {
